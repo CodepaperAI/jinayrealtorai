@@ -2,7 +2,19 @@ node_modules/
 .next/
 out/
 *.log
-.env*.local
+.env
+.env.*
+!.env.example
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude Code per-machine state
+.claude/settings.local.json
+.claude/*.local.json
+.claude/.todos/
+.claude/.runtime/
+
+# IDE
+.idea/
+.vscode/
