@@ -1,7 +1,241 @@
 {
   "version": 1,
-  "count": 5,
+  "count": 6,
   "projects": [
+    {
+      "id": 21,
+      "slug": "wild-indigo",
+      "project_name": "Wild Indigo",
+      "developer": null,
+      "city": "Breslau",
+      "address": null,
+      "project_type": "mixed-use (townhome / detached)",
+      "status": "public launch",
+      "starting_price": 640699.0,
+      "price_per_sqft": null,
+      "unit_count": 1600,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg",
+      "cover_image_source": "gallery[0]:exterior:source-url",
+      "page_plan": {
+        "hero": {
+          "headline": "Wild Indigo: Master-Planned Breslau Community",
+          "subhead": "Madison Group's 1,600-home freehold enclave on the Grand River brings towns and detached homes minutes from Kitchener-Waterloo's tech core.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Towns from",
+            "value": "$640,699"
+          },
+          {
+            "label": "Detached from",
+            "value": "$720,345"
+          },
+          {
+            "label": "Total Homes",
+            "value": "1,600"
+          },
+          {
+            "label": "Deposit",
+            "value": "8% down"
+          }
+        ],
+        "urgency_signals": [
+          "Zero Development Charges",
+          "5 min to future Breslau GO",
+          "Freehold Ownership",
+          "Phase 1 Now Selling"
+        ],
+        "story_md": "Wild Indigo is Madison Group's newest master-planned community located off Fountain Street North in Breslau, and one of the largest residential developments coming to the Kitchener-Waterloo Region. The community delivers a freehold mix of single detached homes and traditional townhomes on the doorstep of the Grand River, with towns priced from $640,699 and 27' detached homes from $720,345 \u2014 both after the HST rebate.\n\nThe scale is the story here. With a total of 1,600 homes, the community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums. The first phase of development, set to launch in 2025, will introduce 289 carefully crafted homes. Among these are Two-Storey Freehold Traditional Townhomes, ranging in size from 1,408 to 1,662 square feet, each designed with private backyards. Buyers can also size up into 27', 34', or 40' detached lots, giving every household \u2014 first-time, move-up, or downsizer \u2014 a footprint that fits.\n\nLocation underwrites the investment case. It's a 5 minute drive to the future Breslau GO station, 13 minutes to Kitchener GO station, 12 minutes to Highway 8, 15 minutes to Highway 401, and a 90 minute train ride from Kitchener GO to Union Station. Major employers including Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing all sit within 10-15 minutes, and top universities like the University of Waterloo and Wilfrid Laurier University are a short drive away with quick access to Conestoga Parkway.\n\nThe VIP launch package is unusually rich for the Waterloo Region: zero development charges, an 8% deposit, a 6-piece appliance package, and a $125,000 bonus of premium finishes. Combined with up to $130,000 in HST rebate eligibility, the all-in entry point is one of the most aggressive in the GTA-West pre-construction market.",
+        "selling_points": [
+          {
+            "title": "1,600-Home Master-Planned Scale",
+            "body": "The community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums, anchoring long-term value through Madison's full build-out."
+          },
+          {
+            "title": "Freehold Ownership, No Condo Fees",
+            "body": "Wild Indigo's commitment to providing freehold ownership grants homeowners and investors a greater degree of control over their properties \u2014 no condo corporation overhead."
+          },
+          {
+            "title": "Zero Development Charges",
+            "body": "Capped development levies and zero DCs save buyers a line-item that typically runs five figures at closing \u2014 a rare incentive in the current market."
+          },
+          {
+            "title": "$125,000 Premium Finishes Bonus",
+            "body": "Madison's VIP package layers in a 6-piece appliance suite plus $125,000 of bonus finishes \u2014 value baked into the purchase, not negotiated at design centre."
+          },
+          {
+            "title": "Waterloo Region Tech Backstop",
+            "body": "Major employers such as Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing sit within 10-15 minutes, supporting a deep end-user and rental pool."
+          },
+          {
+            "title": "Two-Way GO Service Coming",
+            "body": "A 5 minute drive to the future Breslau GO station and a 90 minute train ride from Kitchener GO to Union position Wild Indigo as a Toronto commuter play before the infrastructure prices in."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Freehold Townhome",
+            "sqft": "1,408\u20131,662",
+            "price_from": "$640,699",
+            "notes": "Two-storey traditional towns with private backyards (after HST rebate)."
+          },
+          {
+            "type": "27' Detached",
+            "sqft": "\u2014",
+            "price_from": "$720,345",
+            "notes": "After HST rebate."
+          },
+          {
+            "type": "34' Detached",
+            "sqft": "\u2014",
+            "price_from": "$861,938",
+            "notes": "After HST rebate."
+          },
+          {
+            "type": "40' Detached",
+            "sqft": "up to 3,522",
+            "price_from": "$994,681",
+            "notes": "Largest lot offering; after HST rebate."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Total Deposit",
+            "value": "8% down",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Own with just 8% down",
+            "value": null
+          },
+          {
+            "title": "Zero development charges",
+            "value": null
+          },
+          {
+            "title": "6-piece appliance package included",
+            "value": null
+          },
+          {
+            "title": "Bonus package & premium finishes",
+            "value": "$125,000"
+          },
+          {
+            "title": "Assignment rights available",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Grand River trails",
+          "Community parks",
+          "Walking & cycling paths",
+          "Stormwater ponds",
+          "Private backyards (towns)",
+          "Family-friendly streetscapes"
+        ],
+        "location": {
+          "blurb": "Located at the corner of Fountain Street North and Ottawa Street, Wild Indigo at The Grand River is a thoughtfully designed master-planned community that seamlessly blends modern living with natural beauty. Breslau sits at the geographic centre of Kitchener, Waterloo, Cambridge, and Guelph, with the Grand River, scenic trails, and the Region of Waterloo International Airport all minutes away.",
+          "transit": [
+            "5 min to future Breslau GO Station (two-way service planned)",
+            "13 min to Kitchener GO Station",
+            "12 min to Highway 8",
+            "15 min to Highway 401",
+            "90 min train Kitchener GO \u2192 Union Station",
+            "Grand River Transit local service"
+          ],
+          "schools": [
+            "St. Boniface School",
+            "Woodland Christian High School",
+            "Edna Staebler Public School",
+            "Elizabeth Ziegler Public School",
+            "University of Waterloo (15 min)",
+            "Wilfrid Laurier University (15 min)"
+          ],
+          "retail": [
+            "Conestoga Mall (130+ stores)",
+            "Cambridge Centre",
+            "Fairview Park Mall",
+            "Walmart & Costco nearby",
+            "Bingemans Amusement Park (7 min)",
+            "Chicopee ski & disc golf (12 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Exterior-View-of-Townhome-Units-1-v15.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Streetscape-View-of-Detached-Homes-Exteriors-4-v15.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Detached-Model-Living-Dining-Space-5-v15.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Detached-Model-Kitchen-Living-Space-6-v15.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Madison Group",
+          "blurb": "Madison's expertise and passion are built on a foundation of more than 55 years and three generations of hard work and commitment to exceptional environments. Madison's extensive portfolio includes mixed-use high-rise projects, low-rise master-planned communities, office, retail, prestige industrial, rental, and retirement properties throughout Toronto and New York."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure at Wild Indigo?",
+            "a": "Wild Indigo is offered with just 8% down \u2014 a meaningfully lower deposit than the typical 15\u201320% required on most GTA pre-construction freehold projects."
+          },
+          {
+            "q": "What home types and price points are available?",
+            "a": "After HST rebate: freehold townhomes from $640,699, 27' detached from $720,345, 34' detached from $861,938, and 40' detached from $994,681. Phase 1 includes 289 of 1,600 planned homes."
+          },
+          {
+            "q": "How big are the homes?",
+            "a": "Two-storey freehold traditional townhomes range from 1,408 to 1,662 sq ft with private backyards. Detached homes scale up to roughly 3,522 sq ft on 40' lots."
+          },
+          {
+            "q": "Are assignments allowed?",
+            "a": "Yes \u2014 assignment rights are available as part of the current VIP/Platinum incentive package. Confirm specific terms in your APS."
+          },
+          {
+            "q": "What incentives are included at this launch?",
+            "a": "Up to $130,000 in HST rebate eligibility, zero development charges, 8% down deposit, a 6-piece appliance package, and a $125,000 bonus package of premium finishes."
+          }
+        ],
+        "meta": {
+          "title": "Wild Indigo by Madison Group | Breslau Pre-Construction",
+          "description": "Madison Group's 1,600-home master-planned Breslau community. Freehold towns from $640,699, detached from $720,345. 8% down, zero DCs, $125K bonus."
+        },
+        "sources": [
+          "https://madisongroup.ca/residential/wild-indigo/",
+          "https://condonow.com/Wild-Indigo-Homes",
+          "https://wildindigoinbreslau.com/"
+        ]
+      },
+      "updated_at": "2026-05-14 03:41:53"
+    },
     {
       "id": 20,
       "slug": "minto--arcadia-kanata",
