@@ -1,7 +1,561 @@
 {
   "version": 1,
-  "count": 6,
+  "count": 7,
   "projects": [
+    {
+      "id": 22,
+      "slug": "fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection",
+      "project_name": "Glen Abbey Encore \u2013 Lifestyle Townhomes An Encore Collection",
+      "developer": "Fernbrook Homes",
+      "city": "Oakville",
+      "address": "Bronte Rd & Upper Middle Rd W, Oakville, ON",
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 800000.0,
+      "price_per_sqft": null,
+      "unit_count": 76,
+      "completion_date": "2027-Q3",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1mYy7afeoP78N_xEy1qVbqo3XFZiC7BTx",
+      "cover_image_url": null,
+      "cover_image_source": null,
+      "page_plan": {
+        "hero": {
+          "headline": "Glen Abbey Encore \u2014 Oakville's Ravine Townhomes",
+          "subhead": "Fernbrook's freehold back-to-back towns and linked detached homes in one of Oakville's last new-build pockets, backing onto 14 Mile Creek.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": null
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$861,858 (after HST rebate)"
+          },
+          {
+            "label": "Size Range",
+            "value": "1,626 \u2013 3,342 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Aug \u2013 Sep 2027"
+          },
+          {
+            "label": "Total Homes",
+            "value": "76 units"
+          }
+        ],
+        "urgency_signals": [
+          "Back-to-Back Towns from $949,900",
+          "$3,000 Assignment Fee",
+          "Development Charges capped at $3,500",
+          "Ravine-backed enclave"
+        ],
+        "story_md": "Glen Abbey Encore is Fernbrook Homes' final act in Oakville's most established neighbourhood \u2014 a freehold collection of back-to-back townhomes and linked detached homes at Bronte Road & Upper Middle Road West, backing onto the Fourteen Mile Creek greenbelt. The Lifestyle Townhomes collection delivers floor plans from 1,626 to 1,918 sq ft (with optional rooftop terraces), while the linked detached residences stretch up to 3,342 sq ft for buyers who need the full single-family footprint.\n\nThe location is the story. Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey, which is the practical reason inventory in this catchment trades at a premium. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby. The beautiful parks, beaches and marinas of Lake Ontario are just minutes south, and commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. An adjacent commercial plaza brings Canadian Tire, Longos, Walmart and LCBO within a few minutes.\n\nFor pre-construction buyers, the deal economics are clean. Back-to-Back Towns require $25,000 with offer plus $15,000 every 90 days to a total of $100,000 \u2014 a manageable 10% spread over the build cycle. Development charges are capped at $3,500, the assignment fee is locked at $3,000, and POTL fees come in around $108/month with hydro, gas and water separately metered. Lots with rooftop terraces are priced from $1,059,900, and end-unit Omega plans run $1,089,900.\n\nThe Cartier (Model 2101) and Omega (Model 2102) are the two Back-to-Back floor plans on offer, both built on Block 6, 7 and 8 with August\u2013September 2027 completion windows. Stainless steel KitchenAid appliances, granite/quartz counters, hardwood floors and AYA custom cabinetry are included \u2014 finishes are not the upgrade-list afterthought they typically are in this price bracket.",
+        "selling_points": [
+          {
+            "title": "Among the last builds in Glen Abbey",
+            "body": "Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey \u2014 a closed-supply story in a mature, high-demand Oakville catchment."
+          },
+          {
+            "title": "Ravine enclave backing 14 Mile Creek",
+            "body": "A ravine enclave community located at Upper Middle & Bronte Road \u00b7 Just 7 minutes to Bronte Waterfront & backing onto the 14 Mile Creek Greenbelt, with 300+ km of nearby trails."
+          },
+          {
+            "title": "Two Back-to-Back Town floor plans",
+            "body": "The Cartier (Model 2101) at 1,637 sq ft and the Omega (Model 2102) at 1,626 sq ft, both with 2/3 bedrooms and optional rooftop terraces that push square footage to 1,918."
+          },
+          {
+            "title": "Capped levies and low assignment fee",
+            "body": "Development Charges capped at $3,500 and a flat $3,000 Assignment Fee \u2014 material protection against the closing-cost surprises that hit most pre-con buyers."
+          },
+          {
+            "title": "Included KitchenAid appliance package",
+            "body": "Stainless Steel KitchenAid package including French Door Bottom-Freezer Fridge, Electric Range, Dishwasher, Hood Fan and Microwave \u2014 no upgrade required."
+          },
+          {
+            "title": "Connected commute corridor",
+            "body": "Commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. 12 minutes from Oakville Go Station, where you'll have easy access to both GO Train & Go Bus services."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Back-to-Back Town \u2014 Cartier (2101)",
+            "sqft": "1,637 (1,863 w/ rooftop terrace)",
+            "price_from": "$949,900",
+            "notes": "2/3 beds; $861,858 after HST rebate"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Cartier End",
+            "sqft": "1,683 (1,918 w/ rooftop terrace)",
+            "price_from": "$1,059,900",
+            "notes": "End-unit with rooftop terrace"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Omega (2102)",
+            "sqft": "1,626 (1,798 w/ rooftop terrace)",
+            "price_from": "$959,900",
+            "notes": "2/3 beds; $870,708 after HST rebate"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Omega End",
+            "sqft": "1,672 (1,848 w/ rooftop terrace)",
+            "price_from": "$1,089,900",
+            "notes": "End-unit with rooftop terrace"
+          },
+          {
+            "type": "Linked Detached \u2014 The Golf / Yacht / Sterling",
+            "sqft": "2,071 \u2013 2,263",
+            "price_from": "",
+            "notes": "2/3 beds (Sterling: 3 beds)"
+          },
+          {
+            "type": "Linked Detached \u2014 Bentley / Tiffany",
+            "sqft": "3,049 \u2013 3,342",
+            "price_from": "",
+            "notes": "4 beds, largest plans in the community"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "With Offer",
+            "value": "$25,000",
+            "due_at": "On signing"
+          },
+          {
+            "label": "Every 90 days",
+            "value": "$15,000",
+            "due_at": "Recurring"
+          },
+          {
+            "label": "Total Deposit",
+            "value": "$100,000",
+            "due_at": "Over ~15 months"
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Platinum VIP Pricing & First Access to Best Availability",
+            "value": null
+          },
+          {
+            "title": "Development Charges capped at $3,500",
+            "value": "$3,500"
+          },
+          {
+            "title": "Assignment Fee capped at $3,000",
+            "value": "$3,000"
+          },
+          {
+            "title": "Stainless Steel KitchenAid Appliance Package",
+            "value": null
+          },
+          {
+            "title": "Free Lawyer Review of Purchase Agreement",
+            "value": null
+          },
+          {
+            "title": "Free Mortgage Arrangements",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Optional rooftop terraces",
+          "On-site playground and park",
+          "Backs onto Fourteen Mile Creek greenbelt",
+          "Steps to Bronte Creek Provincial Park",
+          "Private single & double-car garages",
+          "Covered front porches",
+          "Main and upper floor balconies",
+          "9-ft ceilings on finished levels",
+          "AYA custom cabinetry",
+          "Granite/quartz counters",
+          "Hardwood flooring",
+          "Access to 14 Mile Creek Trail"
+        ],
+        "location": {
+          "blurb": "Glen Abbey Encore sits at Bronte Road & Upper Middle Road West in Oakville, backing onto the Fourteen Mile Creek greenbelt with Bronte waterfront 7 minutes south. There's great shopping, top rated public, separate and private schools, popular restaurants and more all close at hand \u2014 including an all new commercial plaza located adjacent to the community. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby.",
+          "transit": [
+            "5 min to Bronte GO Station",
+            "12 min to Oakville GO Station",
+            "1 min to Hwy 403",
+            "5 min to Hwy 407",
+            "10 min to QEW interchange"
+          ],
+          "schools": [
+            "Top-rated public, separate and private schools in Glen Abbey catchment"
+          ],
+          "retail": [
+            "Adjacent commercial plaza",
+            "Canadian Tire",
+            "Longos",
+            "Walmart",
+            "LCBO",
+            "Deerfield Golf Club (2 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://www.fernbrookhomes.com/img/glen-abbey-badge.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/neighbourhood-img.jpg",
+            "category": "neighbourhood"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/red-line.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/b2btowns/the-cartier.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/b2btowns/the-omega.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/b2btowns/the-rolex.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-golf-block-3.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-yacht-block-2.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-sterling-block-3.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-pendant-block-3.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-bentley-block-2.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.fernbrookhomes.com/img/renderings/detached-towns/fernbrook-towns-rendering-tiffany-block-2.jpg",
+            "category": "exterior"
+          }
+        ],
+        "developer": {
+          "name": "Fernbrook Homes",
+          "blurb": "Fernbrook has garnered an exceptional reputation for architectural integrity, classic design and custom-style luxury in a host of Southern Ontario locations extending across Metro and beyond. Led by industry visionary Danny Salvatore, and his son Joe, Fernbrook Homes has an eye for design that transcends the typical. For more than three decades, Fernbrook Homes has established itself as a seasoned developer known for crafting unforgettable and iconic residences. Renowned for its ability to construct unique communities, Fernbrook Homes unquestionably stands at the forefront of the Greater Toronto Area's real estate landscape."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure for the Back-to-Back Towns?",
+            "a": "$25,000 with offer, then $15,000 every 90 days to a total of $100,000. All deposits are payable to FERNBROOK HOMES (BRONTE GREEN 76) LTD."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Back-to-Back Town completion dates range from August 11, 2027 to September 16, 2027, depending on lot and block."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Assignment is permitted with a flat $3,000 assignment fee per the current incentive package."
+          },
+          {
+            "q": "Are development charges and levies capped?",
+            "a": "Yes \u2014 Development Charges are capped at $3,500 for purchases under the current incentive package, providing closing-cost certainty."
+          },
+          {
+            "q": "What are the monthly POTL fees and what do they include?",
+            "a": "Approximately $108 per month. Hydro, gas and water are separately metered and billed directly to the homeowner."
+          }
+        ],
+        "meta": {
+          "title": "Glen Abbey Encore by Fernbrook Homes | Oakville Pre-Construction",
+          "description": "Glen Abbey Encore: freehold back-to-back towns from $949,900 and linked detached homes by Fernbrook Homes in Oakville. Ravine setting, 2027 occupancy."
+        },
+        "sources": [
+          "https://www.fernbrookhomes.com/encore/",
+          "https://www.fernbrookhomes.com/residential/encore",
+          "https://www.allaccesshomes.ca/projects/glen-abbey-encore/"
+        ]
+      },
+      "updated_at": "2026-05-14 14:05:03"
+    },
+    {
+      "id": 20,
+      "slug": "minto--arcadia-kanata",
+      "project_name": "Arcadia Kanata",
+      "developer": "Minto",
+      "city": "Ottawa",
+      "address": "Huntmar Dr & Campeau Dr, Kanata, Ottawa, ON",
+      "project_type": "mixed-use",
+      "status": "VIP launch",
+      "starting_price": 360327.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1X51DJLlGwjXXRTSz6xaCbW6hpj7hzZrR",
+      "cover_image_url": null,
+      "cover_image_source": null,
+      "page_plan": {
+        "hero": {
+          "headline": "Arcadia Kanata \u2014 Minto's Master-Planned Community",
+          "subhead": "Townhomes and detached homes by Minto at Huntmar & Campeau, steps from Kanata's future LRT station and tech corridor.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$360,327"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "2-5"
+          },
+          {
+            "label": "Home Types",
+            "value": "Towns & Detached"
+          },
+          {
+            "label": "Location",
+            "value": "Kanata, Ottawa"
+          }
+        ],
+        "urgency_signals": [
+          "2-min walk to future LRT",
+          "Highway 417 access",
+          "Capped development levies",
+          "Free assignment (Metro Towns)"
+        ],
+        "story_md": "Arcadia is Minto Communities' master-planned neighbourhood at Huntmar Drive and Campeau Drive in central Kanata \u2014 a decade-old, established community now expanding with a new chapter of Metro Townhomes, Executive Townhomes, and 36' and 43' Detached Homes. Pricing for Metro Towns starts from $360,327 (excl. HST), with Executive Towns from $574,900 and Detached homes scaling up to just over $1M for the largest 43' Quinton with guest suite.\n\nThe location is the story. Arcadia sits directly within Kanata's entertainment and shopping district \u2014 minutes from Tanger Outlets, Kanata Centrum, and the Canadian Tire Centre \u2014 and a short drive to Kanata North Technology Park, one of Canada's largest tech employment hubs. A future Stage 2 O-Train (Campeau LRT) station is planned within a two-minute walk, and Highway 417 is reachable via Terry Fox Drive. That combination drives the rental demand thesis for investors and the commuter case for end-users.\n\nMinto has tailored this launch to a wide range of buyers. Metro Towns are 2-bedroom stacked towns with separate entrances, private outdoor space, and select underground parking \u2014 purpose-built for first-time buyers, with capped $0 development fees, right to lease during occupancy, free assignment (legal admin extra), and a 6-appliance package. Executive Towns and 36'/43' Detached homes scale up to 3-, 4-, and 5-bedroom layouts (including 4+ guest suite configurations) ideal for growing and multi-generational families.\n\nVIP buyers benefit from platinum pricing, Design Centre bonuses up to $10,000, hardwood flooring and quartz countertops, 9' main-floor ceilings, HST rebate savings of up to $130,000, plus free lawyer review and mortgage arrangements. Minto's GOHBA 2025 Production Builder of the Year recognition \u2014 its second consecutive win and sixth overall \u2014 backs the build quality.",
+        "selling_points": [
+          {
+            "title": "Master-planned by Minto",
+            "body": "Built by a 70-year Ottawa-based developer that has delivered over 100,000 homes across North America since 1955, and named GOHBA 2025 Production Builder of the Year."
+          },
+          {
+            "title": "Future LRT at your doorstep",
+            "body": "The planned Campeau Stage 2 O-Train station is within a two-minute walk, plus quick Highway 417 access via Terry Fox Drive for the downtown commute."
+          },
+          {
+            "title": "Diverse product mix",
+            "body": "Metro Towns from $360K, Executive Towns from $575K, and 36'/43' Detached from $775K \u2014 including 4+ guest-suite layouts for multi-generational households."
+          },
+          {
+            "title": "Investor-friendly Metro Towns",
+            "body": "Capped development fees at $0, right to lease during occupancy, and free assignment (legal admin fee extra) make Metro Towns a clean entry for investors."
+          },
+          {
+            "title": "HST savings up to $130,000",
+            "body": "VIP package includes HST rebate savings up to $130,000, plus Design Centre bonuses of up to $10,000 on detached homes and $5,000 on Executive Towns."
+          },
+          {
+            "title": "Kanata tech corridor",
+            "body": "Roughly 10 minutes to Kanata North Technology Park \u2014 one of Canada's largest tech employment clusters \u2014 supporting strong rental fundamentals."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Metro Town \u2014 Leaside",
+            "sqft": "1,063-1,081",
+            "price_from": "$360,327",
+            "notes": "2 Bed / 1.5 Bath, excl. HST"
+          },
+          {
+            "type": "Metro Town \u2014 Union",
+            "sqft": "1,260",
+            "price_from": "$395,632",
+            "notes": "2 Bed / 1.5 Bath, upper interior, excl. HST"
+          },
+          {
+            "type": "Executive Town \u2014 Cohen / Ashbury / Gladwell",
+            "sqft": "1,444-1,487",
+            "price_from": "$574,900",
+            "notes": "3 Bed / 2+ Bath"
+          },
+          {
+            "type": "Executive Town \u2014 Rockcliffe / Simcoe / Wynwood",
+            "sqft": "1,674-1,829",
+            "price_from": "$639,900",
+            "notes": "3-4 Bed / 2+ Bath"
+          },
+          {
+            "type": "36' Detached",
+            "sqft": "1,751-2,615",
+            "price_from": "$774,900",
+            "notes": "3-5 Bed / 2+ Bath; Waverley guest-suite plans available"
+          },
+          {
+            "type": "43' Detached",
+            "sqft": "2,726-3,402",
+            "price_from": "$889,900",
+            "notes": "3-5 Bed / 2-4+ Bath; Quinton 5+ guest suite to $1,014,900"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Metro Towns",
+            "value": "$10,000 signing + $10,000 at 60/90/120 days ($40,000 total)",
+            "due_at": null
+          },
+          {
+            "label": "Executive Towns",
+            "value": "$10,000 signing + $10,000 at 30/60/90/120/150 days ($60,000 total)",
+            "due_at": null
+          },
+          {
+            "label": "36' Detached",
+            "value": "$10,000 signing + $10,000 at 30 days + $15,000 at 60/90/120/150 days ($80,000 total)",
+            "due_at": null
+          },
+          {
+            "label": "43' Detached",
+            "value": "$15,000 signing + $15,000 at 30/60/90/120/150 days ($90,000 total)",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "HST rebate savings up to $130,000",
+            "value": null
+          },
+          {
+            "title": "Platinum VIP pricing & first access",
+            "value": null
+          },
+          {
+            "title": "$10,000 Design Centre bonus (36' & 43' Detached)",
+            "value": null
+          },
+          {
+            "title": "$5,000 Design Centre bonus (Executive Towns)",
+            "value": null
+          },
+          {
+            "title": "Capped development levies ($0 for Metro Towns)",
+            "value": null
+          },
+          {
+            "title": "Metro Towns: free assignment, right to lease, 6-appliance package",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Arcadia Park",
+          "Lyndon Hooper Park",
+          "Paine Pond",
+          "Campeau Pond",
+          "Carp River conservation area",
+          "Feedmill Creek",
+          "Multi-use pathway network",
+          "Brettonwood Parkette",
+          "Clearpath Park",
+          "9' smooth main-floor ceilings",
+          "Hardwood main-floor flooring",
+          "Quartz kitchen countertops"
+        ],
+        "location": {
+          "blurb": "Arcadia sits at Huntmar Dr & Campeau Dr in central Kanata, with a future LRT (Campeau Station) planned within a two-minute walk and Highway 417 reachable via Terry Fox Drive. The community is minutes from Tanger Outlets, Kanata Centrum, the Canadian Tire Centre, and Kanata North Technology Park.",
+          "transit": [
+            "Future Campeau LRT station within 2-min walk",
+            "Highway 417 via Terry Fox Drive (~5 min)",
+            "~10 min drive to Kanata North Tech Park"
+          ],
+          "schools": [],
+          "retail": [
+            "Tanger Outlets Ottawa (~2 km)",
+            "Kanata Centrum Shopping Centre (~2 km)",
+            "Canadian Tire Centre / Ottawa Senators arena (~3 km)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://media.minto.com/slideshows/1956/original/BOTY6x_01_475x370.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/slideshows/1956/original/475.jpg",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/SFH_330x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Townhome_300x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Metro+Townhome_300x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Arcadia+Site+Plan_300x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Parkside+Site+Plan_300x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Gallery_300x263.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/NEighbourhood_300x263.png",
+            "category": "neighbourhood"
+          },
+          {
+            "url": "https://media.minto.com/ottawa/home/file/Amenity+map_300x263.png",
+            "category": "amenity"
+          },
+          {
+            "url": "https://www.minto.com/mintocom/media/socmed/redesign2017/tiktok.png",
+            "category": "exterior"
+          },
+          {
+            "url": "https://www.minto.com/mintocom/media/socmed/redesign2017/facebook.png",
+            "category": "exterior"
+          }
+        ],
+        "developer": {
+          "name": "Minto Communities",
+          "blurb": "Family-owned Ottawa-based builder operating since 1955, with more than 100,000 homes delivered across North America. Named GOHBA's 2025 Production Builder of the Year \u2014 its second consecutive win and sixth overall."
+        },
+        "faq": [
+          {
+            "q": "What's the deposit structure?",
+            "a": "It varies by product. Metro Towns: $10,000 on signing plus $10,000 at 60/90/120 days ($40,000 total). Executive Towns: $10,000 on signing plus $10,000 at 30/60/90/120/150 days ($60,000 total). 36' Detached: $10,000 on signing, $10,000 at 30 days, and $15,000 at 60/90/120/150 days ($80,000 total). 43' Detached: $15,000 on signing plus $15,000 at 30/60/90/120/150 days ($90,000 total)."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes \u2014 Metro Towns include free assignment (legal admin fee extra). Right to lease during occupancy is also included on Metro Towns."
+          },
+          {
+            "q": "What VIP incentives are included?",
+            "a": "Platinum VIP pricing and first access, HST rebate savings up to $130,000, Design Centre bonuses ($10,000 on Detached / $5,000 on Executive Towns), 6-appliance package on Towns, 9' smooth main-floor ceilings, hardwood main-floor flooring, quartz kitchen counters, capped development levies, free lawyer review, and free mortgage arrangements."
+          },
+          {
+            "q": "How close is transit?",
+            "a": "A future Stage 2 O-Train (Campeau LRT) station is planned within a two-minute walk, and Highway 417 is accessible via Terry Fox Drive \u2014 roughly 5 minutes west."
+          },
+          {
+            "q": "Where exactly is Arcadia located?",
+            "a": "Huntmar Drive & Campeau Drive in Kanata, Ottawa. The Minto sales centre is at 380 Huntmar Drive, Kanata, ON K2S 1B9."
+          }
+        ],
+        "meta": {
+          "title": "Arcadia Kanata by Minto \u2014 Ottawa Pre-Construction Homes",
+          "description": "Arcadia by Minto at Huntmar & Campeau, Kanata: Metro Towns from $360K, Executive Towns and 36'/43' Detached. VIP pricing, HST savings up to $130K."
+        },
+        "sources": [
+          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/main.html",
+          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/collections.html",
+          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/Metro-Towns~2726.html"
+        ]
+      },
+      "updated_at": "2026-05-14 03:43:41"
+    },
     {
       "id": 21,
       "slug": "wild-indigo",
@@ -235,283 +789,6 @@
         ]
       },
       "updated_at": "2026-05-14 03:41:53"
-    },
-    {
-      "id": 20,
-      "slug": "minto--arcadia-kanata",
-      "project_name": "Arcadia Kanata",
-      "developer": "Minto",
-      "city": "Ottawa",
-      "address": "Huntmar Dr & Campeau Dr, Kanata, Ottawa, ON",
-      "project_type": "mixed-use",
-      "status": "VIP launch",
-      "starting_price": 360327.0,
-      "price_per_sqft": null,
-      "unit_count": null,
-      "completion_date": null,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1X51DJLlGwjXXRTSz6xaCbW6hpj7hzZrR",
-      "cover_image_url": null,
-      "cover_image_source": null,
-      "page_plan": {
-        "hero": {
-          "headline": "Arcadia Kanata \u2014 Minto's Master-Planned Community",
-          "subhead": "Metro Towns, Executive Towns and 36'/43' Detached homes at Huntmar & Campeau, minutes from Kanata's tech hub and future LRT.",
-          "urgency_chip": "VIP Launch",
-          "savings_chip": "Save up to $130,000"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$360,327"
-          },
-          {
-            "label": "Bedrooms",
-            "value": "2-5"
-          },
-          {
-            "label": "Home Types",
-            "value": "Towns & Detached"
-          },
-          {
-            "label": "Address",
-            "value": "380 Huntmar Dr, Kanata"
-          }
-        ],
-        "urgency_signals": [
-          "2-min walk to future Campeau LRT",
-          "Hwy 417 access via Terry Fox Dr",
-          "Capped development levies",
-          "Free assignment (Metro Towns)"
-        ],
-        "story_md": "Arcadia is a west-end master-planned community by Minto Communities featuring urban townhomes, executive townhomes, and single-family bungalow and two-storey designs at Huntmar Drive & Campeau Drive in central Kanata. The newest phase brings together Metro Towns from $360,327, Executive Towns from the high $500s, and 36' & 43' Detached homes priced up to $1,014,900 \u2014 a rare lineup that lets first-time buyers, move-up families and investors all find a fit in one community.\n\nLocation is the headline. The site sits north of the #417 Trans-Canada Hwy between Huntmar Dr & Terry Fox Dr, just minutes from central Kanata. With easy access to transit opportunities, including the future LRT Campeau station, and close proximity to Highway 417, getting around becomes truly effortless. The Canadian Tire Centre, Tanger Outlets and Kanata Centrum are all within a short drive, and the Kanata North Tech Park \u2014 one of Canada's largest tech employment nodes \u2014 anchors strong end-user and rental demand.\n\nThe product mix is built for flexibility. Metro Towns are innovative, stacked townhomes crafted to complement a modern lifestyle in Kanata. These new townhomes offer flexible 2-bedroom floorplans with 3-piece bathrooms, a separate entrance for each home and private outdoor spaces like large ground-level patios or generous balconies. Select homes will also offer underground parking. Detached buyers can step up to four- and five-bedroom plans on 36' and 43' lots, with several layouts available as Dual Key Homes \u2014 purpose-built for multi-generational families or rental income.\n\nVIP launch incentives stack meaningfully: HST rebate savings of up to $130,000, design-centre bonuses ($10,000 on detached, $5,000 on Executive Towns), a 6-appliance package on the towns, capped development levies, and \u2014 on the Metro Towns \u2014 right to lease during occupancy and free assignment. Minto was named GOHBA's 2025 Production Builder of the Year, marking the second consecutive win and sixth time receiving this recognition.",
-        "selling_points": [
-          {
-            "title": "One community, four product tiers",
-            "body": "Metro Towns from $360,327, Executive Towns from $574,900, and 36'/43' Detached up to $1,014,900 \u2014 buyers can size up or scale back without leaving the neighbourhood."
-          },
-          {
-            "title": "Future LRT at your doorstep",
-            "body": "Arcadia sits within a short walk of the planned Campeau Station on Ottawa's Stage 2 O-Train extension, with Highway 417 just minutes south."
-          },
-          {
-            "title": "Kanata tech-corridor demand",
-            "body": "Minutes from Kanata North Tech Park, the Canadian Tire Centre, Tanger Outlets and Kanata Centrum \u2014 the daily-needs anchors that drive resale and rental velocity."
-          },
-          {
-            "title": "Dual-Key & multi-gen layouts",
-            "body": "Select Juno and Lexington 43' detached plans are offered as Dual Key Homes, and Quinton 5 + Guest Suite delivers a separate-entrance suite \u2014 ideal for extended families or rental offset."
-          },
-          {
-            "title": "Investor-friendly Metro Towns",
-            "body": "Capped development fees at $0, free assignment (legal admin extra), right to lease during occupancy, and a 6-appliance package \u2014 all bundled on the entry-priced Metro Town releases."
-          },
-          {
-            "title": "Award-winning builder",
-            "body": "Minto was named GOHBA's 2025 Production Builder of the Year \u2014 its second consecutive win and sixth overall \u2014 with more than 100,000 homes built since 1955."
-          }
-        ],
-        "suites": [
-          {
-            "type": "Metro Town \u2014 Leaside Lower End (2B/1.5B)",
-            "sqft": "1,081",
-            "price_from": "$360,327",
-            "notes": "Excludes HST"
-          },
-          {
-            "type": "Metro Town \u2014 Leaside Lower Interior (2B/1.5B)",
-            "sqft": "1,063",
-            "price_from": "$377,979",
-            "notes": "Excludes HST"
-          },
-          {
-            "type": "Metro Town \u2014 Union Upper Interior (2B/1.5B)",
-            "sqft": "1,260",
-            "price_from": "$395,632",
-            "notes": "Excludes HST"
-          },
-          {
-            "type": "Executive Town \u2014 Cohen / Ashbury (3B)",
-            "sqft": "1,444-1,451",
-            "price_from": "$574,900",
-            "notes": "Traditional two-storey"
-          },
-          {
-            "type": "Executive Town \u2014 Wynwood Corner (4B)",
-            "sqft": "1,829",
-            "price_from": "$699,900",
-            "notes": "Premium corner unit"
-          },
-          {
-            "type": "43' Detached \u2014 Quinton 5 + Guest Suite",
-            "sqft": "3,402",
-            "price_from": "$1,014,900",
-            "notes": "5BR + separate guest suite"
-          }
-        ],
-        "deposit_timeline": [
-          {
-            "label": "Metro Towns \u2014 On signing",
-            "value": "$10,000",
-            "due_at": null
-          },
-          {
-            "label": "Metro Towns \u2014 60 / 90 / 120 days",
-            "value": "$10,000 each ($40,000 total)",
-            "due_at": null
-          },
-          {
-            "label": "43' Detached \u2014 On signing",
-            "value": "$15,000",
-            "due_at": null
-          },
-          {
-            "label": "43' Detached \u2014 Months 1-5",
-            "value": "$15,000 every 30 days ($90,000 total)",
-            "due_at": null
-          }
-        ],
-        "incentives": [
-          {
-            "title": "HST Rebate Savings up to $130,000",
-            "value": "$130,000"
-          },
-          {
-            "title": "$10,000 Design Centre Bonus (36' & 43' Detached)",
-            "value": "$10,000"
-          },
-          {
-            "title": "$5,000 Design Centre Bonus (Executive Towns)",
-            "value": "$5,000"
-          },
-          {
-            "title": "6 Appliance Package (Metro & Executive Towns)",
-            "value": null
-          },
-          {
-            "title": "Capped Development Fees: $0 (Metro Towns)",
-            "value": null
-          },
-          {
-            "title": "Free Assignment \u2014 Metro Towns (legal admin extra)",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Arcadia Park",
-          "Lyndon Hooper Park",
-          "Brettonwood Parkette",
-          "Clearpath Park",
-          "Paine Pond",
-          "Campeau Pond",
-          "Carp River Conservation Area",
-          "Feedmill Creek",
-          "Multi-use pathway network",
-          "Future Campeau LRT Station (2-min walk)",
-          "Tanger Outlets Ottawa",
-          "Kanata Centrum Shopping Centre"
-        ],
-        "location": {
-          "blurb": "Located in the heart of Kanata's thriving entertainment hub, Parkside at Arcadia offers an exceptional collection of attainable Metro Towns and Avenue Townhomes. Scenic pathways weave through the community, seamlessly connecting you to serene natural areas such as Feedmill Creek, Carp River and Paine Pond.",
-          "transit": [
-            "Future LRT Campeau Station \u2014 within a 2-min walk",
-            "Highway 417 access via Terry Fox Drive interchange (~5 min)",
-            "~22 km west of downtown Ottawa"
-          ],
-          "schools": [],
-          "retail": [
-            "Tanger Outlets Ottawa (~2 km)",
-            "Kanata Centrum Shopping Centre (~2 km)",
-            "Canadian Tire Centre \u2014 Ottawa Senators arena (~3 km)",
-            "Kanata North Tech Park (~10 min drive)"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://media.minto.com/slideshows/1956/original/BOTY6x_01_475x370.jpg",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/slideshows/1956/original/475.jpg",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/SFH_330x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Townhome_300x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Metro+Townhome_300x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Arcadia+Site+Plan_300x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Parkside+Site+Plan_300x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Gallery_300x263.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/NEighbourhood_300x263.png",
-            "category": "neighbourhood"
-          },
-          {
-            "url": "https://media.minto.com/ottawa/home/file/Amenity+map_300x263.png",
-            "category": "amenity"
-          },
-          {
-            "url": "https://www.minto.com/mintocom/media/socmed/redesign2017/tiktok.png",
-            "category": "exterior"
-          },
-          {
-            "url": "https://www.minto.com/mintocom/media/socmed/redesign2017/facebook.png",
-            "category": "exterior"
-          }
-        ],
-        "developer": {
-          "name": "Minto Communities",
-          "blurb": "Minto has built over 100,000 homes across North America since its launch in 1955. The builder was named GOHBA's 2025 Production Builder of the Year, marking the second consecutive win and sixth time receiving this recognition."
-        },
-        "faq": [
-          {
-            "q": "What is the deposit structure?",
-            "a": "It varies by product. Metro Towns: $10,000 on signing plus $10,000 at 60/90/120 days ($40,000 total). Executive Towns: $60,000 total over 30/60/90/120/150 days. 36' Detached: $80,000 total. 43' Detached: $15,000 on signing plus $15,000 every 30 days through 150 days ($90,000 total). Cheques are payable to Soloway Wright LLP in Trust (Metro Towns) or Minto Communities Inc. (Detached)."
-          },
-          {
-            "q": "Are assignments allowed?",
-            "a": "Yes \u2014 on the Metro Towns release, Minto is offering free assignment (a legal admin fee is extra). Confirm terms for other product types directly through the sales centre."
-          },
-          {
-            "q": "Can I lease during occupancy?",
-            "a": "The Metro Towns include a Right to Lease During Occupancy, which is rare for pre-construction stacked towns and a key benefit for investors."
-          },
-          {
-            "q": "What is the HST rebate worth?",
-            "a": "The advertised HST Rebate Savings are up to $130,000, subject to eligibility, government criteria and program terms. Not all purchasers or homes may qualify, and Metro Town pricing is shown excluding HST."
-          },
-          {
-            "q": "Where exactly is the project?",
-            "a": "Arcadia is at Huntmar Drive & Campeau Drive in Kanata, with the sales centre at 380 Huntmar Drive, Kanata, ON K2S 1B9. The site sits north of Highway 417 between Huntmar Dr and Terry Fox Dr, within a 2-minute walk of the future LRT Campeau Station."
-          }
-        ],
-        "meta": {
-          "title": "Arcadia Kanata by Minto \u2014 Ottawa Pre-Construction Homes",
-          "description": "Arcadia by Minto in Kanata, Ottawa: Metro Towns from $360,327, Executive Towns and 36'/43' Detached homes. Future LRT, HST rebate up to $130,000."
-        },
-        "sources": [
-          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/main.html",
-          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/Neighbourhood~633.html",
-          "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/Site-Plan~1191.html"
-        ]
-      },
-      "updated_at": "2026-05-14 03:37:06"
     },
     {
       "id": 19,
