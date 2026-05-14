@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "count": 1,
+  "projects": [
+    {
+      "id": 19,
+      "slug": "primont--wasaga-walk",
+      "project_name": "Wasaga Walk",
+      "developer": "Primont Homes",
+      "city": "Wasaga Beach",
+      "address": null,
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 449990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": null,
+      "cover_image_source": null,
+      "page_copy": {
+        "hero_headline": "Wasaga Walk: Freehold Townhomes on Nottawasaga Bay",
+        "hero_subhead": "3\u20135 bedroom freehold townhomes by Primont Homes, priced from $449,990 after HST rebate, steps from Ontario's most-visited provincial park.",
+        "description_md": "**Wasaga Walk** is a limited-release collection of freehold townhomes by Primont Homes, located at 66th Street North and Mosley Street in Wasaga Beach \u2014 steps from Nottawasaga Bay and the world's longest freshwater beach. The project launches in Summer 2025, making this VIP phase one of the earliest entry points into a supply-constrained beachside market.\n\nLayouts span 3, 4, and 5 bedrooms, with pricing from $449,990 after HST rebate. As freehold tenure, these homes carry no condo fees \u2014 a distinction that broadens both affordability and resale appeal. Qualified buyers may save up to $130,000 through the HST rebate program; the advertised starting price reflects that saving applied.\n\nPrimont Homes brings over 50 years of building experience and a portfolio of 5,000-plus homes across the GTA. For investors, the project is structured as assignment-eligible pre-construction in a municipality recording 20-plus percent population growth, supported by a $38-million provincial Destination Wasaga investment and a new Marriott Hotel currently under construction at Beach Area 1. These demand-side factors position Wasaga Beach as an active appreciation market rather than a purely seasonal one.\n\nWasaga Walk suits GTA-based families seeking a year-round recreational property or a primary residence with highway connectivity, as well as investors looking for pre-construction exposure in a resort market with demonstrable infrastructure investment and a constrained freehold supply.",
+        "key_features": [
+          "Freehold townhomes \u2014 no condo fees",
+          "3, 4, and 5 bedroom layouts available",
+          "From $449,990 after HST rebate",
+          "HST rebate up to $130,000 for qualified buyers",
+          "VIP launch \u2014 limited release, first-come access",
+          "Built by Primont Homes \u2014 50+ years, 5,000+ homes",
+          "Assignment eligible \u2014 investor-friendly structure",
+          "Summer 2025 launch, Wasaga Beach"
+        ],
+        "neighborhood_blurb": "Wasaga Walk connects directly to Highway 26, with Highway 400 nearby, placing Barrie within approximately 30 minutes and Collingwood within a 10-minute drive. Wasaga Beach Provincial Park \u2014 Ontario's most-visited, with six beach areas and extensive hiking trails \u2014 is 12 minutes away, while Collingwood General and Marine Hospital and the Wasaga Beach Farmers' Market are both under 10 minutes from the site.",
+        "faq": [
+          {
+            "q": "What is the starting price, and does it include HST?",
+            "a": "Townhomes at Wasaga Walk start from $449,990. That figure reflects the HST rebate already applied for qualified buyers. Eligible purchasers can save up to $130,000 through this rebate."
+          },
+          {
+            "q": "Are these freehold homes, or is there a condo fee?",
+            "a": "These are freehold townhomes. There are no monthly condo fees."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Wasaga Walk is structured as an assignment-eligible pre-construction project."
+          },
+          {
+            "q": "When is the project launching, and what does VIP access mean?",
+            "a": "The project is scheduled to launch Summer 2025. VIP access is a limited, first-come-first-served pre-launch release \u2014 typically offering early suite selection before public pricing is released."
+          },
+          {
+            "q": "Who is the developer, and what is their track record?",
+            "a": "Wasaga Walk is built by Primont Homes, a GTA-based builder with over 50 years of experience and more than 5,000 homes completed across the region."
+          }
+        ],
+        "meta_title": "Wasaga Walk by Primont Homes | Wasaga Beach Pre-Construction",
+        "meta_description": "Wasaga Walk offers 3\u20135 bedroom freehold townhomes in Wasaga Beach from $449,990 after HST rebate \u2014 no condo fees, VIP launch, built by Primont Homes."
+      },
+      "updated_at": "2026-05-14 02:11:54"
+    }
+  ]
+}

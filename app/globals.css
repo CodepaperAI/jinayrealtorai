@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #fafaf9;
+  --color-foreground: #1a1a1a;
+  --color-muted: #6b6b6b;
+  --color-subtle: #3a3a3a;
+  --color-border: #e5e5e5;
+  --color-accent: #c8102e;
+  --color-accent-dark: #a00d24;
+  --color-card: #ffffff;
+
+  --font-display: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html, body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Markdown content rendered inside ProjectDetailBody */
+.prose-jinay p { margin-block: 0.9rem; line-height: 1.65; }
+.prose-jinay p:first-child { margin-top: 0; }
+.prose-jinay h2 { font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.6rem; letter-spacing: -0.01em; }
+.prose-jinay h3 { font-size: 1.15rem; font-weight: 600; margin-top: 1.4rem; margin-bottom: 0.4rem; }
+.prose-jinay ul { list-style-type: disc; padding-left: 1.25rem; margin-block: 0.9rem; }
+.prose-jinay ul li { margin-block: 0.3rem; }
+.prose-jinay strong { font-weight: 600; }
