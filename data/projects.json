@@ -1,7 +1,277 @@
 {
   "version": 1,
-  "count": 8,
+  "count": 9,
   "projects": [
+    {
+      "id": 25,
+      "slug": "laurier-yorkwood--caledon-trails",
+      "project_name": "Caledon Trails",
+      "developer": "Laurier Homes & Yorkwood Homes",
+      "city": "Caledon",
+      "address": "Mayfield Rd & McLaughlin Rd, Caledon, ON",
+      "project_type": "mixed-use (townhome / detached)",
+      "status": "VIP launch",
+      "starting_price": 650000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1YdKPaVQ26k9--JBRGtYgowbizCACczTX",
+      "cover_image_url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnjq.png",
+      "cover_image_source": "gallery[0]:exterior:source-url",
+      "page_plan": {
+        "hero": {
+          "headline": "Caledon Trails: 20-Foot Towns & Detached Homes",
+          "subhead": "Master-planned community by Laurier Homes and Yorkwood Homes at Mayfield Road and McLaughlin Road in fast-growing South Caledon.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnjq.png"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "From $650K"
+          },
+          {
+            "label": "Home Sizes",
+            "value": "1,714 \u2013 3,500 sq ft"
+          },
+          {
+            "label": "Home Types",
+            "value": "Towns, Semis & Singles"
+          },
+          {
+            "label": "Occupancy",
+            "value": "2025"
+          }
+        ],
+        "urgency_signals": [
+          "$7,500 Capped Development Charges",
+          "Finished Basement Up To $75K Value",
+          "Assignment Available",
+          "HST Rebate Included"
+        ],
+        "story_md": "Caledon Trails is a master-planned community by Laurier Homes and Yorkwood Homes featuring towns, semis and single-detached homes at the intersection of Mayfield Road and McLaughlin Road in South Caledon. The community sits on the Brampton\u2013Caledon border, blending small-town Caledon character with quick access to the GTA's highway and GO network. With 1,200 planned units, this is one of the area's most significant new releases.\n\nThe townhome program is built on 20-foot lots and runs from the 1,714 sq ft Holly to the 2,580 sq ft Hickory end unit \u2014 every floorplan offers a double-car garage and three bedrooms (with several plans configurable up to five or six bedrooms plus optional in-law or bachelor suites). Detached releases include 30', 36' and 42' frontages reaching up to roughly 3,500 sq ft, with pricing on the detached collection starting from $1.1 Million.\n\nThis is a deliberate investor and end-user play. Caledon's population is forecast to climb from 80,000 to over 200,000 by 2041, Highway 410 provides access to the 407, 401 and 403, and Peel Region faces a projected shortfall of roughly 174,900 homes by 2031 \u2014 supply pressure that supports long-run pricing. The community sits about 5 minutes from Highway 410 and 10 minutes from Mount Pleasant GO Station, which offers GO Train, GO Bus and Zum service.\n\nIncentives at the VIP launch include $7,500 capped development charges, a finished basement package valued up to $75,000 on select lots, a stainless appliance package, 9-foot second-floor ceilings, assignment rights, and the HST rebate included (up to $130,000 in savings, subject to eligibility).",
+        "selling_points": [
+          {
+            "title": "Rare 20-Foot Double-Garage Towns",
+            "body": "Six townhome designs from 1,714 to 2,580 sq ft, every plan with a double-car garage and three bedrooms expandable up to five or six with optional in-law or bachelor suites."
+          },
+          {
+            "title": "Two Veteran GTA Builders",
+            "body": "Built by Laurier Homes (since 1976) and Yorkwood Homes (since the 1950s), whose combined legacy includes more than 10,000 homes and award-winning communities."
+          },
+          {
+            "title": "Highway 410 & Mount Pleasant GO",
+            "body": "Five minutes from Highway 410, ten minutes from Mount Pleasant GO Station, and under an hour to Toronto's Union Station by GO Bus."
+          },
+          {
+            "title": "Capped Development Charges",
+            "body": "$7,500 cap on development levies protects buyers from closing-cost escalation \u2014 a tangible savings on a pre-construction purchase."
+          },
+          {
+            "title": "Finished Basement Up to $75K Value",
+            "body": "On select lots, the basement is delivered finished with a rec room, bathroom and wet bar \u2014 value up to $75,000 (not available on move-in-ready inventory)."
+          },
+          {
+            "title": "Caledon's Long-Term Growth Story",
+            "body": "Caledon's population is forecast to grow from 80,000 to over 200,000 by 2041, while Peel Region faces a projected shortfall of 174,900 homes by 2031."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Holly \u2014 20' Town",
+            "sqft": "1,714",
+            "price_from": "",
+            "notes": "3 bed, Elev. A & B"
+          },
+          {
+            "type": "Douglas \u2014 20' Town",
+            "sqft": "1,812",
+            "price_from": "",
+            "notes": "3 bed with study nook option"
+          },
+          {
+            "type": "Primrose \u2014 20' Town",
+            "sqft": "1,950",
+            "price_from": "",
+            "notes": "3 bed + up to 2 optional beds; in-law suite option"
+          },
+          {
+            "type": "Sycamore End Unit \u2014 20' Town",
+            "sqft": "2,290",
+            "price_from": "",
+            "notes": "3 bed + up to 3 optional beds"
+          },
+          {
+            "type": "Marigold Corner Unit \u2014 20' Town",
+            "sqft": "2,550",
+            "price_from": "",
+            "notes": "3 bed + optional additional bed"
+          },
+          {
+            "type": "Hickory End Unit \u2014 20' Town",
+            "sqft": "2,580",
+            "price_from": "",
+            "notes": "3 bed + bachelor suite + optional bed"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Move-In Ready \u2014 On Signing",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "Move-In Ready \u2014 30 Days",
+            "value": "Balance to 5%",
+            "due_at": null
+          },
+          {
+            "label": "30' Detached \u2014 On Signing",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "30' Detached \u2014 60/120/180 Days",
+            "value": "$30,000 each",
+            "due_at": null
+          },
+          {
+            "label": "30' Detached \u2014 240 Days",
+            "value": "Balance to 10%",
+            "due_at": null
+          },
+          {
+            "label": "36'/38'/42' Detached",
+            "value": "$25,000 + $40,000 \u00d73, balance to 10% by 240 days",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "HST Rebate Included \u2014 save up to $130,000",
+            "value": null
+          },
+          {
+            "title": "$7,500 Capped Development Charges",
+            "value": null
+          },
+          {
+            "title": "Finished Basement (Rec Room, Bath, Wet Bar) \u2014 up to $75,000 value on select lots",
+            "value": null
+          },
+          {
+            "title": "Appliance Package: Stainless Fridge, Stove, Dishwasher + Washer/Dryer",
+            "value": null
+          },
+          {
+            "title": "9' Ceilings on Second Floor",
+            "value": null
+          },
+          {
+            "title": "Assignment Available + Free Lawyer Review & Mortgage Arrangements",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Parks and protected greenspace",
+          "Community trails & Caledon Trailway access",
+          "Forks of the Credit Provincial Park",
+          "Cheltenham Badlands",
+          "Belfountain Conservation Area",
+          "Heart Lake Conservation Park (6 min)",
+          "Equestrian parks",
+          "Sheridan College \u2013 Davis Campus nearby",
+          "Brampton Civic Hospital nearby",
+          "Bramalea City Centre & Trinity Common"
+        ],
+        "location": {
+          "blurb": "Caledon Trails sits at Mayfield Road & McLaughlin Road on the Brampton\u2013Caledon border. It's five minutes to Highway 410 (linking to the 407, 401 and 403) and ten minutes to Mount Pleasant GO Station with GO Train, GO Bus and Zum service. Toronto Pearson International Airport is roughly 20 minutes away.",
+          "transit": [
+            "5 min to Highway 410",
+            "10 min to Mount Pleasant GO Station",
+            "Under 60 min to Union Station via GO",
+            "20 min to Pearson Airport",
+            "Brampton Transit & Zum routes nearby"
+          ],
+          "schools": [
+            "Sheridan College \u2013 Davis Campus (15 min)",
+            "Centennial Sr. Public School",
+            "Brampton Centennial Secondary School",
+            "Peel District School Board catchment"
+          ],
+          "retail": [
+            "Bramalea City Centre (13 min)",
+            "Trinity Common Mall",
+            "Walmart, Fortinos, Canadian Tire, RONA, Chapters",
+            "Brampton Farmers Market & The Apple Factory"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnjq.png",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://0w3m7.mjt.lu/img2/0w3m7/7e5aa1e5-e301-4e2a-8b85-d7c0d5b368ea/content",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://0w3m7.mjt.lu/img2/0w3m7/d86b2782-f004-4c32-a053-c563f5cfa182/content",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnqw.png",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnqx.gif",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Laurier Homes & Yorkwood Homes",
+          "blurb": "Laurier Homes has built across the GTA since 1976 in Oakville, Mississauga, Milton, Richmond Hill, Scarborough and Markham, and Yorkwood Homes is a family business started by Joe Godfrey in early-1950s Toronto, with ten thousand homes and three generations of building behind it."
+        },
+        "faq": [
+          {
+            "q": "What's the deposit structure?",
+            "a": "Move-in Ready homes: $25,000 on signing with balance to 5% in 30 days. 30' Detached: $25,000 on signing, $30,000 at 60/120/180 days, balance to 10% at 240 days. 36'/38'/42' Detached: $25,000 on signing, $40,000 at 60/120/180 days, balance to 10% at 240 days."
+          },
+          {
+            "q": "Is assignment permitted?",
+            "a": "Yes \u2014 assignment is available as part of the VIP launch package, along with free lawyer review of the purchase agreement and free mortgage arrangements."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Occupancy is targeted for 2025, with move-in-ready inventory also available."
+          },
+          {
+            "q": "How does the HST rebate work?",
+            "a": "The HST rebate is included in the purchase price (subject to eligibility), and buyers can save up to $130,000."
+          },
+          {
+            "q": "What's included in the finished basement incentive?",
+            "a": "On select lots, the basement is delivered finished with a rec room, bathroom and wet bar \u2014 valued up to $75,000. It is not available on move-in-ready or built inventory."
+          }
+        ],
+        "meta": {
+          "title": "Caledon Trails Towns & Detached | Laurier & Yorkwood | Caledon",
+          "description": "Caledon Trails by Laurier Homes & Yorkwood Homes \u2014 20-foot towns from the mid $600s and detached singles at Mayfield & McLaughlin in South Caledon."
+        },
+        "sources": [
+          "https://caledontrails.ca/",
+          "https://caledontrail.ca/",
+          "https://therealtybulls.com/project/caledon-trails/"
+        ]
+      },
+      "updated_at": "2026-05-14 20:40:40"
+    },
     {
       "id": 23,
       "slug": "miracle-team--keswick-heights-townhomes",
