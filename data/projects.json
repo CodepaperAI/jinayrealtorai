@@ -1,7 +1,216 @@
 {
   "version": 1,
-  "count": 7,
+  "count": 8,
   "projects": [
+    {
+      "id": 23,
+      "slug": "miracle-team--keswick-heights-townhomes",
+      "project_name": "Keswick Heights Townhomes",
+      "developer": "Miracle Team",
+      "city": "Edmonton",
+      "address": "Keswick Heights, Southwest Edmonton, AB",
+      "project_type": "townhome",
+      "status": "pre-construction",
+      "starting_price": 334900.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://www.keswick-landing.community/images/home/homeHero1.jpg",
+      "cover_image_source": "gallery[0]:exterior:source-url",
+      "page_plan": {
+        "hero": {
+          "headline": "Keswick Heights Townhomes \u2014 Southwest Edmonton",
+          "subhead": "Pre-construction 3-bed, 2.5-bath condo townhomes in Keswick, Edmonton's fastest-growing southwest community, starting from the low $330s.",
+          "urgency_chip": "Limited Release",
+          "savings_chip": null,
+          "image_url": "https://www.keswick-landing.community/images/home/homeHero1.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$334,900"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3 Bed / 2.5 Bath"
+          },
+          {
+            "label": "Size",
+            "value": "1,114\u20131,302 sqft"
+          },
+          {
+            "label": "Condo Fee",
+            "value": "$190/mo"
+          }
+        ],
+        "urgency_signals": [
+          "From low $330s",
+          "5% + 5% deposit",
+          "$6,500 appliance credit",
+          "Assignment-eligible"
+        ],
+        "story_md": "Keswick Heights Townhomes is a pre-construction collection of modern condo townhouses by Miracle Team in the Keswick community of Southwest Edmonton \u2014 a master-planned neighbourhood bordered by the North Saskatchewan River and minutes from the Windermere retail corridor. Two floorplans are offered: Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900, both with three bedrooms, 2.5 bathrooms, 9-foot ceilings and quartz countertops throughout.\n\nFor end-users, the appeal is space and finish at a southwest Edmonton entry price: Model P includes a double attached garage, a full unfinished basement to grow into, and a rear deck, while every home benefits from a low $190/month condo fee covering property insurance, common-area maintenance, grass cutting and snow removal. Keswick itself is built around walking trails, constructed wetlands, the Arbour of Keswick playground, Keswick Pond, and two area schools (Joan Carr and Dr. Anne Anderson High School).\n\nFor investors, the structure is straightforward and capital-efficient. The deposit is 5% on signing and 5% in six months \u2014 well under the 15\u201320% typically required on Ontario pre-construction \u2014 and the contract permits assignment for a flat $2,500 + GST, providing a clean exit before closing. A $6,500 appliance credit at The Brick Store further reduces move-in cost. Edmonton's relative affordability versus Toronto and Vancouver, combined with steady population growth into the southwest quadrant, frames the underwriting case.\n\nClosings are targeted for 2026. Suite selection and premium/non-premium lots are limited, and the Model T cashback promotion is being run on a limited-time basis.",
+        "selling_points": [
+          {
+            "title": "Two efficient 3-bed floorplans",
+            "body": "Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900 \u2014 both 3 bed / 2.5 bath with 9-ft ceilings and quartz countertops throughout."
+          },
+          {
+            "title": "Model P: double garage + basement",
+            "body": "Model P includes a double attached garage and a full unfinished basement that buyers can finish to their own spec, plus a rear deck off the back."
+          },
+          {
+            "title": "Capital-light 5% + 5% deposit",
+            "body": "Only 5% down at signing and another 5% in six months \u2014 a fraction of typical Ontario pre-construction deposit schedules."
+          },
+          {
+            "title": "Ultra-low $190/month condo fee",
+            "body": "Monthly fee covers property insurance, common-area maintenance, grass cutting and snow removal \u2014 keeping carrying costs predictable for owners and landlords."
+          },
+          {
+            "title": "$6,500 appliance credit",
+            "body": "Buyers receive a $6,500 credit at The Brick Store to outfit the home at closing."
+          },
+          {
+            "title": "Assignment permitted",
+            "body": "Contract allows assignment for a flat $2,500 + GST, giving investors a defined pre-closing exit option."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Model T \u2014 3B/2.5B (Non-Premium)",
+            "sqft": "1,114",
+            "price_from": "$334,900",
+            "notes": "9-ft ceilings, quartz counters, rear deck."
+          },
+          {
+            "type": "Model T \u2014 3B/2.5B (Premium)",
+            "sqft": "1,114",
+            "price_from": "$339,900",
+            "notes": "Premium lot positioning."
+          },
+          {
+            "type": "Model P \u2014 3B/2.5B (Non-Premium)",
+            "sqft": "1,302",
+            "price_from": "$369,900",
+            "notes": "Double attached garage, full unfinished basement, rear deck."
+          },
+          {
+            "type": "Model P \u2014 3B/2.5B (Premium)",
+            "sqft": "1,302",
+            "price_from": "$374,900",
+            "notes": "Premium lot positioning; double garage + basement."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "5%",
+            "due_at": null
+          },
+          {
+            "label": "6 months after signing",
+            "value": "5%",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "$6,500 appliance credit at The Brick Store",
+            "value": "$6,500"
+          },
+          {
+            "title": "Assignment option available",
+            "value": "$2,500 + GST"
+          },
+          {
+            "title": "Low condo fees \u2014 covers insurance, grass, snow",
+            "value": "$190/mo"
+          },
+          {
+            "title": "4% co-op commission net of GST for agents",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Arbour of Keswick playground",
+          "Keswick Pond",
+          "River Valley walking trails",
+          "Parks and constructed wetlands",
+          "Rabbit Hill Snow Resort nearby",
+          "Golf courses nearby",
+          "Joan Carr K\u20139 School nearby",
+          "Dr. Anne Anderson High School nearby"
+        ],
+        "location": {
+          "blurb": "Keswick sits in Southwest Edmonton, bordered by the North Saskatchewan River to the west, with quick access via Anthony Henday Drive, Terwillegar Drive and Ellerslie Road. Windermere's retail and dining corridor and two area schools are minutes away.",
+          "transit": [
+            "South of Anthony Henday Drive (ring road)",
+            "Access via Terwillegar Drive",
+            "Access via Ellerslie Road"
+          ],
+          "schools": [
+            "Joan Carr Catholic Elementary/Junior High",
+            "Dr. Anne Anderson High School",
+            "Joey Moss K\u20139 School nearby"
+          ],
+          "retail": [
+            "Currents of Windermere",
+            "Windermere Crossing",
+            "South Edmonton Common (~10 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://www.keswick-landing.community/images/home/homeHero1.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://files.constantcontact.com/04b780ce901/bac0fb02-d567-47bc-8654-c2bdee963753.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Miracle Team",
+          "blurb": ""
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "5% on signing and a further 5% six months later \u2014 a total of 10% spread across two installments."
+          },
+          {
+            "q": "Can I assign my unit before closing?",
+            "a": "Yes. Assignment is permitted for a flat fee of $2,500 plus GST."
+          },
+          {
+            "q": "What are the condo fees and what do they cover?",
+            "a": "$190 per month, covering property insurance, common-area maintenance, grass cutting and snow removal."
+          },
+          {
+            "q": "What's the difference between Model P and Model T?",
+            "a": "Both are 3-bed, 2.5-bath with 9-ft ceilings and quartz countertops. Model T is 1,114 sqft from $334,900. Model P is 1,302 sqft from $369,900 and adds a double attached garage and a full unfinished basement."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "The development is pre-construction with closings targeted for 2026."
+          }
+        ],
+        "meta": {
+          "title": "Keswick Heights Townhomes | Miracle Team | SW Edmonton Pre-Con",
+          "description": "Pre-construction 3-bed townhomes in Keswick, Southwest Edmonton by Miracle Team. From $334,900. 5% + 5% deposit, $6,500 appliance credit, assignment eligible."
+        },
+        "sources": [
+          "https://keswickheights.phonesites.com/",
+          "https://keswickheights.phonesites.com/homepage-copy",
+          "https://www.keswick-landing.community/"
+        ]
+      },
+      "updated_at": "2026-05-14 20:05:04"
+    },
     {
       "id": 22,
       "slug": "fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection",
