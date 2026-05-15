@@ -3,6 +3,910 @@
   "count": 9,
   "projects": [
     {
+      "id": 21,
+      "slug": "wild-indigo",
+      "project_name": "Wild Indigo",
+      "developer": null,
+      "city": "Breslau",
+      "address": null,
+      "project_type": "mixed-use (townhome / detached)",
+      "status": "public launch",
+      "starting_price": 640699.0,
+      "price_per_sqft": null,
+      "unit_count": 1600,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/01-exterior-MW6F7LW6EBejhQ8x8Xed0CnCDVBilT.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Wild Indigo: Master-Planned Breslau Community",
+          "subhead": "Madison Group's 1,600-home freehold enclave on the Grand River brings towns and detached homes minutes from Kitchener-Waterloo's tech core.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Towns from",
+            "value": "$640,699"
+          },
+          {
+            "label": "Detached from",
+            "value": "$720,345"
+          },
+          {
+            "label": "Total Homes",
+            "value": "1,600"
+          },
+          {
+            "label": "Deposit",
+            "value": "8% down"
+          }
+        ],
+        "urgency_signals": [
+          "Zero Development Charges",
+          "5 min to future Breslau GO",
+          "Freehold Ownership",
+          "Phase 1 Now Selling"
+        ],
+        "story_md": "Wild Indigo is Madison Group's newest master-planned community located off Fountain Street North in Breslau, and one of the largest residential developments coming to the Kitchener-Waterloo Region. The community delivers a freehold mix of single detached homes and traditional townhomes on the doorstep of the Grand River, with towns priced from $640,699 and 27' detached homes from $720,345 \u2014 both after the HST rebate.\n\nThe scale is the story here. With a total of 1,600 homes, the community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums. The first phase of development, set to launch in 2025, will introduce 289 carefully crafted homes. Among these are Two-Storey Freehold Traditional Townhomes, ranging in size from 1,408 to 1,662 square feet, each designed with private backyards. Buyers can also size up into 27', 34', or 40' detached lots, giving every household \u2014 first-time, move-up, or downsizer \u2014 a footprint that fits.\n\nLocation underwrites the investment case. It's a 5 minute drive to the future Breslau GO station, 13 minutes to Kitchener GO station, 12 minutes to Highway 8, 15 minutes to Highway 401, and a 90 minute train ride from Kitchener GO to Union Station. Major employers including Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing all sit within 10-15 minutes, and top universities like the University of Waterloo and Wilfrid Laurier University are a short drive away with quick access to Conestoga Parkway.\n\nThe VIP launch package is unusually rich for the Waterloo Region: zero development charges, an 8% deposit, a 6-piece appliance package, and a $125,000 bonus of premium finishes. Combined with up to $130,000 in HST rebate eligibility, the all-in entry point is one of the most aggressive in the GTA-West pre-construction market.",
+        "selling_points": [
+          {
+            "title": "1,600-Home Master-Planned Scale",
+            "body": "The community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums, anchoring long-term value through Madison's full build-out."
+          },
+          {
+            "title": "Freehold Ownership, No Condo Fees",
+            "body": "Wild Indigo's commitment to providing freehold ownership grants homeowners and investors a greater degree of control over their properties \u2014 no condo corporation overhead."
+          },
+          {
+            "title": "Zero Development Charges",
+            "body": "Capped development levies and zero DCs save buyers a line-item that typically runs five figures at closing \u2014 a rare incentive in the current market."
+          },
+          {
+            "title": "$125,000 Premium Finishes Bonus",
+            "body": "Madison's VIP package layers in a 6-piece appliance suite plus $125,000 of bonus finishes \u2014 value baked into the purchase, not negotiated at design centre."
+          },
+          {
+            "title": "Waterloo Region Tech Backstop",
+            "body": "Major employers such as Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing sit within 10-15 minutes, supporting a deep end-user and rental pool."
+          },
+          {
+            "title": "Two-Way GO Service Coming",
+            "body": "A 5 minute drive to the future Breslau GO station and a 90 minute train ride from Kitchener GO to Union position Wild Indigo as a Toronto commuter play before the infrastructure prices in."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Freehold Townhome",
+            "sqft": "1,408\u20131,662",
+            "price_from": "$640,699",
+            "notes": "Two-storey traditional towns with private backyards (after HST rebate)."
+          },
+          {
+            "type": "27' Detached",
+            "sqft": "\u2014",
+            "price_from": "$720,345",
+            "notes": "After HST rebate."
+          },
+          {
+            "type": "34' Detached",
+            "sqft": "\u2014",
+            "price_from": "$861,938",
+            "notes": "After HST rebate."
+          },
+          {
+            "type": "40' Detached",
+            "sqft": "up to 3,522",
+            "price_from": "$994,681",
+            "notes": "Largest lot offering; after HST rebate."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Total Deposit",
+            "value": "8% down",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Own with just 8% down",
+            "value": null
+          },
+          {
+            "title": "Zero development charges",
+            "value": null
+          },
+          {
+            "title": "6-piece appliance package included",
+            "value": null
+          },
+          {
+            "title": "Bonus package & premium finishes",
+            "value": "$125,000"
+          },
+          {
+            "title": "Assignment rights available",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Grand River trails",
+          "Community parks",
+          "Walking & cycling paths",
+          "Stormwater ponds",
+          "Private backyards (towns)",
+          "Family-friendly streetscapes"
+        ],
+        "location": {
+          "blurb": "Located at the corner of Fountain Street North and Ottawa Street, Wild Indigo at The Grand River is a thoughtfully designed master-planned community that seamlessly blends modern living with natural beauty. Breslau sits at the geographic centre of Kitchener, Waterloo, Cambridge, and Guelph, with the Grand River, scenic trails, and the Region of Waterloo International Airport all minutes away.",
+          "transit": [
+            "5 min to future Breslau GO Station (two-way service planned)",
+            "13 min to Kitchener GO Station",
+            "12 min to Highway 8",
+            "15 min to Highway 401",
+            "90 min train Kitchener GO \u2192 Union Station",
+            "Grand River Transit local service"
+          ],
+          "schools": [
+            "St. Boniface School",
+            "Woodland Christian High School",
+            "Edna Staebler Public School",
+            "Elizabeth Ziegler Public School",
+            "University of Waterloo (15 min)",
+            "Wilfrid Laurier University (15 min)"
+          ],
+          "retail": [
+            "Conestoga Mall (130+ stores)",
+            "Cambridge Centre",
+            "Fairview Park Mall",
+            "Walmart & Costco nearby",
+            "Bingemans Amusement Park (7 min)",
+            "Chicopee ski & disc golf (12 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/01-exterior-MW6F7LW6EBejhQ8x8Xed0CnCDVBilT.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/03-exterior-g4mOYEAHleJIrbqKDHG4c1LVhuponn.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/08-exterior-MQXrbNcNoeNyvdP83LA5txniYlP2O8.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/09-exterior-N7FjfdJJPYPXmxIIGeI8ZvWq4TSL4H.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/10-exterior-PRizikncuQe9hEcLfUWBdUuD9FehZJ.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/wild-indigo/11-interior-KS25r2J4sNu69nF5Ik1SsJ9duM2ixn.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Madison Group",
+          "blurb": "Madison's expertise and passion are built on a foundation of more than 55 years and three generations of hard work and commitment to exceptional environments. Madison's extensive portfolio includes mixed-use high-rise projects, low-rise master-planned communities, office, retail, prestige industrial, rental, and retirement properties throughout Toronto and New York."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure at Wild Indigo?",
+            "a": "Wild Indigo is offered with just 8% down \u2014 a meaningfully lower deposit than the typical 15\u201320% required on most GTA pre-construction freehold projects."
+          },
+          {
+            "q": "What home types and price points are available?",
+            "a": "After HST rebate: freehold townhomes from $640,699, 27' detached from $720,345, 34' detached from $861,938, and 40' detached from $994,681. Phase 1 includes 289 of 1,600 planned homes."
+          },
+          {
+            "q": "How big are the homes?",
+            "a": "Two-storey freehold traditional townhomes range from 1,408 to 1,662 sq ft with private backyards. Detached homes scale up to roughly 3,522 sq ft on 40' lots."
+          },
+          {
+            "q": "Are assignments allowed?",
+            "a": "Yes \u2014 assignment rights are available as part of the current VIP/Platinum incentive package. Confirm specific terms in your APS."
+          },
+          {
+            "q": "What incentives are included at this launch?",
+            "a": "Up to $130,000 in HST rebate eligibility, zero development charges, 8% down deposit, a 6-piece appliance package, and a $125,000 bonus package of premium finishes."
+          }
+        ],
+        "meta": {
+          "title": "Wild Indigo by Madison Group | Breslau Pre-Construction",
+          "description": "Madison Group's 1,600-home master-planned Breslau community. Freehold towns from $640,699, detached from $720,345. 8% down, zero DCs, $125K bonus."
+        },
+        "sources": [
+          "https://madisongroup.ca/residential/wild-indigo/",
+          "https://condonow.com/Wild-Indigo-Homes",
+          "https://wildindigoinbreslau.com/"
+        ]
+      },
+      "updated_at": "2026-05-15 15:51:28"
+    },
+    {
+      "id": 19,
+      "slug": "primont--wasaga-walk",
+      "project_name": "Wasaga Walk",
+      "developer": "Primont Homes",
+      "city": "Wasaga Beach",
+      "address": null,
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 449990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-O0LcSGFSfACp9hgjqNlHwNcLGNSmW2.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Wasaga Walk: Freehold Towns Steps from the Beach",
+          "subhead": "A limited collection of 3\u20135 bedroom freehold townhomes by Primont Homes at 66th Street North & Mosley Street, minutes from Wasaga Beach.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/wasaga-walk-townhomes-by-the-beach.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$449,990"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3\u20135"
+          },
+          {
+            "label": "Type",
+            "value": "Freehold Townhome"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Summer 2025 launch"
+          }
+        ],
+        "urgency_signals": [
+          "Steps to Wasaga Beach",
+          "Highway 26 & 400 access",
+          "Freehold \u2014 no condo fees",
+          "VIP first-access release"
+        ],
+        "story_md": "Wasaga Walk is a limited collection of freehold townhomes by Primont Homes, set at 66th Street North and Mosley Street in the heart of Wasaga Beach. The community sits minutes from the world's longest freshwater beach on Nottawasaga Bay, with 3\u20135 bedroom layouts designed for families, end-users, and investors who want resort-town living without condo fees.\n\nPricing starts at $449,990 after the HST rebate \u2014 a rare entry point in a market where the developer's published range opens from the $600,000s. Buyers in the VIP release get first access to floor plans and pricing before the public launch, with qualified purchasers eligible to save up to $130,000 through the HST rebate program.\n\nThe location is the investment story. Wasaga Beach is one of Ontario's fastest-growing municipalities, with population already up more than 20% and projected to double over the next 30 years. The province has committed a $38-million Destination Wasaga investment to redevelop the waterfront and downtown \u2014 adding a boutique hotel, river marina, music hall, and pedestrian bridge \u2014 work that is now moving from concept to construction. That public investment, paired with 14 km of shoreline drawing more than two million visitors a year, supports long-term appreciation and short-term rental demand.\n\nPrimont Homes has been building since 1971, with more than 5,000 homes delivered across the GTA under second-generation family leadership. For buyers who want pre-construction exposure to a supply-constrained resort market \u2014 backed by a builder with a 50-year track record \u2014 Wasaga Walk is one of the cleanest entry points on the board.",
+        "selling_points": [
+          {
+            "title": "Townhomes from $449,990 after HST rebate",
+            "body": "Entry pricing positions Wasaga Walk well below the developer's published from-the-$600,000s range, with the HST rebate saving qualified buyers up to $130,000."
+          },
+          {
+            "title": "Freehold tenure \u2014 no condo fees",
+            "body": "Primont is delivering a limited collection of freehold townhomes, so owners avoid monthly maintenance fees common to stacked or condo-titled product."
+          },
+          {
+            "title": "3\u20135 bedroom family layouts",
+            "body": "Floor plans span three to five bedrooms, sized for end-user families as well as multi-bedroom rental demand in a tourism-driven market."
+          },
+          {
+            "title": "Steps from the world's longest freshwater beach",
+            "body": "Located at 66th Street North and Mosley Street, the site is walking distance to Nottawasaga Bay's 14 km of sandy shoreline across eight beach areas."
+          },
+          {
+            "title": "$38M Destination Wasaga catalyst",
+            "body": "A provincial $38-million investment is redeveloping the downtown and waterfront with a boutique hotel, river marina, and pedestrian bridge \u2014 backing long-term appreciation."
+          },
+          {
+            "title": "Built by Primont Homes \u2014 50+ years, 5,000+ homes",
+            "body": "Founded in 1971 and now under second-generation family leadership, Primont has delivered more than 5,000 homes across the GTA."
+          }
+        ],
+        "suites": [
+          {
+            "type": "3 Bedroom Townhome",
+            "sqft": "",
+            "price_from": "$449,990",
+            "notes": "After HST rebate"
+          },
+          {
+            "type": "4 Bedroom Townhome",
+            "sqft": "",
+            "price_from": "",
+            "notes": ""
+          },
+          {
+            "type": "5 Bedroom Townhome",
+            "sqft": "up to ~2,100",
+            "price_from": "",
+            "notes": "Largest plan in the collection"
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "HST rebate for qualified buyers \u2014 save up to $130,000",
+            "value": "$130,000"
+          },
+          {
+            "title": "Starting price of $449,990 is net of HST rebate",
+            "value": null
+          },
+          {
+            "title": "VIP first-access pricing and floor plans",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Walking access to Wasaga Beach",
+          "Nottawasaga Bay waterfront",
+          "Wasaga Beach Provincial Park trails",
+          "Kayaking & paddling minutes from home",
+          "Local Farmers' Market \u2014 4 min drive",
+          "Skull Island Adventure Golf \u2014 11 min"
+        ],
+        "location": {
+          "blurb": "Wasaga Walk is set at 66th Street North and Mosley Street, a short walk to the world's longest freshwater beach and minutes from Wasaga Beach Provincial Park. Highway 26 and Highway 400 connect residents to Barrie, Collingwood, Blue Mountain, and the GTA, and Colltrans and Simcoe County LINX provide regional transit options.",
+          "transit": [
+            "Highway 26 nearby",
+            "Highway 400 within reach",
+            "Colltrans & Simcoe County LINX transit",
+            "~10 min drive to Collingwood",
+            "~8 min to Georgian College South Georgian Bay Campus"
+          ],
+          "schools": [
+            "Wasaga Beach Public School",
+            "St. Noel Chabanel Catholic Elementary",
+            "Worsley Elementary"
+          ],
+          "retail": [
+            "Wasaga Beach Farmers' Market \u2014 4 min drive",
+            "Wasaga Beach Provincial Park \u2014 12 min",
+            "Collingwood General & Marine Hospital \u2014 10 min",
+            "Royal Victoria Regional Health Centre, Barrie"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-O0LcSGFSfACp9hgjqNlHwNcLGNSmW2.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/02-exterior-E3sadGoDckhBuqgAPyGIltRGmBR6Mh.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/04-exterior-4fX82qaGxJnDM3wEaU4InjOJhYrjyR.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/09-neighbourhood-4ToUNRz2TECnp4nR35zOVE6QS4hWH1.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/10-neighbourhood-9uYtMHMtuGS8v85EZ068aBNzjwfqCq.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/11-neighbourhood-C7IxQreIscuFkYsUdYyoZ9BNErr5XI.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Primont Homes",
+          "blurb": "Founded in 1971 and now led by second-generation family leadership (Joe Montesano, Lore Montesano, and Charles Attardo), Primont Homes has delivered more than 5,000 residences across the GTA over its 50-plus year history."
+        },
+        "faq": [
+          {
+            "q": "What is the starting price at Wasaga Walk?",
+            "a": "Townhomes start at $449,990 after the HST rebate. The developer's published from-price on its own marketing was the $600,000s, so the after-rebate entry point is meaningfully below that range."
+          },
+          {
+            "q": "Are these freehold or condo townhomes?",
+            "a": "Wasaga Walk is a limited collection of freehold townhomes, so owners do not pay monthly condo maintenance fees."
+          },
+          {
+            "q": "When does Wasaga Walk launch?",
+            "a": "Primont has positioned Wasaga Walk for a Summer 2025 launch. Floor plans and pricing are released first to VIP registrants ahead of any public release."
+          },
+          {
+            "q": "What bedroom counts are available?",
+            "a": "The collection offers 3, 4, and 5 bedroom townhome layouts designed for family living, with the largest plans reaching up to approximately 2,100 sq ft."
+          },
+          {
+            "q": "Who is the builder?",
+            "a": "The community is being built by Primont Homes, a GTA family-owned builder operating since 1971 with more than 5,000 homes delivered across Ontario."
+          }
+        ],
+        "meta": {
+          "title": "Wasaga Walk Towns by Primont | Wasaga Beach Pre-Construction",
+          "description": "Freehold townhomes by Primont Homes at 66th St N & Mosley, steps to Wasaga Beach. 3\u20135 bedroom plans from $449,990 after HST rebate. VIP access."
+        },
+        "sources": [
+          "https://wasagawalktowns.com/",
+          "https://primont.com/",
+          "https://www.wasagabeach.com/news/posts/a-once-in-a-generation-vision-takes-shape-destination-wasaga-reveals-draft-plans-for-one-of-canada-s-most-iconic-beach-destinations/"
+        ]
+      },
+      "updated_at": "2026-05-15 15:51:03"
+    },
+    {
+      "id": 11,
+      "slug": "new-horizon--sol-stacked-towns",
+      "project_name": "Sol Stacked Towns",
+      "developer": "New Horizon Development Group",
+      "city": "Waterdown (Hamilton)",
+      "address": "Burke St & Dundas St E, Hamilton, ON",
+      "project_type": "stacked townhome",
+      "status": "VIP launch",
+      "starting_price": 399990.0,
+      "price_per_sqft": null,
+      "unit_count": 21,
+      "completion_date": "2027-Q1",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1IeZf3RdAcJDPbi1GE739M0PbYyCBmuJF",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/03-exterior-vaJjGG6883YtacnzcP0Fw8apUolzSc.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "SOL Stacked Towns in Waterdown East",
+          "subhead": "A 21-unit stacked townhome community at 90 Skinner Road delivering 1- and 2-storey homes minutes from Aldershot GO and Highway 403.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": null,
+          "image_url": "https://cdn-ilahpmh.nitrocdn.com/nbVTAdRrNnMzJgbdwFJgfUeKNMKEMdUb/assets/images/optimized/rev-d36a128/nhdg.ca/wp-content/uploads/2024/07/WATERD1-1024x512.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$399,990"
+          },
+          {
+            "label": "Suites",
+            "value": "672\u20131,362 sq ft"
+          },
+          {
+            "label": "Units",
+            "value": "21"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Q1 2027"
+          }
+        ],
+        "urgency_signals": [
+          "Platinum VIP Access",
+          "Capped development charges at $0",
+          "Free assignment",
+          "Enhanced HST Rebate applied"
+        ],
+        "story_md": "SOL Stacked Towns is a boutique 21-unit stacked townhome community by New Horizon Development Group, currently in preconstruction at 90 Skinner Road, Hamilton, in the high-growth Waterdown East pocket of Hamilton. The collection pairs 1-storey *Rhythm* flats from 672 sq ft with 2-storey *Radiant* homes up to 1,362 sq ft \u2014 a rare entry-price product type in a neighbourhood normally dominated by detached and freehold towns.\n\nThe location is the story. The community offers strong access to major routes across Hamilton, Burlington, and the GTA. Residents are close to Highway 403, Highway 407, Highway 5, Highway 6, QEW routes, local bus routes, and Aldershot GO Station. That puts downtown Burlington, McMaster University, and Toronto-bound GO service all inside a short drive \u2014 a key fundamental for end-user resale and rental demand.\n\nFor investors, the math is unusually clean at this price point: development charges are capped at $0, assignment is free, and pricing already reflects the enhanced HST rebate. Condo fees of just $246/month cover exterior maintenance, landscaping, snow removal, and insurance on the townhome envelopes \u2014 meaning carrying costs stay predictable across the hold.\n\nThe builder is well-established locally. New Horizon Development Group (NHDG) has established itself as a pioneering force in community development across Southern Ontario since its inception in 1993. With a portfolio that spans over 30 communities, from Oakville to Brantford and beyond, NHDG is renowned for its commitment to meticulous design, superior craftsmanship, and innovative residential solutions. SOL sits next to their completed Interlude and Essence communities in Waterdown \u2014 a track record of finished product on the same street grid.",
+        "selling_points": [
+          {
+            "title": "Entry pricing from $399,990",
+            "body": "1-storey Rhythm flats start at $399,990 after the enhanced HST rebate \u2014 one of the lowest entry points for new-build ownership anywhere in the Waterdown / Burlington corridor."
+          },
+          {
+            "title": "Two distinct floorplan formats",
+            "body": "Choose a 672 sq ft 1-bed Rhythm flat or a 1,362 sq ft 3-bed / 2.5-bath Radiant two-storey \u2014 covering both investor and end-user demand from a single 21-unit site."
+          },
+          {
+            "title": "Investor-friendly terms",
+            "body": "Development charges are capped at $0 and assignment is free, with property management and leasing services available through the builder's preferred providers."
+          },
+          {
+            "title": "Highway and GO connectivity",
+            "body": "5 minutes to Highway 403, 7 minutes to Highway 407, and roughly 10 minutes to Aldershot GO for one-seat service into Union Station."
+          },
+          {
+            "title": "Low condo fees, exterior coverage",
+            "body": "$246/month covers maintenance of roads, sidewalks, roofs, exterior windows and doors, landscaping, and snow removal \u2014 predictable carrying cost for owners and tenants alike."
+          },
+          {
+            "title": "Established Waterdown builder",
+            "body": "New Horizon has been active in Southern Ontario since 1993 with a portfolio spanning over 30 communities, including completed Waterdown projects Interlude, Essence, Parallel, Majestic, and Trend Living."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Rhythm \u2014 1-Storey",
+            "sqft": "672",
+            "price_from": "$399,990",
+            "notes": "1 bed / 1 bath flat"
+          },
+          {
+            "type": "Radiant \u2014 2-Storey",
+            "sqft": "1,362",
+            "price_from": "$649,990",
+            "notes": "3 bed / 2.5 bath with private garage and terrace"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "1-Storey: On signing",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "1-Storey: 60 / 120 days",
+            "value": "$10,000 each",
+            "due_at": null
+          },
+          {
+            "label": "1-Storey: 180 days",
+            "value": "$15,000 (Total $45,000)",
+            "due_at": null
+          },
+          {
+            "label": "2-Storey: On signing",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "2-Storey: 60 / 120 / 180 days",
+            "value": "$20,000 each (Total $70,000)",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Platinum VIP pricing & first access to best availability",
+            "value": null
+          },
+          {
+            "title": "Capped development charges at $0",
+            "value": null
+          },
+          {
+            "title": "Free assignment",
+            "value": null
+          },
+          {
+            "title": "Enhanced HST rebate applied to pricing",
+            "value": null
+          },
+          {
+            "title": "Free lawyer review of Purchase Agreement",
+            "value": null
+          },
+          {
+            "title": "Free mortgage arrangements & leasing services available",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Visitor parking",
+          "Private garage (2-storey)",
+          "Private outdoor terraces",
+          "Gourmet kitchens",
+          "6\u20137 appliances included",
+          "Maintained common elements (roads, sidewalks, roofs, exterior windows & doors)",
+          "Exterior insurance coverage",
+          "Landscaping",
+          "Snow removal",
+          "Condo fees $246/month"
+        ],
+        "location": {
+          "blurb": "SOL sits at 90 Skinner Road in Waterdown East, balancing a quiet residential setting with quick access to Hamilton, Burlington, and the GTA. The community offers strong access to major routes across Hamilton, Burlington, and the GTA, including Highway 403, Highway 407, Highway 5, Highway 6, QEW routes, local bus routes, and Aldershot GO Station.",
+          "transit": [
+            "5 min to Highway 403",
+            "7 min to Highway 407",
+            "10 min to Aldershot GO Station",
+            "Local bus routes within walking distance",
+            "QEW access via Waterdown Rd / Plains Rd"
+          ],
+          "schools": [
+            "St. Thomas the Apostle Catholic Elementary School",
+            "Waterdown Montessori School",
+            "HEI Schools Waterdown Early Learning Centre",
+            "McMaster University (short drive)"
+          ],
+          "retail": [
+            "Mapleview Shopping Centre (Burlington)",
+            "Downtown Burlington retail & dining",
+            "Waterdown Memorial Park & Smokey Hollow Waterfall",
+            "Spencer Smith Park waterfront",
+            "Royal Botanical Gardens"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/03-exterior-vaJjGG6883YtacnzcP0Fw8apUolzSc.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/10-exterior-hlVb9pyZTU9i6lryVxM14oVPUzDQ7S.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/11-exterior-AEJ3bmVEMXar3fAW3dHBBWB0YskqdH.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/04-interior-dDTHK6x1YLd7bFFixdijhCTzYhzaIr.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/05-interior-3VJO6uuZNRebPQbIFSYqOiCsss5Fns.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/new-horizon--sol-stacked-towns/12-interior-qDZqb56zQ0nf5plNM91AihZEvwoMyn.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "New Horizon Development Group",
+          "blurb": "New Horizon Development Group has been active in Southern Ontario since 1993, with a portfolio spanning over 30 communities from Oakville to Brantford. The Burlington-based builder's completed Waterdown projects include Interlude, Essence, Parallel, Majestic Towns, and Trend Living."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "1-Storey Rhythm homes: $10,000 on signing, $10,000 at 60 days, $10,000 at 120 days, and $15,000 at 180 days \u2014 total $45,000. 2-Storey Radiant homes: $10,000 on signing, then $20,000 each at 60, 120, and 180 days \u2014 total $70,000."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Free assignment is included as part of the VIP launch incentive package, which is an important consideration for investors who may want to exit before final closing."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Estimated Q1 2027, based on the current pre-construction timeline. Occupancy dates are subject to change and confirmed in the Agreement of Purchase and Sale."
+          },
+          {
+            "q": "How is HST handled?",
+            "a": "Pricing already reflects the enhanced HST rebate \u2014 meaning the advertised $399,990 (1-storey) and $649,990 (2-storey) starting prices are net of the rebate for eligible end-user buyers. Investors should review eligibility rules with their accountant."
+          },
+          {
+            "q": "What do the monthly condo fees include?",
+            "a": "Approximately $246/month, covering maintenance of common elements (roads, sidewalks, home exteriors, roof, exterior windows and doors), exterior insurance, landscaping, and snow removal."
+          }
+        ],
+        "meta": {
+          "title": "SOL Stacked Towns | New Horizon | Waterdown Pre-Construction",
+          "description": "SOL Stacked Towns by New Horizon Development Group \u2014 21 stacked townhomes from $399,990 in Waterdown East, Hamilton. VIP pricing, capped DCs, free assignment."
+        },
+        "sources": [
+          "https://nhdg.ca/discover-sol-stacked-towns-your-next-masterpiece-awaits/",
+          "https://condonow.com/SOL-Stacked-Towns",
+          "https://www.tallproperty.com/property/sol-stacked-towns-by-new-horizon-development-group-in-hamilton/"
+        ]
+      },
+      "updated_at": "2026-05-15 15:50:33"
+    },
+    {
+      "id": 23,
+      "slug": "miracle-team--keswick-heights-townhomes",
+      "project_name": "Keswick Heights Townhomes",
+      "developer": "Miracle Team",
+      "city": "Edmonton",
+      "address": "Keswick Heights, Southwest Edmonton, AB",
+      "project_type": "townhome",
+      "status": "pre-construction",
+      "starting_price": 334900.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/miracle-team--keswick-heights-townhomes/13-exterior-OM1NlgpgLHTBYr9OCdSzPG07QIe5xD.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Keswick Heights Townhomes \u2014 Southwest Edmonton",
+          "subhead": "Pre-construction 3-bed, 2.5-bath condo townhomes in Keswick, Edmonton's fastest-growing southwest community, starting from the low $330s.",
+          "urgency_chip": "Limited Release",
+          "savings_chip": null,
+          "image_url": "https://www.keswick-landing.community/images/home/homeHero1.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$334,900"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3 Bed / 2.5 Bath"
+          },
+          {
+            "label": "Size",
+            "value": "1,114\u20131,302 sqft"
+          },
+          {
+            "label": "Condo Fee",
+            "value": "$190/mo"
+          }
+        ],
+        "urgency_signals": [
+          "From low $330s",
+          "5% + 5% deposit",
+          "$6,500 appliance credit",
+          "Assignment-eligible"
+        ],
+        "story_md": "Keswick Heights Townhomes is a pre-construction collection of modern condo townhouses by Miracle Team in the Keswick community of Southwest Edmonton \u2014 a master-planned neighbourhood bordered by the North Saskatchewan River and minutes from the Windermere retail corridor. Two floorplans are offered: Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900, both with three bedrooms, 2.5 bathrooms, 9-foot ceilings and quartz countertops throughout.\n\nFor end-users, the appeal is space and finish at a southwest Edmonton entry price: Model P includes a double attached garage, a full unfinished basement to grow into, and a rear deck, while every home benefits from a low $190/month condo fee covering property insurance, common-area maintenance, grass cutting and snow removal. Keswick itself is built around walking trails, constructed wetlands, the Arbour of Keswick playground, Keswick Pond, and two area schools (Joan Carr and Dr. Anne Anderson High School).\n\nFor investors, the structure is straightforward and capital-efficient. The deposit is 5% on signing and 5% in six months \u2014 well under the 15\u201320% typically required on Ontario pre-construction \u2014 and the contract permits assignment for a flat $2,500 + GST, providing a clean exit before closing. A $6,500 appliance credit at The Brick Store further reduces move-in cost. Edmonton's relative affordability versus Toronto and Vancouver, combined with steady population growth into the southwest quadrant, frames the underwriting case.\n\nClosings are targeted for 2026. Suite selection and premium/non-premium lots are limited, and the Model T cashback promotion is being run on a limited-time basis.",
+        "selling_points": [
+          {
+            "title": "Two efficient 3-bed floorplans",
+            "body": "Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900 \u2014 both 3 bed / 2.5 bath with 9-ft ceilings and quartz countertops throughout."
+          },
+          {
+            "title": "Model P: double garage + basement",
+            "body": "Model P includes a double attached garage and a full unfinished basement that buyers can finish to their own spec, plus a rear deck off the back."
+          },
+          {
+            "title": "Capital-light 5% + 5% deposit",
+            "body": "Only 5% down at signing and another 5% in six months \u2014 a fraction of typical Ontario pre-construction deposit schedules."
+          },
+          {
+            "title": "Ultra-low $190/month condo fee",
+            "body": "Monthly fee covers property insurance, common-area maintenance, grass cutting and snow removal \u2014 keeping carrying costs predictable for owners and landlords."
+          },
+          {
+            "title": "$6,500 appliance credit",
+            "body": "Buyers receive a $6,500 credit at The Brick Store to outfit the home at closing."
+          },
+          {
+            "title": "Assignment permitted",
+            "body": "Contract allows assignment for a flat $2,500 + GST, giving investors a defined pre-closing exit option."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Model T \u2014 3B/2.5B (Non-Premium)",
+            "sqft": "1,114",
+            "price_from": "$334,900",
+            "notes": "9-ft ceilings, quartz counters, rear deck."
+          },
+          {
+            "type": "Model T \u2014 3B/2.5B (Premium)",
+            "sqft": "1,114",
+            "price_from": "$339,900",
+            "notes": "Premium lot positioning."
+          },
+          {
+            "type": "Model P \u2014 3B/2.5B (Non-Premium)",
+            "sqft": "1,302",
+            "price_from": "$369,900",
+            "notes": "Double attached garage, full unfinished basement, rear deck."
+          },
+          {
+            "type": "Model P \u2014 3B/2.5B (Premium)",
+            "sqft": "1,302",
+            "price_from": "$374,900",
+            "notes": "Premium lot positioning; double garage + basement."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "5%",
+            "due_at": null
+          },
+          {
+            "label": "6 months after signing",
+            "value": "5%",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "$6,500 appliance credit at The Brick Store",
+            "value": "$6,500"
+          },
+          {
+            "title": "Assignment option available",
+            "value": "$2,500 + GST"
+          },
+          {
+            "title": "Low condo fees \u2014 covers insurance, grass, snow",
+            "value": "$190/mo"
+          },
+          {
+            "title": "4% co-op commission net of GST for agents",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Arbour of Keswick playground",
+          "Keswick Pond",
+          "River Valley walking trails",
+          "Parks and constructed wetlands",
+          "Rabbit Hill Snow Resort nearby",
+          "Golf courses nearby",
+          "Joan Carr K\u20139 School nearby",
+          "Dr. Anne Anderson High School nearby"
+        ],
+        "location": {
+          "blurb": "Keswick sits in Southwest Edmonton, bordered by the North Saskatchewan River to the west, with quick access via Anthony Henday Drive, Terwillegar Drive and Ellerslie Road. Windermere's retail and dining corridor and two area schools are minutes away.",
+          "transit": [
+            "South of Anthony Henday Drive (ring road)",
+            "Access via Terwillegar Drive",
+            "Access via Ellerslie Road"
+          ],
+          "schools": [
+            "Joan Carr Catholic Elementary/Junior High",
+            "Dr. Anne Anderson High School",
+            "Joey Moss K\u20139 School nearby"
+          ],
+          "retail": [
+            "Currents of Windermere",
+            "Windermere Crossing",
+            "South Edmonton Common (~10 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/miracle-team--keswick-heights-townhomes/13-exterior-OM1NlgpgLHTBYr9OCdSzPG07QIe5xD.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/miracle-team--keswick-heights-townhomes/06-neighbourhood-8PdtD6BPUvtW7b161qh1yOiaI7NEe7.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Miracle Team",
+          "blurb": ""
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "5% on signing and a further 5% six months later \u2014 a total of 10% spread across two installments."
+          },
+          {
+            "q": "Can I assign my unit before closing?",
+            "a": "Yes. Assignment is permitted for a flat fee of $2,500 plus GST."
+          },
+          {
+            "q": "What are the condo fees and what do they cover?",
+            "a": "$190 per month, covering property insurance, common-area maintenance, grass cutting and snow removal."
+          },
+          {
+            "q": "What's the difference between Model P and Model T?",
+            "a": "Both are 3-bed, 2.5-bath with 9-ft ceilings and quartz countertops. Model T is 1,114 sqft from $334,900. Model P is 1,302 sqft from $369,900 and adds a double attached garage and a full unfinished basement."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "The development is pre-construction with closings targeted for 2026."
+          }
+        ],
+        "meta": {
+          "title": "Keswick Heights Townhomes | Miracle Team | SW Edmonton Pre-Con",
+          "description": "Pre-construction 3-bed townhomes in Keswick, Southwest Edmonton by Miracle Team. From $334,900. 5% + 5% deposit, $6,500 appliance credit, assignment eligible."
+        },
+        "sources": [
+          "https://keswickheights.phonesites.com/",
+          "https://keswickheights.phonesites.com/homepage-copy",
+          "https://www.keswick-landing.community/"
+        ]
+      },
+      "updated_at": "2026-05-15 15:50:02"
+    },
+    {
       "id": 20,
       "slug": "minto--arcadia-kanata",
       "project_name": "Arcadia Kanata",
@@ -16,8 +920,8 @@
       "unit_count": null,
       "completion_date": null,
       "drive_folder_url": "https://drive.google.com/drive/folders/1X51DJLlGwjXXRTSz6xaCbW6hpj7hzZrR",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/5c10d574-29eb-4319-8781-46949e7d509a/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/minto--arcadia-kanata/03-exterior-zmKb1ebkibgjqpd0FZVC51y5Tk49Di.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
       "page_plan": {
         "hero": {
           "headline": "Arcadia Kanata \u2014 Minto's Master-Planned Community",
@@ -193,22 +1097,22 @@
         },
         "gallery": [
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/5c10d574-29eb-4319-8781-46949e7d509a/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/minto--arcadia-kanata/03-exterior-zmKb1ebkibgjqpd0FZVC51y5Tk49Di.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/8424207a-5444-4189-aaf6-f9b371893c85/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/minto--arcadia-kanata/04-exterior-OHeFfPpJ4k1qCdO1Tk1KvfLZlF9d4B.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/21cce2cc-677c-4a81-b2b9-7077a7786f8b/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/minto--arcadia-kanata/05-exterior-4ZMmNW0uUOiQD2OewRJcRjSPApe2Xp.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/e0165269-04cb-4390-ad43-9955734dc874/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/minto--arcadia-kanata/06-interior-0LATInxXaYHOhkEXGfcRXwJ33CddZO.jpg",
             "category": "interior",
             "caption": ""
           }
@@ -249,1152 +1153,7 @@
           "https://www.minto.com/ottawa/Kanata-new-homes/Arcadia/Metro-Towns~2726.html"
         ]
       },
-      "updated_at": "2026-05-15 15:29:00"
-    },
-    {
-      "id": 22,
-      "slug": "fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection",
-      "project_name": "Glen Abbey Encore \u2013 Lifestyle Townhomes An Encore Collection",
-      "developer": "Fernbrook Homes",
-      "city": "Oakville",
-      "address": "Bronte Rd & Upper Middle Rd W, Oakville, ON",
-      "project_type": "townhome",
-      "status": "VIP launch",
-      "starting_price": 800000.0,
-      "price_per_sqft": null,
-      "unit_count": 76,
-      "completion_date": "2027-Q3",
-      "drive_folder_url": "https://drive.google.com/drive/folders/1mYy7afeoP78N_xEy1qVbqo3XFZiC7BTx",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/abda78cd-3c0a-44f4-92df-80d0a301b4cd/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
-      "page_plan": {
-        "hero": {
-          "headline": "Glen Abbey Encore \u2014 Oakville's Ravine Townhomes",
-          "subhead": "Fernbrook's freehold back-to-back towns and linked detached homes in one of Oakville's last new-build pockets, backing onto 14 Mile Creek.",
-          "urgency_chip": "VIP Launch",
-          "savings_chip": null,
-          "image_url": "https://0w3m7.mjt.lu/img2/0w3m7/abda78cd-3c0a-44f4-92df-80d0a301b4cd/content"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$861,858 (after HST rebate)"
-          },
-          {
-            "label": "Size Range",
-            "value": "1,626 \u2013 3,342 sq ft"
-          },
-          {
-            "label": "Occupancy",
-            "value": "Aug \u2013 Sep 2027"
-          },
-          {
-            "label": "Total Homes",
-            "value": "76 units"
-          }
-        ],
-        "urgency_signals": [
-          "Back-to-Back Towns from $949,900",
-          "$3,000 Assignment Fee",
-          "Development Charges capped at $3,500",
-          "Ravine-backed enclave"
-        ],
-        "story_md": "Glen Abbey Encore is Fernbrook Homes' final act in Oakville's most established neighbourhood \u2014 a freehold collection of back-to-back townhomes and linked detached homes at Bronte Road & Upper Middle Road West, backing onto the Fourteen Mile Creek greenbelt. The Lifestyle Townhomes collection delivers floor plans from 1,626 to 1,918 sq ft (with optional rooftop terraces), while the linked detached residences stretch up to 3,342 sq ft for buyers who need the full single-family footprint.\n\nThe location is the story. Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey, which is the practical reason inventory in this catchment trades at a premium. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby. The beautiful parks, beaches and marinas of Lake Ontario are just minutes south, and commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. An adjacent commercial plaza brings Canadian Tire, Longos, Walmart and LCBO within a few minutes.\n\nFor pre-construction buyers, the deal economics are clean. Back-to-Back Towns require $25,000 with offer plus $15,000 every 90 days to a total of $100,000 \u2014 a manageable 10% spread over the build cycle. Development charges are capped at $3,500, the assignment fee is locked at $3,000, and POTL fees come in around $108/month with hydro, gas and water separately metered. Lots with rooftop terraces are priced from $1,059,900, and end-unit Omega plans run $1,089,900.\n\nThe Cartier (Model 2101) and Omega (Model 2102) are the two Back-to-Back floor plans on offer, both built on Block 6, 7 and 8 with August\u2013September 2027 completion windows. Stainless steel KitchenAid appliances, granite/quartz counters, hardwood floors and AYA custom cabinetry are included \u2014 finishes are not the upgrade-list afterthought they typically are in this price bracket.",
-        "selling_points": [
-          {
-            "title": "Among the last builds in Glen Abbey",
-            "body": "Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey \u2014 a closed-supply story in a mature, high-demand Oakville catchment."
-          },
-          {
-            "title": "Ravine enclave backing 14 Mile Creek",
-            "body": "A ravine enclave community located at Upper Middle & Bronte Road \u00b7 Just 7 minutes to Bronte Waterfront & backing onto the 14 Mile Creek Greenbelt, with 300+ km of nearby trails."
-          },
-          {
-            "title": "Two Back-to-Back Town floor plans",
-            "body": "The Cartier (Model 2101) at 1,637 sq ft and the Omega (Model 2102) at 1,626 sq ft, both with 2/3 bedrooms and optional rooftop terraces that push square footage to 1,918."
-          },
-          {
-            "title": "Capped levies and low assignment fee",
-            "body": "Development Charges capped at $3,500 and a flat $3,000 Assignment Fee \u2014 material protection against the closing-cost surprises that hit most pre-con buyers."
-          },
-          {
-            "title": "Included KitchenAid appliance package",
-            "body": "Stainless Steel KitchenAid package including French Door Bottom-Freezer Fridge, Electric Range, Dishwasher, Hood Fan and Microwave \u2014 no upgrade required."
-          },
-          {
-            "title": "Connected commute corridor",
-            "body": "Commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. 12 minutes from Oakville Go Station, where you'll have easy access to both GO Train & Go Bus services."
-          }
-        ],
-        "suites": [
-          {
-            "type": "Back-to-Back Town \u2014 Cartier (2101)",
-            "sqft": "1,637 (1,863 w/ rooftop terrace)",
-            "price_from": "$949,900",
-            "notes": "2/3 beds; $861,858 after HST rebate"
-          },
-          {
-            "type": "Back-to-Back Town \u2014 Cartier End",
-            "sqft": "1,683 (1,918 w/ rooftop terrace)",
-            "price_from": "$1,059,900",
-            "notes": "End-unit with rooftop terrace"
-          },
-          {
-            "type": "Back-to-Back Town \u2014 Omega (2102)",
-            "sqft": "1,626 (1,798 w/ rooftop terrace)",
-            "price_from": "$959,900",
-            "notes": "2/3 beds; $870,708 after HST rebate"
-          },
-          {
-            "type": "Back-to-Back Town \u2014 Omega End",
-            "sqft": "1,672 (1,848 w/ rooftop terrace)",
-            "price_from": "$1,089,900",
-            "notes": "End-unit with rooftop terrace"
-          },
-          {
-            "type": "Linked Detached \u2014 The Golf / Yacht / Sterling",
-            "sqft": "2,071 \u2013 2,263",
-            "price_from": "",
-            "notes": "2/3 beds (Sterling: 3 beds)"
-          },
-          {
-            "type": "Linked Detached \u2014 Bentley / Tiffany",
-            "sqft": "3,049 \u2013 3,342",
-            "price_from": "",
-            "notes": "4 beds, largest plans in the community"
-          }
-        ],
-        "deposit_timeline": [
-          {
-            "label": "With Offer",
-            "value": "$25,000",
-            "due_at": "On signing"
-          },
-          {
-            "label": "Every 90 days",
-            "value": "$15,000",
-            "due_at": "Recurring"
-          },
-          {
-            "label": "Total Deposit",
-            "value": "$100,000",
-            "due_at": "Over ~15 months"
-          }
-        ],
-        "incentives": [
-          {
-            "title": "Platinum VIP Pricing & First Access to Best Availability",
-            "value": null
-          },
-          {
-            "title": "Development Charges capped at $3,500",
-            "value": "$3,500"
-          },
-          {
-            "title": "Assignment Fee capped at $3,000",
-            "value": "$3,000"
-          },
-          {
-            "title": "Stainless Steel KitchenAid Appliance Package",
-            "value": null
-          },
-          {
-            "title": "Free Lawyer Review of Purchase Agreement",
-            "value": null
-          },
-          {
-            "title": "Free Mortgage Arrangements",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Optional rooftop terraces",
-          "On-site playground and park",
-          "Backs onto Fourteen Mile Creek greenbelt",
-          "Steps to Bronte Creek Provincial Park",
-          "Private single & double-car garages",
-          "Covered front porches",
-          "Main and upper floor balconies",
-          "9-ft ceilings on finished levels",
-          "AYA custom cabinetry",
-          "Granite/quartz counters",
-          "Hardwood flooring",
-          "Access to 14 Mile Creek Trail"
-        ],
-        "location": {
-          "blurb": "Glen Abbey Encore sits at Bronte Road & Upper Middle Road West in Oakville, backing onto the Fourteen Mile Creek greenbelt with Bronte waterfront 7 minutes south. There's great shopping, top rated public, separate and private schools, popular restaurants and more all close at hand \u2014 including an all new commercial plaza located adjacent to the community. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby.",
-          "transit": [
-            "5 min to Bronte GO Station",
-            "12 min to Oakville GO Station",
-            "1 min to Hwy 403",
-            "5 min to Hwy 407",
-            "10 min to QEW interchange"
-          ],
-          "schools": [
-            "Top-rated public, separate and private schools in Glen Abbey catchment"
-          ],
-          "retail": [
-            "Adjacent commercial plaza",
-            "Canadian Tire",
-            "Longos",
-            "Walmart",
-            "LCBO",
-            "Deerfield Golf Club (2 min)"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/abda78cd-3c0a-44f4-92df-80d0a301b4cd/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/996d1216-7aa3-4068-9814-de9cc59a9500/content",
-            "category": "exterior",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "Fernbrook Homes",
-          "blurb": "Fernbrook has garnered an exceptional reputation for architectural integrity, classic design and custom-style luxury in a host of Southern Ontario locations extending across Metro and beyond. Led by industry visionary Danny Salvatore, and his son Joe, Fernbrook Homes has an eye for design that transcends the typical. For more than three decades, Fernbrook Homes has established itself as a seasoned developer known for crafting unforgettable and iconic residences. Renowned for its ability to construct unique communities, Fernbrook Homes unquestionably stands at the forefront of the Greater Toronto Area's real estate landscape."
-        },
-        "faq": [
-          {
-            "q": "What is the deposit structure for the Back-to-Back Towns?",
-            "a": "$25,000 with offer, then $15,000 every 90 days to a total of $100,000. All deposits are payable to FERNBROOK HOMES (BRONTE GREEN 76) LTD."
-          },
-          {
-            "q": "When is occupancy?",
-            "a": "Back-to-Back Town completion dates range from August 11, 2027 to September 16, 2027, depending on lot and block."
-          },
-          {
-            "q": "Is assignment allowed?",
-            "a": "Yes. Assignment is permitted with a flat $3,000 assignment fee per the current incentive package."
-          },
-          {
-            "q": "Are development charges and levies capped?",
-            "a": "Yes \u2014 Development Charges are capped at $3,500 for purchases under the current incentive package, providing closing-cost certainty."
-          },
-          {
-            "q": "What are the monthly POTL fees and what do they include?",
-            "a": "Approximately $108 per month. Hydro, gas and water are separately metered and billed directly to the homeowner."
-          }
-        ],
-        "meta": {
-          "title": "Glen Abbey Encore by Fernbrook Homes | Oakville Pre-Construction",
-          "description": "Glen Abbey Encore: freehold back-to-back towns from $949,900 and linked detached homes by Fernbrook Homes in Oakville. Ravine setting, 2027 occupancy."
-        },
-        "sources": [
-          "https://www.fernbrookhomes.com/encore/",
-          "https://www.fernbrookhomes.com/residential/encore",
-          "https://www.allaccesshomes.ca/projects/glen-abbey-encore/"
-        ]
-      },
-      "updated_at": "2026-05-15 15:28:20"
-    },
-    {
-      "id": 21,
-      "slug": "wild-indigo",
-      "project_name": "Wild Indigo",
-      "developer": null,
-      "city": "Breslau",
-      "address": null,
-      "project_type": "mixed-use (townhome / detached)",
-      "status": "public launch",
-      "starting_price": 640699.0,
-      "price_per_sqft": null,
-      "unit_count": 1600,
-      "completion_date": null,
-      "drive_folder_url": null,
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/68d5b98f-3ae1-4d7d-96a0-89a4424bfb09/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
-      "page_plan": {
-        "hero": {
-          "headline": "Wild Indigo: Master-Planned Breslau Community",
-          "subhead": "Madison Group's 1,600-home freehold enclave on the Grand River brings towns and detached homes minutes from Kitchener-Waterloo's tech core.",
-          "urgency_chip": "Public Launch",
-          "savings_chip": "Save up to $130,000",
-          "image_url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg"
-        },
-        "quick_stats": [
-          {
-            "label": "Towns from",
-            "value": "$640,699"
-          },
-          {
-            "label": "Detached from",
-            "value": "$720,345"
-          },
-          {
-            "label": "Total Homes",
-            "value": "1,600"
-          },
-          {
-            "label": "Deposit",
-            "value": "8% down"
-          }
-        ],
-        "urgency_signals": [
-          "Zero Development Charges",
-          "5 min to future Breslau GO",
-          "Freehold Ownership",
-          "Phase 1 Now Selling"
-        ],
-        "story_md": "Wild Indigo is Madison Group's newest master-planned community located off Fountain Street North in Breslau, and one of the largest residential developments coming to the Kitchener-Waterloo Region. The community delivers a freehold mix of single detached homes and traditional townhomes on the doorstep of the Grand River, with towns priced from $640,699 and 27' detached homes from $720,345 \u2014 both after the HST rebate.\n\nThe scale is the story here. With a total of 1,600 homes, the community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums. The first phase of development, set to launch in 2025, will introduce 289 carefully crafted homes. Among these are Two-Storey Freehold Traditional Townhomes, ranging in size from 1,408 to 1,662 square feet, each designed with private backyards. Buyers can also size up into 27', 34', or 40' detached lots, giving every household \u2014 first-time, move-up, or downsizer \u2014 a footprint that fits.\n\nLocation underwrites the investment case. It's a 5 minute drive to the future Breslau GO station, 13 minutes to Kitchener GO station, 12 minutes to Highway 8, 15 minutes to Highway 401, and a 90 minute train ride from Kitchener GO to Union Station. Major employers including Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing all sit within 10-15 minutes, and top universities like the University of Waterloo and Wilfrid Laurier University are a short drive away with quick access to Conestoga Parkway.\n\nThe VIP launch package is unusually rich for the Waterloo Region: zero development charges, an 8% deposit, a 6-piece appliance package, and a $125,000 bonus of premium finishes. Combined with up to $130,000 in HST rebate eligibility, the all-in entry point is one of the most aggressive in the GTA-West pre-construction market.",
-        "selling_points": [
-          {
-            "title": "1,600-Home Master-Planned Scale",
-            "body": "The community will include single detached homes, freehold townhomes, stacked townhomes, and condominiums, anchoring long-term value through Madison's full build-out."
-          },
-          {
-            "title": "Freehold Ownership, No Condo Fees",
-            "body": "Wild Indigo's commitment to providing freehold ownership grants homeowners and investors a greater degree of control over their properties \u2014 no condo corporation overhead."
-          },
-          {
-            "title": "Zero Development Charges",
-            "body": "Capped development levies and zero DCs save buyers a line-item that typically runs five figures at closing \u2014 a rare incentive in the current market."
-          },
-          {
-            "title": "$125,000 Premium Finishes Bonus",
-            "body": "Madison's VIP package layers in a 6-piece appliance suite plus $125,000 of bonus finishes \u2014 value baked into the purchase, not negotiated at design centre."
-          },
-          {
-            "title": "Waterloo Region Tech Backstop",
-            "body": "Major employers such as Google, Vidyard, Shopify, Grand River Hospital, and Toyota Manufacturing sit within 10-15 minutes, supporting a deep end-user and rental pool."
-          },
-          {
-            "title": "Two-Way GO Service Coming",
-            "body": "A 5 minute drive to the future Breslau GO station and a 90 minute train ride from Kitchener GO to Union position Wild Indigo as a Toronto commuter play before the infrastructure prices in."
-          }
-        ],
-        "suites": [
-          {
-            "type": "Freehold Townhome",
-            "sqft": "1,408\u20131,662",
-            "price_from": "$640,699",
-            "notes": "Two-storey traditional towns with private backyards (after HST rebate)."
-          },
-          {
-            "type": "27' Detached",
-            "sqft": "\u2014",
-            "price_from": "$720,345",
-            "notes": "After HST rebate."
-          },
-          {
-            "type": "34' Detached",
-            "sqft": "\u2014",
-            "price_from": "$861,938",
-            "notes": "After HST rebate."
-          },
-          {
-            "type": "40' Detached",
-            "sqft": "up to 3,522",
-            "price_from": "$994,681",
-            "notes": "Largest lot offering; after HST rebate."
-          }
-        ],
-        "deposit_timeline": [
-          {
-            "label": "Total Deposit",
-            "value": "8% down",
-            "due_at": null
-          }
-        ],
-        "incentives": [
-          {
-            "title": "Save up to $130,000 with HST Rebate",
-            "value": "$130,000"
-          },
-          {
-            "title": "Own with just 8% down",
-            "value": null
-          },
-          {
-            "title": "Zero development charges",
-            "value": null
-          },
-          {
-            "title": "6-piece appliance package included",
-            "value": null
-          },
-          {
-            "title": "Bonus package & premium finishes",
-            "value": "$125,000"
-          },
-          {
-            "title": "Assignment rights available",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Grand River trails",
-          "Community parks",
-          "Walking & cycling paths",
-          "Stormwater ponds",
-          "Private backyards (towns)",
-          "Family-friendly streetscapes"
-        ],
-        "location": {
-          "blurb": "Located at the corner of Fountain Street North and Ottawa Street, Wild Indigo at The Grand River is a thoughtfully designed master-planned community that seamlessly blends modern living with natural beauty. Breslau sits at the geographic centre of Kitchener, Waterloo, Cambridge, and Guelph, with the Grand River, scenic trails, and the Region of Waterloo International Airport all minutes away.",
-          "transit": [
-            "5 min to future Breslau GO Station (two-way service planned)",
-            "13 min to Kitchener GO Station",
-            "12 min to Highway 8",
-            "15 min to Highway 401",
-            "90 min train Kitchener GO \u2192 Union Station",
-            "Grand River Transit local service"
-          ],
-          "schools": [
-            "St. Boniface School",
-            "Woodland Christian High School",
-            "Edna Staebler Public School",
-            "Elizabeth Ziegler Public School",
-            "University of Waterloo (15 min)",
-            "Wilfrid Laurier University (15 min)"
-          ],
-          "retail": [
-            "Conestoga Mall (130+ stores)",
-            "Cambridge Centre",
-            "Fairview Park Mall",
-            "Walmart & Costco nearby",
-            "Bingemans Amusement Park (7 min)",
-            "Chicopee ski & disc golf (12 min)"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/68d5b98f-3ae1-4d7d-96a0-89a4424bfb09/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/f708ed9a-7ea0-4c4e-b59e-2dcdc7ec4ace/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://madisongroup.ca/wp-content/uploads/2024/11/MadisonGroup_WildIndio_SingleDetached_Streetscape2-scaled.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Exterior-View-of-Townhome-Units-1-v15.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Streetscape-View-of-Detached-Homes-Exteriors-4-v15.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://condonow.com/Wild-Indigo-Homes/images/Wild-Indigo-Homes-Detached-Model-Living-Dining-Space-5-v15.jpg",
-            "category": "interior",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "Madison Group",
-          "blurb": "Madison's expertise and passion are built on a foundation of more than 55 years and three generations of hard work and commitment to exceptional environments. Madison's extensive portfolio includes mixed-use high-rise projects, low-rise master-planned communities, office, retail, prestige industrial, rental, and retirement properties throughout Toronto and New York."
-        },
-        "faq": [
-          {
-            "q": "What is the deposit structure at Wild Indigo?",
-            "a": "Wild Indigo is offered with just 8% down \u2014 a meaningfully lower deposit than the typical 15\u201320% required on most GTA pre-construction freehold projects."
-          },
-          {
-            "q": "What home types and price points are available?",
-            "a": "After HST rebate: freehold townhomes from $640,699, 27' detached from $720,345, 34' detached from $861,938, and 40' detached from $994,681. Phase 1 includes 289 of 1,600 planned homes."
-          },
-          {
-            "q": "How big are the homes?",
-            "a": "Two-storey freehold traditional townhomes range from 1,408 to 1,662 sq ft with private backyards. Detached homes scale up to roughly 3,522 sq ft on 40' lots."
-          },
-          {
-            "q": "Are assignments allowed?",
-            "a": "Yes \u2014 assignment rights are available as part of the current VIP/Platinum incentive package. Confirm specific terms in your APS."
-          },
-          {
-            "q": "What incentives are included at this launch?",
-            "a": "Up to $130,000 in HST rebate eligibility, zero development charges, 8% down deposit, a 6-piece appliance package, and a $125,000 bonus package of premium finishes."
-          }
-        ],
-        "meta": {
-          "title": "Wild Indigo by Madison Group | Breslau Pre-Construction",
-          "description": "Madison Group's 1,600-home master-planned Breslau community. Freehold towns from $640,699, detached from $720,345. 8% down, zero DCs, $125K bonus."
-        },
-        "sources": [
-          "https://madisongroup.ca/residential/wild-indigo/",
-          "https://condonow.com/Wild-Indigo-Homes",
-          "https://wildindigoinbreslau.com/"
-        ]
-      },
-      "updated_at": "2026-05-14 22:08:14"
-    },
-    {
-      "id": 19,
-      "slug": "primont--wasaga-walk",
-      "project_name": "Wasaga Walk",
-      "developer": "Primont Homes",
-      "city": "Wasaga Beach",
-      "address": null,
-      "project_type": "townhome",
-      "status": "VIP launch",
-      "starting_price": 449990.0,
-      "price_per_sqft": null,
-      "unit_count": null,
-      "completion_date": null,
-      "drive_folder_url": null,
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/e65930c4-8bb8-4214-b68a-7f731c7a4a36/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
-      "page_plan": {
-        "hero": {
-          "headline": "Wasaga Walk: Freehold Towns Steps from the Beach",
-          "subhead": "A limited collection of 3\u20135 bedroom freehold townhomes by Primont Homes at 66th Street North & Mosley Street, minutes from Wasaga Beach.",
-          "urgency_chip": "VIP Launch",
-          "savings_chip": "Save up to $130,000",
-          "image_url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/wasaga-walk-townhomes-by-the-beach.jpg"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$449,990"
-          },
-          {
-            "label": "Bedrooms",
-            "value": "3\u20135"
-          },
-          {
-            "label": "Type",
-            "value": "Freehold Townhome"
-          },
-          {
-            "label": "Occupancy",
-            "value": "Summer 2025 launch"
-          }
-        ],
-        "urgency_signals": [
-          "Steps to Wasaga Beach",
-          "Highway 26 & 400 access",
-          "Freehold \u2014 no condo fees",
-          "VIP first-access release"
-        ],
-        "story_md": "Wasaga Walk is a limited collection of freehold townhomes by Primont Homes, set at 66th Street North and Mosley Street in the heart of Wasaga Beach. The community sits minutes from the world's longest freshwater beach on Nottawasaga Bay, with 3\u20135 bedroom layouts designed for families, end-users, and investors who want resort-town living without condo fees.\n\nPricing starts at $449,990 after the HST rebate \u2014 a rare entry point in a market where the developer's published range opens from the $600,000s. Buyers in the VIP release get first access to floor plans and pricing before the public launch, with qualified purchasers eligible to save up to $130,000 through the HST rebate program.\n\nThe location is the investment story. Wasaga Beach is one of Ontario's fastest-growing municipalities, with population already up more than 20% and projected to double over the next 30 years. The province has committed a $38-million Destination Wasaga investment to redevelop the waterfront and downtown \u2014 adding a boutique hotel, river marina, music hall, and pedestrian bridge \u2014 work that is now moving from concept to construction. That public investment, paired with 14 km of shoreline drawing more than two million visitors a year, supports long-term appreciation and short-term rental demand.\n\nPrimont Homes has been building since 1971, with more than 5,000 homes delivered across the GTA under second-generation family leadership. For buyers who want pre-construction exposure to a supply-constrained resort market \u2014 backed by a builder with a 50-year track record \u2014 Wasaga Walk is one of the cleanest entry points on the board.",
-        "selling_points": [
-          {
-            "title": "Townhomes from $449,990 after HST rebate",
-            "body": "Entry pricing positions Wasaga Walk well below the developer's published from-the-$600,000s range, with the HST rebate saving qualified buyers up to $130,000."
-          },
-          {
-            "title": "Freehold tenure \u2014 no condo fees",
-            "body": "Primont is delivering a limited collection of freehold townhomes, so owners avoid monthly maintenance fees common to stacked or condo-titled product."
-          },
-          {
-            "title": "3\u20135 bedroom family layouts",
-            "body": "Floor plans span three to five bedrooms, sized for end-user families as well as multi-bedroom rental demand in a tourism-driven market."
-          },
-          {
-            "title": "Steps from the world's longest freshwater beach",
-            "body": "Located at 66th Street North and Mosley Street, the site is walking distance to Nottawasaga Bay's 14 km of sandy shoreline across eight beach areas."
-          },
-          {
-            "title": "$38M Destination Wasaga catalyst",
-            "body": "A provincial $38-million investment is redeveloping the downtown and waterfront with a boutique hotel, river marina, and pedestrian bridge \u2014 backing long-term appreciation."
-          },
-          {
-            "title": "Built by Primont Homes \u2014 50+ years, 5,000+ homes",
-            "body": "Founded in 1971 and now under second-generation family leadership, Primont has delivered more than 5,000 homes across the GTA."
-          }
-        ],
-        "suites": [
-          {
-            "type": "3 Bedroom Townhome",
-            "sqft": "",
-            "price_from": "$449,990",
-            "notes": "After HST rebate"
-          },
-          {
-            "type": "4 Bedroom Townhome",
-            "sqft": "",
-            "price_from": "",
-            "notes": ""
-          },
-          {
-            "type": "5 Bedroom Townhome",
-            "sqft": "up to ~2,100",
-            "price_from": "",
-            "notes": "Largest plan in the collection"
-          }
-        ],
-        "deposit_timeline": [],
-        "incentives": [
-          {
-            "title": "HST rebate for qualified buyers \u2014 save up to $130,000",
-            "value": "$130,000"
-          },
-          {
-            "title": "Starting price of $449,990 is net of HST rebate",
-            "value": null
-          },
-          {
-            "title": "VIP first-access pricing and floor plans",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Walking access to Wasaga Beach",
-          "Nottawasaga Bay waterfront",
-          "Wasaga Beach Provincial Park trails",
-          "Kayaking & paddling minutes from home",
-          "Local Farmers' Market \u2014 4 min drive",
-          "Skull Island Adventure Golf \u2014 11 min"
-        ],
-        "location": {
-          "blurb": "Wasaga Walk is set at 66th Street North and Mosley Street, a short walk to the world's longest freshwater beach and minutes from Wasaga Beach Provincial Park. Highway 26 and Highway 400 connect residents to Barrie, Collingwood, Blue Mountain, and the GTA, and Colltrans and Simcoe County LINX provide regional transit options.",
-          "transit": [
-            "Highway 26 nearby",
-            "Highway 400 within reach",
-            "Colltrans & Simcoe County LINX transit",
-            "~10 min drive to Collingwood",
-            "~8 min to Georgian College South Georgian Bay Campus"
-          ],
-          "schools": [
-            "Wasaga Beach Public School",
-            "St. Noel Chabanel Catholic Elementary",
-            "Worsley Elementary"
-          ],
-          "retail": [
-            "Wasaga Beach Farmers' Market \u2014 4 min drive",
-            "Wasaga Beach Provincial Park \u2014 12 min",
-            "Collingwood General & Marine Hospital \u2014 10 min",
-            "Royal Victoria Regional Health Centre, Barrie"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/e65930c4-8bb8-4214-b68a-7f731c7a4a36/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/f377bd65-0512-43f2-8682-62f846a7b577/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/8a079ca5-d06b-44da-a2ec-fb8eb6cb1ea9/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/wasaga-walk-townhomes-by-the-beach.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          },
-          {
-            "url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/wasaga-walk-townhomes-by-the-beach-768x528.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          },
-          {
-            "url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/conectivity-at-wasaga-walk-639x1024.png",
-            "category": "neighbourhood",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "Primont Homes",
-          "blurb": "Founded in 1971 and now led by second-generation family leadership (Joe Montesano, Lore Montesano, and Charles Attardo), Primont Homes has delivered more than 5,000 residences across the GTA over its 50-plus year history."
-        },
-        "faq": [
-          {
-            "q": "What is the starting price at Wasaga Walk?",
-            "a": "Townhomes start at $449,990 after the HST rebate. The developer's published from-price on its own marketing was the $600,000s, so the after-rebate entry point is meaningfully below that range."
-          },
-          {
-            "q": "Are these freehold or condo townhomes?",
-            "a": "Wasaga Walk is a limited collection of freehold townhomes, so owners do not pay monthly condo maintenance fees."
-          },
-          {
-            "q": "When does Wasaga Walk launch?",
-            "a": "Primont has positioned Wasaga Walk for a Summer 2025 launch. Floor plans and pricing are released first to VIP registrants ahead of any public release."
-          },
-          {
-            "q": "What bedroom counts are available?",
-            "a": "The collection offers 3, 4, and 5 bedroom townhome layouts designed for family living, with the largest plans reaching up to approximately 2,100 sq ft."
-          },
-          {
-            "q": "Who is the builder?",
-            "a": "The community is being built by Primont Homes, a GTA family-owned builder operating since 1971 with more than 5,000 homes delivered across Ontario."
-          }
-        ],
-        "meta": {
-          "title": "Wasaga Walk Towns by Primont | Wasaga Beach Pre-Construction",
-          "description": "Freehold townhomes by Primont Homes at 66th St N & Mosley, steps to Wasaga Beach. 3\u20135 bedroom plans from $449,990 after HST rebate. VIP access."
-        },
-        "sources": [
-          "https://wasagawalktowns.com/",
-          "https://primont.com/",
-          "https://www.wasagabeach.com/news/posts/a-once-in-a-generation-vision-takes-shape-destination-wasaga-reveals-draft-plans-for-one-of-canada-s-most-iconic-beach-destinations/"
-        ]
-      },
-      "updated_at": "2026-05-14 22:07:51"
-    },
-    {
-      "id": 11,
-      "slug": "new-horizon--sol-stacked-towns",
-      "project_name": "Sol Stacked Towns",
-      "developer": "New Horizon Development Group",
-      "city": "Waterdown (Hamilton)",
-      "address": "Burke St & Dundas St E, Hamilton, ON",
-      "project_type": "stacked townhome",
-      "status": "VIP launch",
-      "starting_price": 399990.0,
-      "price_per_sqft": null,
-      "unit_count": 21,
-      "completion_date": "2027-Q1",
-      "drive_folder_url": "https://drive.google.com/drive/folders/1IeZf3RdAcJDPbi1GE739M0PbYyCBmuJF",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/387d277c-92cb-42b9-aace-a117c200f132/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
-      "page_plan": {
-        "hero": {
-          "headline": "SOL Stacked Towns in Waterdown East",
-          "subhead": "A 21-unit stacked townhome community at 90 Skinner Road delivering 1- and 2-storey homes minutes from Aldershot GO and Highway 403.",
-          "urgency_chip": "VIP Launch",
-          "savings_chip": null,
-          "image_url": "https://cdn-ilahpmh.nitrocdn.com/nbVTAdRrNnMzJgbdwFJgfUeKNMKEMdUb/assets/images/optimized/rev-d36a128/nhdg.ca/wp-content/uploads/2024/07/WATERD1-1024x512.jpg"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$399,990"
-          },
-          {
-            "label": "Suites",
-            "value": "672\u20131,362 sq ft"
-          },
-          {
-            "label": "Units",
-            "value": "21"
-          },
-          {
-            "label": "Occupancy",
-            "value": "Q1 2027"
-          }
-        ],
-        "urgency_signals": [
-          "Platinum VIP Access",
-          "Capped development charges at $0",
-          "Free assignment",
-          "Enhanced HST Rebate applied"
-        ],
-        "story_md": "SOL Stacked Towns is a boutique 21-unit stacked townhome community by New Horizon Development Group, currently in preconstruction at 90 Skinner Road, Hamilton, in the high-growth Waterdown East pocket of Hamilton. The collection pairs 1-storey *Rhythm* flats from 672 sq ft with 2-storey *Radiant* homes up to 1,362 sq ft \u2014 a rare entry-price product type in a neighbourhood normally dominated by detached and freehold towns.\n\nThe location is the story. The community offers strong access to major routes across Hamilton, Burlington, and the GTA. Residents are close to Highway 403, Highway 407, Highway 5, Highway 6, QEW routes, local bus routes, and Aldershot GO Station. That puts downtown Burlington, McMaster University, and Toronto-bound GO service all inside a short drive \u2014 a key fundamental for end-user resale and rental demand.\n\nFor investors, the math is unusually clean at this price point: development charges are capped at $0, assignment is free, and pricing already reflects the enhanced HST rebate. Condo fees of just $246/month cover exterior maintenance, landscaping, snow removal, and insurance on the townhome envelopes \u2014 meaning carrying costs stay predictable across the hold.\n\nThe builder is well-established locally. New Horizon Development Group (NHDG) has established itself as a pioneering force in community development across Southern Ontario since its inception in 1993. With a portfolio that spans over 30 communities, from Oakville to Brantford and beyond, NHDG is renowned for its commitment to meticulous design, superior craftsmanship, and innovative residential solutions. SOL sits next to their completed Interlude and Essence communities in Waterdown \u2014 a track record of finished product on the same street grid.",
-        "selling_points": [
-          {
-            "title": "Entry pricing from $399,990",
-            "body": "1-storey Rhythm flats start at $399,990 after the enhanced HST rebate \u2014 one of the lowest entry points for new-build ownership anywhere in the Waterdown / Burlington corridor."
-          },
-          {
-            "title": "Two distinct floorplan formats",
-            "body": "Choose a 672 sq ft 1-bed Rhythm flat or a 1,362 sq ft 3-bed / 2.5-bath Radiant two-storey \u2014 covering both investor and end-user demand from a single 21-unit site."
-          },
-          {
-            "title": "Investor-friendly terms",
-            "body": "Development charges are capped at $0 and assignment is free, with property management and leasing services available through the builder's preferred providers."
-          },
-          {
-            "title": "Highway and GO connectivity",
-            "body": "5 minutes to Highway 403, 7 minutes to Highway 407, and roughly 10 minutes to Aldershot GO for one-seat service into Union Station."
-          },
-          {
-            "title": "Low condo fees, exterior coverage",
-            "body": "$246/month covers maintenance of roads, sidewalks, roofs, exterior windows and doors, landscaping, and snow removal \u2014 predictable carrying cost for owners and tenants alike."
-          },
-          {
-            "title": "Established Waterdown builder",
-            "body": "New Horizon has been active in Southern Ontario since 1993 with a portfolio spanning over 30 communities, including completed Waterdown projects Interlude, Essence, Parallel, Majestic, and Trend Living."
-          }
-        ],
-        "suites": [
-          {
-            "type": "Rhythm \u2014 1-Storey",
-            "sqft": "672",
-            "price_from": "$399,990",
-            "notes": "1 bed / 1 bath flat"
-          },
-          {
-            "type": "Radiant \u2014 2-Storey",
-            "sqft": "1,362",
-            "price_from": "$649,990",
-            "notes": "3 bed / 2.5 bath with private garage and terrace"
-          }
-        ],
-        "deposit_timeline": [
-          {
-            "label": "1-Storey: On signing",
-            "value": "$10,000",
-            "due_at": null
-          },
-          {
-            "label": "1-Storey: 60 / 120 days",
-            "value": "$10,000 each",
-            "due_at": null
-          },
-          {
-            "label": "1-Storey: 180 days",
-            "value": "$15,000 (Total $45,000)",
-            "due_at": null
-          },
-          {
-            "label": "2-Storey: On signing",
-            "value": "$10,000",
-            "due_at": null
-          },
-          {
-            "label": "2-Storey: 60 / 120 / 180 days",
-            "value": "$20,000 each (Total $70,000)",
-            "due_at": null
-          }
-        ],
-        "incentives": [
-          {
-            "title": "Platinum VIP pricing & first access to best availability",
-            "value": null
-          },
-          {
-            "title": "Capped development charges at $0",
-            "value": null
-          },
-          {
-            "title": "Free assignment",
-            "value": null
-          },
-          {
-            "title": "Enhanced HST rebate applied to pricing",
-            "value": null
-          },
-          {
-            "title": "Free lawyer review of Purchase Agreement",
-            "value": null
-          },
-          {
-            "title": "Free mortgage arrangements & leasing services available",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Visitor parking",
-          "Private garage (2-storey)",
-          "Private outdoor terraces",
-          "Gourmet kitchens",
-          "6\u20137 appliances included",
-          "Maintained common elements (roads, sidewalks, roofs, exterior windows & doors)",
-          "Exterior insurance coverage",
-          "Landscaping",
-          "Snow removal",
-          "Condo fees $246/month"
-        ],
-        "location": {
-          "blurb": "SOL sits at 90 Skinner Road in Waterdown East, balancing a quiet residential setting with quick access to Hamilton, Burlington, and the GTA. The community offers strong access to major routes across Hamilton, Burlington, and the GTA, including Highway 403, Highway 407, Highway 5, Highway 6, QEW routes, local bus routes, and Aldershot GO Station.",
-          "transit": [
-            "5 min to Highway 403",
-            "7 min to Highway 407",
-            "10 min to Aldershot GO Station",
-            "Local bus routes within walking distance",
-            "QEW access via Waterdown Rd / Plains Rd"
-          ],
-          "schools": [
-            "St. Thomas the Apostle Catholic Elementary School",
-            "Waterdown Montessori School",
-            "HEI Schools Waterdown Early Learning Centre",
-            "McMaster University (short drive)"
-          ],
-          "retail": [
-            "Mapleview Shopping Centre (Burlington)",
-            "Downtown Burlington retail & dining",
-            "Waterdown Memorial Park & Smokey Hollow Waterfall",
-            "Spencer Smith Park waterfront",
-            "Royal Botanical Gardens"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/387d277c-92cb-42b9-aace-a117c200f132/content",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://cdn-ilahpmh.nitrocdn.com/nbVTAdRrNnMzJgbdwFJgfUeKNMKEMdUb/assets/images/optimized/rev-d36a128/nhdg.ca/wp-content/uploads/2024/07/WATERD1-1024x512.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://cdn-ilahpmh.nitrocdn.com/nbVTAdRrNnMzJgbdwFJgfUeKNMKEMdUb/assets/images/optimized/rev-d36a128/nhdg.ca/wp-content/uploads/2024/07/WATERD1-1200x600.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/55d0c42c-db83-4d11-be4b-19e227798692/content",
-            "category": "interior",
-            "caption": ""
-          },
-          {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/e7fd57de-6d81-468b-9ee6-3c863ad3184c/content",
-            "category": "interior",
-            "caption": ""
-          },
-          {
-            "url": "https://cdn-ilahpmh.nitrocdn.com/nbVTAdRrNnMzJgbdwFJgfUeKNMKEMdUb/assets/images/optimized/rev-d36a128/nhdg.ca/wp-content/uploads/2024/07/Kitchen_A-1-1024x576.jpg",
-            "category": "interior",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "New Horizon Development Group",
-          "blurb": "New Horizon Development Group has been active in Southern Ontario since 1993, with a portfolio spanning over 30 communities from Oakville to Brantford. The Burlington-based builder's completed Waterdown projects include Interlude, Essence, Parallel, Majestic Towns, and Trend Living."
-        },
-        "faq": [
-          {
-            "q": "What is the deposit structure?",
-            "a": "1-Storey Rhythm homes: $10,000 on signing, $10,000 at 60 days, $10,000 at 120 days, and $15,000 at 180 days \u2014 total $45,000. 2-Storey Radiant homes: $10,000 on signing, then $20,000 each at 60, 120, and 180 days \u2014 total $70,000."
-          },
-          {
-            "q": "Is assignment allowed?",
-            "a": "Yes. Free assignment is included as part of the VIP launch incentive package, which is an important consideration for investors who may want to exit before final closing."
-          },
-          {
-            "q": "When is occupancy?",
-            "a": "Estimated Q1 2027, based on the current pre-construction timeline. Occupancy dates are subject to change and confirmed in the Agreement of Purchase and Sale."
-          },
-          {
-            "q": "How is HST handled?",
-            "a": "Pricing already reflects the enhanced HST rebate \u2014 meaning the advertised $399,990 (1-storey) and $649,990 (2-storey) starting prices are net of the rebate for eligible end-user buyers. Investors should review eligibility rules with their accountant."
-          },
-          {
-            "q": "What do the monthly condo fees include?",
-            "a": "Approximately $246/month, covering maintenance of common elements (roads, sidewalks, home exteriors, roof, exterior windows and doors), exterior insurance, landscaping, and snow removal."
-          }
-        ],
-        "meta": {
-          "title": "SOL Stacked Towns | New Horizon | Waterdown Pre-Construction",
-          "description": "SOL Stacked Towns by New Horizon Development Group \u2014 21 stacked townhomes from $399,990 in Waterdown East, Hamilton. VIP pricing, capped DCs, free assignment."
-        },
-        "sources": [
-          "https://nhdg.ca/discover-sol-stacked-towns-your-next-masterpiece-awaits/",
-          "https://condonow.com/SOL-Stacked-Towns",
-          "https://www.tallproperty.com/property/sol-stacked-towns-by-new-horizon-development-group-in-hamilton/"
-        ]
-      },
-      "updated_at": "2026-05-14 22:07:19"
-    },
-    {
-      "id": 23,
-      "slug": "miracle-team--keswick-heights-townhomes",
-      "project_name": "Keswick Heights Townhomes",
-      "developer": "Miracle Team",
-      "city": "Edmonton",
-      "address": "Keswick Heights, Southwest Edmonton, AB",
-      "project_type": "townhome",
-      "status": "pre-construction",
-      "starting_price": 334900.0,
-      "price_per_sqft": null,
-      "unit_count": null,
-      "completion_date": null,
-      "drive_folder_url": null,
-      "cover_image_url": "https://www.keswick-landing.community/images/home/homeHero1.jpg",
-      "cover_image_source": "gallery[0]:exterior:source-url",
-      "page_plan": {
-        "hero": {
-          "headline": "Keswick Heights Townhomes \u2014 Southwest Edmonton",
-          "subhead": "Pre-construction 3-bed, 2.5-bath condo townhomes in Keswick, Edmonton's fastest-growing southwest community, starting from the low $330s.",
-          "urgency_chip": "Limited Release",
-          "savings_chip": null,
-          "image_url": "https://www.keswick-landing.community/images/home/homeHero1.jpg"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$334,900"
-          },
-          {
-            "label": "Bedrooms",
-            "value": "3 Bed / 2.5 Bath"
-          },
-          {
-            "label": "Size",
-            "value": "1,114\u20131,302 sqft"
-          },
-          {
-            "label": "Condo Fee",
-            "value": "$190/mo"
-          }
-        ],
-        "urgency_signals": [
-          "From low $330s",
-          "5% + 5% deposit",
-          "$6,500 appliance credit",
-          "Assignment-eligible"
-        ],
-        "story_md": "Keswick Heights Townhomes is a pre-construction collection of modern condo townhouses by Miracle Team in the Keswick community of Southwest Edmonton \u2014 a master-planned neighbourhood bordered by the North Saskatchewan River and minutes from the Windermere retail corridor. Two floorplans are offered: Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900, both with three bedrooms, 2.5 bathrooms, 9-foot ceilings and quartz countertops throughout.\n\nFor end-users, the appeal is space and finish at a southwest Edmonton entry price: Model P includes a double attached garage, a full unfinished basement to grow into, and a rear deck, while every home benefits from a low $190/month condo fee covering property insurance, common-area maintenance, grass cutting and snow removal. Keswick itself is built around walking trails, constructed wetlands, the Arbour of Keswick playground, Keswick Pond, and two area schools (Joan Carr and Dr. Anne Anderson High School).\n\nFor investors, the structure is straightforward and capital-efficient. The deposit is 5% on signing and 5% in six months \u2014 well under the 15\u201320% typically required on Ontario pre-construction \u2014 and the contract permits assignment for a flat $2,500 + GST, providing a clean exit before closing. A $6,500 appliance credit at The Brick Store further reduces move-in cost. Edmonton's relative affordability versus Toronto and Vancouver, combined with steady population growth into the southwest quadrant, frames the underwriting case.\n\nClosings are targeted for 2026. Suite selection and premium/non-premium lots are limited, and the Model T cashback promotion is being run on a limited-time basis.",
-        "selling_points": [
-          {
-            "title": "Two efficient 3-bed floorplans",
-            "body": "Model T at 1,114 sqft from $334,900 and Model P at 1,302 sqft from $369,900 \u2014 both 3 bed / 2.5 bath with 9-ft ceilings and quartz countertops throughout."
-          },
-          {
-            "title": "Model P: double garage + basement",
-            "body": "Model P includes a double attached garage and a full unfinished basement that buyers can finish to their own spec, plus a rear deck off the back."
-          },
-          {
-            "title": "Capital-light 5% + 5% deposit",
-            "body": "Only 5% down at signing and another 5% in six months \u2014 a fraction of typical Ontario pre-construction deposit schedules."
-          },
-          {
-            "title": "Ultra-low $190/month condo fee",
-            "body": "Monthly fee covers property insurance, common-area maintenance, grass cutting and snow removal \u2014 keeping carrying costs predictable for owners and landlords."
-          },
-          {
-            "title": "$6,500 appliance credit",
-            "body": "Buyers receive a $6,500 credit at The Brick Store to outfit the home at closing."
-          },
-          {
-            "title": "Assignment permitted",
-            "body": "Contract allows assignment for a flat $2,500 + GST, giving investors a defined pre-closing exit option."
-          }
-        ],
-        "suites": [
-          {
-            "type": "Model T \u2014 3B/2.5B (Non-Premium)",
-            "sqft": "1,114",
-            "price_from": "$334,900",
-            "notes": "9-ft ceilings, quartz counters, rear deck."
-          },
-          {
-            "type": "Model T \u2014 3B/2.5B (Premium)",
-            "sqft": "1,114",
-            "price_from": "$339,900",
-            "notes": "Premium lot positioning."
-          },
-          {
-            "type": "Model P \u2014 3B/2.5B (Non-Premium)",
-            "sqft": "1,302",
-            "price_from": "$369,900",
-            "notes": "Double attached garage, full unfinished basement, rear deck."
-          },
-          {
-            "type": "Model P \u2014 3B/2.5B (Premium)",
-            "sqft": "1,302",
-            "price_from": "$374,900",
-            "notes": "Premium lot positioning; double garage + basement."
-          }
-        ],
-        "deposit_timeline": [
-          {
-            "label": "On signing",
-            "value": "5%",
-            "due_at": null
-          },
-          {
-            "label": "6 months after signing",
-            "value": "5%",
-            "due_at": null
-          }
-        ],
-        "incentives": [
-          {
-            "title": "$6,500 appliance credit at The Brick Store",
-            "value": "$6,500"
-          },
-          {
-            "title": "Assignment option available",
-            "value": "$2,500 + GST"
-          },
-          {
-            "title": "Low condo fees \u2014 covers insurance, grass, snow",
-            "value": "$190/mo"
-          },
-          {
-            "title": "4% co-op commission net of GST for agents",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Arbour of Keswick playground",
-          "Keswick Pond",
-          "River Valley walking trails",
-          "Parks and constructed wetlands",
-          "Rabbit Hill Snow Resort nearby",
-          "Golf courses nearby",
-          "Joan Carr K\u20139 School nearby",
-          "Dr. Anne Anderson High School nearby"
-        ],
-        "location": {
-          "blurb": "Keswick sits in Southwest Edmonton, bordered by the North Saskatchewan River to the west, with quick access via Anthony Henday Drive, Terwillegar Drive and Ellerslie Road. Windermere's retail and dining corridor and two area schools are minutes away.",
-          "transit": [
-            "South of Anthony Henday Drive (ring road)",
-            "Access via Terwillegar Drive",
-            "Access via Ellerslie Road"
-          ],
-          "schools": [
-            "Joan Carr Catholic Elementary/Junior High",
-            "Dr. Anne Anderson High School",
-            "Joey Moss K\u20139 School nearby"
-          ],
-          "retail": [
-            "Currents of Windermere",
-            "Windermere Crossing",
-            "South Edmonton Common (~10 min)"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://www.keswick-landing.community/images/home/homeHero1.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://files.constantcontact.com/04b780ce901/bac0fb02-d567-47bc-8654-c2bdee963753.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "Miracle Team",
-          "blurb": ""
-        },
-        "faq": [
-          {
-            "q": "What is the deposit structure?",
-            "a": "5% on signing and a further 5% six months later \u2014 a total of 10% spread across two installments."
-          },
-          {
-            "q": "Can I assign my unit before closing?",
-            "a": "Yes. Assignment is permitted for a flat fee of $2,500 plus GST."
-          },
-          {
-            "q": "What are the condo fees and what do they cover?",
-            "a": "$190 per month, covering property insurance, common-area maintenance, grass cutting and snow removal."
-          },
-          {
-            "q": "What's the difference between Model P and Model T?",
-            "a": "Both are 3-bed, 2.5-bath with 9-ft ceilings and quartz countertops. Model T is 1,114 sqft from $334,900. Model P is 1,302 sqft from $369,900 and adds a double attached garage and a full unfinished basement."
-          },
-          {
-            "q": "When is occupancy?",
-            "a": "The development is pre-construction with closings targeted for 2026."
-          }
-        ],
-        "meta": {
-          "title": "Keswick Heights Townhomes | Miracle Team | SW Edmonton Pre-Con",
-          "description": "Pre-construction 3-bed townhomes in Keswick, Southwest Edmonton by Miracle Team. From $334,900. 5% + 5% deposit, $6,500 appliance credit, assignment eligible."
-        },
-        "sources": [
-          "https://keswickheights.phonesites.com/",
-          "https://keswickheights.phonesites.com/homepage-copy",
-          "https://www.keswick-landing.community/"
-        ]
-      },
-      "updated_at": "2026-05-14 22:06:51"
+      "updated_at": "2026-05-15 15:49:42"
     },
     {
       "id": 13,
@@ -1410,8 +1169,8 @@
       "unit_count": 82,
       "completion_date": null,
       "drive_folder_url": "https://drive.google.com/drive/folders/1RrMbISKlGbJMf-qgqoQV9vVB4s5scA81",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/06d7568b-4f1a-4a45-82d3-5b1b0fb24932/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/losani--riverbend-townhomes/04-exterior-l2qVLroqEOong7XQPcXPgLmSZsMkR4.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
       "page_plan": {
         "hero": {
           "headline": "Riverbend Towns in Paris from the $400s",
@@ -1586,22 +1345,22 @@
         },
         "gallery": [
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/06d7568b-4f1a-4a45-82d3-5b1b0fb24932/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/losani--riverbend-townhomes/04-exterior-l2qVLroqEOong7XQPcXPgLmSZsMkR4.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/11e119c5-32c3-443a-83b3-408343f0a014/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/losani--riverbend-townhomes/03-neighbourhood-IgL653x4fOPk7PZ92TcIvW5KHTp48i.jpg",
             "category": "neighbourhood",
             "caption": ""
           },
           {
-            "url": "https://riverbendtownhomes.ca/wp-content/uploads/2025/07/riverbend-towns-by-losani-homes.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/losani--riverbend-townhomes/11-neighbourhood-UXDpMZwBVcMmBOpL9j4b8zFUORMfhP.jpg",
             "category": "neighbourhood",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/b1a82a55-e64c-496b-b527-ab5e995367c7/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/losani--riverbend-townhomes/05-interior-5nsYdfHItGUFMmq0ZE24Hwswhskt6n.jpg",
             "category": "interior",
             "caption": ""
           }
@@ -1642,7 +1401,7 @@
           "https://www.myriverbendtowns.com/"
         ]
       },
-      "updated_at": "2026-05-14 22:06:06"
+      "updated_at": "2026-05-15 15:49:16"
     },
     {
       "id": 25,
@@ -1658,8 +1417,8 @@
       "unit_count": null,
       "completion_date": null,
       "drive_folder_url": "https://drive.google.com/drive/folders/1YdKPaVQ26k9--JBRGtYgowbizCACczTX",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/7e5aa1e5-e301-4e2a-8b85-d7c0d5b368ea/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/laurier-yorkwood--caledon-trails/04-exterior-kasyozUkhixPrPPZNAPPkBpu4GOoT2.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
       "page_plan": {
         "hero": {
           "headline": "Caledon Trails: 20-Foot Towns & Detached Homes",
@@ -1851,22 +1610,22 @@
         },
         "gallery": [
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/7e5aa1e5-e301-4e2a-8b85-d7c0d5b368ea/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/laurier-yorkwood--caledon-trails/04-exterior-kasyozUkhixPrPPZNAPPkBpu4GOoT2.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/d86b2782-f004-4c32-a053-c563f5cfa182/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/laurier-yorkwood--caledon-trails/05-exterior-Bvl9r9b37D67LpcrTSBZuLCzlBIJyg.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnqw.png",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/laurier-yorkwood--caledon-trails/03-neighbourhood-EjCgB8hARIxFfzNXQZPBOQirTQmiiu.jpg",
             "category": "neighbourhood",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/tplimg/0w3m7/b/sj990/lqnqx.gif",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/laurier-yorkwood--caledon-trails/06-interior-DowUBkViAyIKld3Jzw5zRV42Ux1uYf.jpg",
             "category": "interior",
             "caption": ""
           }
@@ -1907,7 +1666,248 @@
           "https://therealtybulls.com/project/caledon-trails/"
         ]
       },
-      "updated_at": "2026-05-14 22:05:31"
+      "updated_at": "2026-05-15 15:48:46"
+    },
+    {
+      "id": 22,
+      "slug": "fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection",
+      "project_name": "Glen Abbey Encore \u2013 Lifestyle Townhomes An Encore Collection",
+      "developer": "Fernbrook Homes",
+      "city": "Oakville",
+      "address": "Bronte Rd & Upper Middle Rd W, Oakville, ON",
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 800000.0,
+      "price_per_sqft": null,
+      "unit_count": 76,
+      "completion_date": "2027-Q3",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1mYy7afeoP78N_xEy1qVbqo3XFZiC7BTx",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection/03-exterior-gydVWc6K2lV5pkUixxQQ4UThMuvVhs.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Glen Abbey Encore \u2014 Oakville's Ravine Townhomes",
+          "subhead": "Fernbrook's freehold back-to-back towns and linked detached homes in one of Oakville's last new-build pockets, backing onto 14 Mile Creek.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": null,
+          "image_url": "https://0w3m7.mjt.lu/img2/0w3m7/abda78cd-3c0a-44f4-92df-80d0a301b4cd/content"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$861,858 (after HST rebate)"
+          },
+          {
+            "label": "Size Range",
+            "value": "1,626 \u2013 3,342 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Aug \u2013 Sep 2027"
+          },
+          {
+            "label": "Total Homes",
+            "value": "76 units"
+          }
+        ],
+        "urgency_signals": [
+          "Back-to-Back Towns from $949,900",
+          "$3,000 Assignment Fee",
+          "Development Charges capped at $3,500",
+          "Ravine-backed enclave"
+        ],
+        "story_md": "Glen Abbey Encore is Fernbrook Homes' final act in Oakville's most established neighbourhood \u2014 a freehold collection of back-to-back townhomes and linked detached homes at Bronte Road & Upper Middle Road West, backing onto the Fourteen Mile Creek greenbelt. The Lifestyle Townhomes collection delivers floor plans from 1,626 to 1,918 sq ft (with optional rooftop terraces), while the linked detached residences stretch up to 3,342 sq ft for buyers who need the full single-family footprint.\n\nThe location is the story. Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey, which is the practical reason inventory in this catchment trades at a premium. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby. The beautiful parks, beaches and marinas of Lake Ontario are just minutes south, and commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. An adjacent commercial plaza brings Canadian Tire, Longos, Walmart and LCBO within a few minutes.\n\nFor pre-construction buyers, the deal economics are clean. Back-to-Back Towns require $25,000 with offer plus $15,000 every 90 days to a total of $100,000 \u2014 a manageable 10% spread over the build cycle. Development charges are capped at $3,500, the assignment fee is locked at $3,000, and POTL fees come in around $108/month with hydro, gas and water separately metered. Lots with rooftop terraces are priced from $1,059,900, and end-unit Omega plans run $1,089,900.\n\nThe Cartier (Model 2101) and Omega (Model 2102) are the two Back-to-Back floor plans on offer, both built on Block 6, 7 and 8 with August\u2013September 2027 completion windows. Stainless steel KitchenAid appliances, granite/quartz counters, hardwood floors and AYA custom cabinetry are included \u2014 finishes are not the upgrade-list afterthought they typically are in this price bracket.",
+        "selling_points": [
+          {
+            "title": "Among the last builds in Glen Abbey",
+            "body": "Glen Abbey Encore is a reflection that this is among the last new home communities that will be built within Glen Abbey \u2014 a closed-supply story in a mature, high-demand Oakville catchment."
+          },
+          {
+            "title": "Ravine enclave backing 14 Mile Creek",
+            "body": "A ravine enclave community located at Upper Middle & Bronte Road \u00b7 Just 7 minutes to Bronte Waterfront & backing onto the 14 Mile Creek Greenbelt, with 300+ km of nearby trails."
+          },
+          {
+            "title": "Two Back-to-Back Town floor plans",
+            "body": "The Cartier (Model 2101) at 1,637 sq ft and the Omega (Model 2102) at 1,626 sq ft, both with 2/3 bedrooms and optional rooftop terraces that push square footage to 1,918."
+          },
+          {
+            "title": "Capped levies and low assignment fee",
+            "body": "Development Charges capped at $3,500 and a flat $3,000 Assignment Fee \u2014 material protection against the closing-cost surprises that hit most pre-con buyers."
+          },
+          {
+            "title": "Included KitchenAid appliance package",
+            "body": "Stainless Steel KitchenAid package including French Door Bottom-Freezer Fridge, Electric Range, Dishwasher, Hood Fan and Microwave \u2014 no upgrade required."
+          },
+          {
+            "title": "Connected commute corridor",
+            "body": "Commuters will enjoy proximity to Bronte GO Station and Hwys. 407 and the QEW/403. 12 minutes from Oakville Go Station, where you'll have easy access to both GO Train & Go Bus services."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Back-to-Back Town \u2014 Cartier (2101)",
+            "sqft": "1,637 (1,863 w/ rooftop terrace)",
+            "price_from": "$949,900",
+            "notes": "2/3 beds; $861,858 after HST rebate"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Cartier End",
+            "sqft": "1,683 (1,918 w/ rooftop terrace)",
+            "price_from": "$1,059,900",
+            "notes": "End-unit with rooftop terrace"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Omega (2102)",
+            "sqft": "1,626 (1,798 w/ rooftop terrace)",
+            "price_from": "$959,900",
+            "notes": "2/3 beds; $870,708 after HST rebate"
+          },
+          {
+            "type": "Back-to-Back Town \u2014 Omega End",
+            "sqft": "1,672 (1,848 w/ rooftop terrace)",
+            "price_from": "$1,089,900",
+            "notes": "End-unit with rooftop terrace"
+          },
+          {
+            "type": "Linked Detached \u2014 The Golf / Yacht / Sterling",
+            "sqft": "2,071 \u2013 2,263",
+            "price_from": "",
+            "notes": "2/3 beds (Sterling: 3 beds)"
+          },
+          {
+            "type": "Linked Detached \u2014 Bentley / Tiffany",
+            "sqft": "3,049 \u2013 3,342",
+            "price_from": "",
+            "notes": "4 beds, largest plans in the community"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "With Offer",
+            "value": "$25,000",
+            "due_at": "On signing"
+          },
+          {
+            "label": "Every 90 days",
+            "value": "$15,000",
+            "due_at": "Recurring"
+          },
+          {
+            "label": "Total Deposit",
+            "value": "$100,000",
+            "due_at": "Over ~15 months"
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Platinum VIP Pricing & First Access to Best Availability",
+            "value": null
+          },
+          {
+            "title": "Development Charges capped at $3,500",
+            "value": "$3,500"
+          },
+          {
+            "title": "Assignment Fee capped at $3,000",
+            "value": "$3,000"
+          },
+          {
+            "title": "Stainless Steel KitchenAid Appliance Package",
+            "value": null
+          },
+          {
+            "title": "Free Lawyer Review of Purchase Agreement",
+            "value": null
+          },
+          {
+            "title": "Free Mortgage Arrangements",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Optional rooftop terraces",
+          "On-site playground and park",
+          "Backs onto Fourteen Mile Creek greenbelt",
+          "Steps to Bronte Creek Provincial Park",
+          "Private single & double-car garages",
+          "Covered front porches",
+          "Main and upper floor balconies",
+          "9-ft ceilings on finished levels",
+          "AYA custom cabinetry",
+          "Granite/quartz counters",
+          "Hardwood flooring",
+          "Access to 14 Mile Creek Trail"
+        ],
+        "location": {
+          "blurb": "Glen Abbey Encore sits at Bronte Road & Upper Middle Road West in Oakville, backing onto the Fourteen Mile Creek greenbelt with Bronte waterfront 7 minutes south. There's great shopping, top rated public, separate and private schools, popular restaurants and more all close at hand \u2014 including an all new commercial plaza located adjacent to the community. Golfers will love the proximity to Deerfield Golf Club and many other courses nearby.",
+          "transit": [
+            "5 min to Bronte GO Station",
+            "12 min to Oakville GO Station",
+            "1 min to Hwy 403",
+            "5 min to Hwy 407",
+            "10 min to QEW interchange"
+          ],
+          "schools": [
+            "Top-rated public, separate and private schools in Glen Abbey catchment"
+          ],
+          "retail": [
+            "Adjacent commercial plaza",
+            "Canadian Tire",
+            "Longos",
+            "Walmart",
+            "LCBO",
+            "Deerfield Golf Club (2 min)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection/03-exterior-gydVWc6K2lV5pkUixxQQ4UThMuvVhs.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook--glen-abbey-encore-lifestyle-townhomes-an-encore-collection/04-exterior-4wOseoBtGwWWSvn7H5FY3CXvUM9Y1X.jpg",
+            "category": "exterior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Fernbrook Homes",
+          "blurb": "Fernbrook has garnered an exceptional reputation for architectural integrity, classic design and custom-style luxury in a host of Southern Ontario locations extending across Metro and beyond. Led by industry visionary Danny Salvatore, and his son Joe, Fernbrook Homes has an eye for design that transcends the typical. For more than three decades, Fernbrook Homes has established itself as a seasoned developer known for crafting unforgettable and iconic residences. Renowned for its ability to construct unique communities, Fernbrook Homes unquestionably stands at the forefront of the Greater Toronto Area's real estate landscape."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure for the Back-to-Back Towns?",
+            "a": "$25,000 with offer, then $15,000 every 90 days to a total of $100,000. All deposits are payable to FERNBROOK HOMES (BRONTE GREEN 76) LTD."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Back-to-Back Town completion dates range from August 11, 2027 to September 16, 2027, depending on lot and block."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Assignment is permitted with a flat $3,000 assignment fee per the current incentive package."
+          },
+          {
+            "q": "Are development charges and levies capped?",
+            "a": "Yes \u2014 Development Charges are capped at $3,500 for purchases under the current incentive package, providing closing-cost certainty."
+          },
+          {
+            "q": "What are the monthly POTL fees and what do they include?",
+            "a": "Approximately $108 per month. Hydro, gas and water are separately metered and billed directly to the homeowner."
+          }
+        ],
+        "meta": {
+          "title": "Glen Abbey Encore by Fernbrook Homes | Oakville Pre-Construction",
+          "description": "Glen Abbey Encore: freehold back-to-back towns from $949,900 and linked detached homes by Fernbrook Homes in Oakville. Ravine setting, 2027 occupancy."
+        },
+        "sources": [
+          "https://www.fernbrookhomes.com/encore/",
+          "https://www.fernbrookhomes.com/residential/encore",
+          "https://www.allaccesshomes.ca/projects/glen-abbey-encore/"
+        ]
+      },
+      "updated_at": "2026-05-15 15:48:16"
     },
     {
       "id": 16,
@@ -1923,8 +1923,8 @@
       "unit_count": 160,
       "completion_date": "2027-Q1",
       "drive_folder_url": "https://drive.google.com/drive/folders/1SWTXBBfzQNMMUQ_0VsyhbbghgtBWPwux",
-      "cover_image_url": "https://0w3m7.mjt.lu/img2/0w3m7/50c1c970-ba12-44e4-b05f-89fb21d096ac/content",
-      "cover_image_source": "gallery[0]:exterior:source-url",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/04-exterior-hc8NczrqugBR8GMYI0G7yoX45mUCUD.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
       "page_plan": {
         "hero": {
           "headline": "Bronte Riverview: South Oakville at the Park's Edge",
@@ -2116,32 +2116,32 @@
         },
         "gallery": [
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/50c1c970-ba12-44e4-b05f-89fb21d096ac/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/04-exterior-hc8NczrqugBR8GMYI0G7yoX45mUCUD.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/49c3fcfa-f1dd-40bc-a867-80378dfe9394/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/05-exterior-yF8OYYbEGSH1GbP4Xj5klOlp4GBJuB.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/9f02a19a-0bb2-4676-b21a-98ee5cc48e8e/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/06-exterior-vWiqVPUi5OvOUNt9CAnBxUOgQu9VK6.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://caivan.com/wp-content/uploads/2025/05/BRONT-Aerial-FINAL-web.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/12-exterior-rX0Btb4yZYMSDbUOKhW68sLgdAlFFN.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://caivan.com/wp-content/uploads/2026/04/ADHOC-BRONT-C3-Streetscape-250814-FINAL-HR.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/13-exterior-v3B9ZS5GYONhghLTDez96oeigup2IM.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://0w3m7.mjt.lu/img2/0w3m7/a956cc26-2a9b-4eb8-bdf5-2a3f3291e3cf/content",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/caivan--bronte-riverview/07-interior-zUYvbvcC3fFZLTwYE2geY1tWbtYJQQ.jpg",
             "category": "interior",
             "caption": ""
           }
@@ -2182,7 +2182,7 @@
           "https://riverview-oakville.ca/"
         ]
       },
-      "updated_at": "2026-05-14 22:04:36"
+      "updated_at": "2026-05-15 15:47:55"
     }
   ]
 }
