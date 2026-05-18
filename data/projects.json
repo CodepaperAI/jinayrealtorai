@@ -1,7 +1,217 @@
 {
   "version": 1,
-  "count": 10,
+  "count": 11,
   "projects": [
+    {
+      "id": 27,
+      "slug": "branthaven--canvas-hill",
+      "project_name": "Canvas Hill",
+      "developer": "Branthaven",
+      "city": "Burlington",
+      "address": null,
+      "project_type": "detached",
+      "status": "public launch",
+      "starting_price": null,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/14-amenity-VYKiK3HZ28aF6h5Y7vUhXjjrGFl51v.jpg",
+      "cover_image_source": "gallery[0]:amenity:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Canvas Hill Estates in Glen Williams",
+          "subhead": "Branthaven's collection of 32 custom estate homes on 80\u2013100-foot lots in heritage-rich Glen Williams, Georgetown.",
+          "urgency_chip": "Now Selling",
+          "savings_chip": null,
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/14-amenity-VYKiK3HZ28aF6h5Y7vUhXjjrGFl51v.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "Mid-$2M"
+          },
+          {
+            "label": "Home Size",
+            "value": "Up to 8,000 sq ft"
+          },
+          {
+            "label": "Lot Width",
+            "value": "80'\u2013100'"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Spring 2027"
+          }
+        ],
+        "urgency_signals": [
+          "Only 32 estate homes",
+          "Three curated collections",
+          "5 min to Georgetown",
+          "Backs to conservation lands"
+        ],
+        "story_md": "Canvas Hill is Branthaven's luxury estate-home enclave set atop a hilltop in the heritage village of Glen Williams, Georgetown \u2014 not Burlington proper. The community is intentionally small: just 32 custom homes on generous 80- to 100-foot lots, framed by the rolling hills of the Credit Valley and protected conservation lands.\n\nThe product is purpose-built for buyers trading up to estate living. Floor plans scale up to roughly 8,000 sq ft across Bungalows, Bungalows with Lofts, 2-Storey, Walk-Out, and Walk-Up designs, organized into three curated Home Collections (Brightside, Walk-Out, and Walk-Up). Interiors feature soaring great rooms, entertainment kitchens, covered porches, and options like servery wine showcases, in-law suites, and finished basements with pool change rooms \u2014 the kind of program that supports multi-generational families and serious entertainers.\n\nLocation is the second half of the thesis. Canvas Hill sits roughly five minutes from downtown Georgetown, with the Georgetown GO station (Kitchener Line) and Highway 7 connecting the enclave to the broader GTA. The Credit River watershed runs beside the community, and the historic 1826 Glen Williams Mill \u2014 restored as the project's presentation centre at 515 Main Street \u2014 anchors the experience.\n\nFor buyers, the case is straightforward: a 50-year-old, family-owned Ontario builder; a finite release of 32 homes; estate-sized lots in a supply-constrained heritage hamlet; and a Spring 2027 closing window that gives time to plan the move. Sales are active now from the mid-$2 millions.",
+        "selling_points": [
+          {
+            "title": "Only 32 estate homes",
+            "body": "A finite, hilltop enclave of 32 custom residences on 80- to 100-foot lots \u2014 privacy and scarcity built into the master plan."
+          },
+          {
+            "title": "Up to 8,000 sq ft of living space",
+            "body": "Floor plans scale from bungalows to two-storey estates, with soaring great rooms, entertainment kitchens, and covered porches."
+          },
+          {
+            "title": "Three curated collections",
+            "body": "Brightside, Walk-Out, and Walk-Up Collections offer bungalows, bungalows with lofts, and two-storey designs tuned to the rolling terrain."
+          },
+          {
+            "title": "Heritage Glen Williams setting",
+            "body": "Protected conservation lands and the Credit River watershed wrap the community \u2014 five minutes to downtown Georgetown."
+          },
+          {
+            "title": "50-year Branthaven pedigree",
+            "body": "Family-owned Ontario builder founded in 1971, with an HCRA-registered track record across estate homes, towns, and condos."
+          },
+          {
+            "title": "Customization built in",
+            "body": "Multiple elevations per plan plus options including in-law suites, finished basements, pet wash stations, and pool change rooms."
+          }
+        ],
+        "suites": [
+          {
+            "type": "The William \u2013 2-Storey (Brightside)",
+            "sqft": "5,815",
+            "price_from": "",
+            "notes": "4 bed / 4.5 bath, 2-car garage, optional 5-bedroom second floor and in-law suite."
+          },
+          {
+            "type": "The Sheridan \u2013 Walk-Out",
+            "sqft": "5,010",
+            "price_from": "",
+            "notes": "4 bed / 4.5 bath, 2-car garage, optional pet wash and finished basement with pool change room."
+          },
+          {
+            "type": "Bungalow Collection",
+            "sqft": "",
+            "price_from": "$2.49M",
+            "notes": "Single-level estate bungalows, 3\u20135 beds."
+          },
+          {
+            "type": "Two-Storey Collection",
+            "sqft": "Up to 8,000",
+            "price_from": "",
+            "notes": "3\u20135 beds; pricing reported into the $3M range."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "$30,000",
+            "due_at": null
+          }
+        ],
+        "incentives": [],
+        "amenities": [
+          "Soaring great rooms",
+          "Entertainment kitchens",
+          "Covered outdoor porches",
+          "Optional in-law suite",
+          "Optional pet wash",
+          "Optional finished basement",
+          "Optional pool change room",
+          "Two-car garages",
+          "Multiple elevation options"
+        ],
+        "location": {
+          "blurb": "Canvas Hill sits about five minutes from downtown Georgetown in the heritage hamlet of Glen Williams, framed by protected conservation lands and the Credit River watershed. The Georgetown GO station on the Kitchener Line and Highway 7 connect the community to the broader GTA.",
+          "transit": [
+            "~5 min to downtown Georgetown",
+            "Georgetown GO Station (Kitchener Line)",
+            "Highway 7 access to GTA",
+            "VIA Rail service through Georgetown"
+          ],
+          "schools": [
+            "Glen Williams Public School (512 Main Street)",
+            "St. Francis of Assisi Catholic Elementary",
+            "Georgetown District High School"
+          ],
+          "retail": [
+            "Historic Main Street Glen Williams \u2014 boutiques & dining",
+            "Georgetown Market Place (~6 min)",
+            "Real Canadian Superstore & FreshCo Georgetown (<10 min)",
+            "Toronto Premium Outlets (south of Georgetown)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/14-amenity-VYKiK3HZ28aF6h5Y7vUhXjjrGFl51v.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/17-amenity-D2AVqXaBjpvkwGOJXCmLSkvVsOofEe.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/18-amenity-Kc6j0uvUREYyzREZmzfrLlpQket6Y3.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/03-interior-zanOnkFUa65U3eSGvlnNeI49qVQxZ0.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/15-interior-BUrTL0dFc9A51gl4zbhWtzJjUDBzWI.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/branthaven--canvas-hill/16-interior-RqBqTMP3wL6ibXfnSFc0lplMPkCsSs.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Branthaven Homes",
+          "blurb": "Family-owned Ontario builder founded in Burlington in 1971, celebrating 50 years of homebuilding excellence across estate homes, townhomes, boutique condos, and luxury rentals. HCRA-registered and known for its design-forward Fresh Thinking\u2122 approach."
+        },
+        "faq": [
+          {
+            "q": "Where exactly is Canvas Hill located?",
+            "a": "The community is at 102 Confederation Street in the Glen Williams neighbourhood of Georgetown (Halton Hills), about five minutes from downtown Georgetown. The presentation centre is the restored 1826 Glen Williams Mill at 515 Main Street."
+          },
+          {
+            "q": "How many homes are being built and how big are they?",
+            "a": "Canvas Hill is limited to 32 custom estate homes on 80- to 100-foot lots, with floor plans scaling up to approximately 8,000 sq ft across Bungalow, Bungalow-with-Loft, 2-Storey, Walk-Out, and Walk-Up designs."
+          },
+          {
+            "q": "What is the deposit structure?",
+            "a": "Per current sales information, $30,000 is due at signing of the purchase agreement. Confirm full deposit terms with the sales centre."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Anticipated closing is Spring 2027."
+          },
+          {
+            "q": "What do prices start at?",
+            "a": "Estate homes begin from the mid-$2 millions, with reported pricing ranging from approximately $2.49M into the low-$3M range depending on plan and collection."
+          }
+        ],
+        "meta": {
+          "title": "Canvas Hill by Branthaven \u2014 Glen Williams, Georgetown Pre-Construction",
+          "description": "Branthaven's Canvas Hill \u2014 32 custom estate homes on 80\u2013100-ft lots in heritage Glen Williams, Georgetown. Mid-$2M+, Spring 2027 occupancy."
+        },
+        "sources": [
+          "https://www.branthaven.com/communities/canvas-hill/",
+          "https://canvashill.ca/",
+          "https://nexthome.ca/news/branthaven-is-redefining-luxury-living-bringing-luxury-estate-living-to-glen-williams-georgetown-and-creditview-brampton-cover-story/66042"
+        ]
+      },
+      "updated_at": "2026-05-18 20:23:38"
+    },
     {
       "id": 26,
       "slug": "distrikt--distrikt-trailside",
