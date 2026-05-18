@@ -1,7 +1,260 @@
 {
   "version": 1,
-  "count": 9,
+  "count": 10,
   "projects": [
+    {
+      "id": 26,
+      "slug": "distrikt--distrikt-trailside",
+      "project_name": "Distrikt Trailside",
+      "developer": "Distrikt Developments",
+      "city": "Oakville",
+      "address": "Neyagawa Blvd & Dundas St W, Oakville (Phase 1: 405 Dundas St W; Phase 2: 395 Dundas St W)",
+      "project_type": "mixed-use",
+      "status": "public launch",
+      "starting_price": 389900.0,
+      "price_per_sqft": null,
+      "unit_count": 349,
+      "completion_date": null,
+      "drive_folder_url": "https://drive.google.com/drive/folders/12Dx-EXDFTM8SBIKm3BZPFODNTwdqJezW",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/04-exterior-xalFjkjWGPpXCMJmWPBERTp7u3b4RZ.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Distrikt Trailside \u2014 Move-In Ready in Oakville",
+          "subhead": "A 10-storey master-planned mixed-use community at Dundas & Neyagawa with finished suites, included parking, and HST in the price.",
+          "urgency_chip": "Final Phase",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/04-exterior-xalFjkjWGPpXCMJmWPBERTp7u3b4RZ.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$389,900"
+          },
+          {
+            "label": "Suites",
+            "value": "1B \u2013 3B + Towns"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Move-In Ready"
+          },
+          {
+            "label": "Deposit",
+            "value": "5% Down"
+          }
+        ],
+        "urgency_signals": [
+          "Move-in ready suites",
+          "$0 Development Charges",
+          "$0 Occupancy Fees",
+          "Parking & Locker included"
+        ],
+        "story_md": "Distrikt Trailside is a finished, master-planned community at Neyagawa Blvd and Dundas St W in Oakville, built across two 10-storey mid-rise buildings plus a collection of three-storey townhomes on a six-acre site. Designed by Kirkor Architect + Planners, the mixed-use project offers a wide variety of unit types and layouts, with interiors by award-winning firm figure3 and landscape design by Adesso. Phase 1 (405 Dundas) and Phase 2/2.0 (395 Dundas) are now offering move-in ready inventory \u2014 buyers can tour a finished suite, sign at 5% down, and close.\n\nThe pricing structure is the story here. Suites start at $389,900 for a 1-bedroom and run through 3-bedroom layouts above 1,400 sq ft, with HST included in the purchase price, $0 development charges, $0 occupancy fees, and parking and locker bundled into every suite. Distrikt Trailside 2.0 offers a total of 349 suites with nine to 10 ft. ceilings, and over 15,000 sq. ft. of indoor and outdoor amenity space. Maintenance is estimated at $0.61/sq ft with hydro, heat and water individually metered.\n\nLocation is the second story. Trailside 2.0 is within walking distance of community centres and sports complexes, restaurants and retail, multiple highly ranked schools, and is within 5 km of the Oakville GO Station. The site sits minutes from the QEW, Highway 403 and Highway 407, with the future Oakville BRT corridor planned along Dundas. There are lush green spaces nearby including parks and over 200 kilometres of natural trails for residents to explore, including Lions Valley Park, Morrison Valley Trail, Great Lakes Waterfront Trail, Bronte Bluffs Park, Lakeside Park, Sixteen Mile Sports Complex, Glen Abbey Golf Club and Oakville Golf Club.\n\nFor end-users, this is a rare chance to buy a finished new-build at pre-construction-style terms. For investors, the project is assignment-eligible, with property management and leasing services available \u2014 useful in a market where most pre-con stock won't close for years.",
+        "selling_points": [
+          {
+            "title": "Move-in ready with 5% down",
+            "body": "Finished suites at 395 and 405 Dundas are available to tour and close immediately \u2014 only a 5% deposit is required, with no waiting for delayed occupancy."
+          },
+          {
+            "title": "$0 dev charges, $0 occupancy fees",
+            "body": "Development charges and occupancy fees are both waived on every suite, and HST is included in the purchase price \u2014 saving buyers up to $130,000 versus comparable new builds."
+          },
+          {
+            "title": "Parking and locker included",
+            "body": "Every suite includes a parking spot and locker \u2014 3-bedroom suites and townhomes include two of each. Real value baked in at the listed price."
+          },
+          {
+            "title": "Kirkor + figure3 design",
+            "body": "Architecture by Kirkor and interiors by award-winning firm figure3, with Italian Trevisano kitchens, quartz counters and 9-ft ceilings (10-ft on penthouse levels)."
+          },
+          {
+            "title": "15,000+ sq ft of amenities",
+            "body": "Double-height lobby with 24-hour concierge, double-height fitness studio, 6th-floor lounge, private dining, games room and outdoor terraces with BBQs and trellised dining."
+          },
+          {
+            "title": "Oakville location, GTA connectivity",
+            "body": "Minutes to QEW, 403 and 407, within 5 km of Oakville GO, and walkable to Fortinos, SmartCentres and Oakville Place \u2014 in one of Canada's most-livable cities."
+          }
+        ],
+        "suites": [
+          {
+            "type": "1B/1B",
+            "sqft": "494",
+            "price_from": "$389,900",
+            "notes": "Phase 2 \u2014 parking + locker included"
+          },
+          {
+            "type": "1B+Den/1.5B",
+            "sqft": "709",
+            "price_from": "$507,900",
+            "notes": "Phase 1"
+          },
+          {
+            "type": "2B/2B",
+            "sqft": "767\u2013859",
+            "price_from": "$576,900",
+            "notes": "Includes parking + locker(s)"
+          },
+          {
+            "type": "2B+Den/2B",
+            "sqft": "1,015\u20131,140",
+            "price_from": "$690,900",
+            "notes": "Available across both phases"
+          },
+          {
+            "type": "3B/2B",
+            "sqft": "1,070\u20131,216",
+            "price_from": "$788,900",
+            "notes": "2 parking + 2 lockers included"
+          },
+          {
+            "type": "Townhome 2B/2.5B",
+            "sqft": "1,055\u20131,378",
+            "price_from": "$642,900",
+            "notes": "Phase 1 townhome collection"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "5% of purchase price",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "HST rebate savings of up to $130,000",
+            "value": "$130,000"
+          },
+          {
+            "title": "HST included in purchase price",
+            "value": null
+          },
+          {
+            "title": "$0 development charges",
+            "value": null
+          },
+          {
+            "title": "$0 occupancy fees",
+            "value": null
+          },
+          {
+            "title": "Parking & locker included",
+            "value": null
+          },
+          {
+            "title": "Assignment available",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "24-hour concierge lobby",
+          "Double-height fitness studio",
+          "Yoga & Pilates indoor/outdoor spaces",
+          "Party/residents' lounge with fireplace",
+          "Bar & catering kitchen",
+          "Private dining room",
+          "Games room",
+          "Outdoor terrace with BBQs",
+          "Pet washing station",
+          "Parcel storage & mail room",
+          "Ground-floor retail",
+          "EV charging infrastructure"
+        ],
+        "location": {
+          "blurb": "Distrikt Trailside sits on a 6-acre site at Neyagawa Blvd & Dundas St W in north Oakville, minutes from the QEW, Hwy 403 and Hwy 407 and within 5 km of Oakville GO Station. The neighbourhood pairs verdant parks and ravines with walkable retail and some of the region's top-ranked public and private schools.",
+          "transit": [
+            "Within 5 km of Oakville GO Station (Lakeshore West)",
+            "Bronte GO Station under 15 minutes",
+            "Minutes to QEW, Hwy 403 and Hwy 407",
+            "Future Oakville BRT corridor along Dundas"
+          ],
+          "schools": [
+            "White Oaks Secondary School (IB)",
+            "St. Thomas Aquinas Catholic Secondary School (IB)",
+            "Appleby College",
+            "MacLachlan College",
+            "Sheridan College \u2014 ~9 min"
+          ],
+          "retail": [
+            "Oakville Place Shopping Centre (100+ stores)",
+            "SmartCentres Oakville",
+            "Fortinos",
+            "Real Canadian Superstore",
+            "Cineplex Cinemas Winston Churchill"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/04-exterior-xalFjkjWGPpXCMJmWPBERTp7u3b4RZ.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/19-exterior-JmstZCzLsuIyGrvjr6wPJuh4Sx8b72.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/21-exterior-aWwvXdOodKZU35laKFkqnWppmMNyeT.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/06-amenity-cX80JN32Gr010o38ywTHYenerOtQs2.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/20-neighbourhood-y0jkbudoq6o2PKxUb8kvJl66FyjtSR.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/distrikt--distrikt-trailside/05-interior-Trk3KF5JZs2qHG6ywlHFpfPAUvu6oz.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Distrikt Developments",
+          "blurb": "Distrikt Developments has been designing and constructing homes across the GTA for over a decade, with a focus on residential land and multi-family properties. Distrikt is proud to be developing over 1,500 units in Oakville."
+        },
+        "faq": [
+          {
+            "q": "What deposit is required?",
+            "a": "Only 5% down on signing. There are no further scheduled deposit instalments \u2014 the project is move-in ready."
+          },
+          {
+            "q": "Is HST included in the price?",
+            "a": "Yes. HST is included in the purchase price, and the HST rebate provides savings of up to $130,000 (subject to eligibility and program terms)."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Move-in ready. Phase 1 (405 Dundas St W) and Phase 2/2.0 (395 Dundas St W) both have finished suites available to tour and close on now."
+          },
+          {
+            "q": "Are parking and locker included?",
+            "a": "Yes. 1-bedroom suites include 1 parking + 1 locker; most 2-bedroom suites include 1 parking + 2 lockers; 3-bedroom suites and townhomes include 2 parking + 2 lockers. Parking maintenance is $58.80/month and locker maintenance is $23.48/month."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Assignment is available at a reduced fee of $1,000 + HST. Property management and leasing services are also offered through the developer."
+          }
+        ],
+        "meta": {
+          "title": "Distrikt Trailside \u2014 Distrikt Developments | Oakville Move-In Ready",
+          "description": "Distrikt Trailside in Oakville: move-in ready suites from $389,900 with 5% down, $0 dev charges, parking & locker included, and HST in the price."
+        },
+        "sources": [
+          "https://www.distrikt.com/community/trailside-1/",
+          "https://constructionlinks.ca/news/trailside-2-0-establishes-distrikt-as-leading-developer-in-oakville/",
+          "https://www.gta-homes.com/oakville-condos/distrikt-trailside-2/"
+        ]
+      },
+      "updated_at": "2026-05-18 18:16:30"
+    },
     {
       "id": 19,
       "slug": "primont--wasaga-walk",
