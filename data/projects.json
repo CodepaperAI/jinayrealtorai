@@ -3,6 +3,211 @@
   "count": 9,
   "projects": [
     {
+      "id": 19,
+      "slug": "primont--wasaga-walk",
+      "project_name": "Wasaga Walk",
+      "developer": "Primont Homes",
+      "city": "Wasaga Beach",
+      "address": null,
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 449990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-jcvROpREJlS0a1HuaERxwOjbsOu0Z2.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Wasaga Walk \u2014 Townhomes Steps From the Beach",
+          "subhead": "Primont Homes' freehold townhome community at 66th Street North & Mosley Street, minutes from Ontario's longest freshwater shoreline.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-jcvROpREJlS0a1HuaERxwOjbsOu0Z2.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$449,990"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3\u20135"
+          },
+          {
+            "label": "Home Type",
+            "value": "Freehold Towns"
+          },
+          {
+            "label": "Launch",
+            "value": "Summer 2025"
+          }
+        ],
+        "urgency_signals": [
+          "Steps to Wasaga Beach",
+          "Highway 26 & 400 access",
+          "Freehold \u2014 no condo fees",
+          "Limited VIP release"
+        ],
+        "story_md": "Wasaga Walk is a <cite index=\"12-3,12-4\">new townhome community by Primont Homes, ideally situated at 66th Street North and Mosley Street in the heart of Wasaga Beach, Ontario, launching in Summer 2025</cite>. The community sits <cite index=\"12-5\">just minutes from the world's longest freshwater beach</cite>, putting residents on the doorstep of Nottawasaga Bay while keeping Barrie, Collingwood, and the GTA within an easy drive.\n\nThe site plan is built around family-sized product. According to Primont's VP of Marketing, <cite index=\"23-5,23-6\">Wasaga Walk offers a mix of three-to five-bedroom traditional and back-to-back units that combine design-forward style, comfort, and exceptional value, ranging in size from 1,235 to 1,660 square feet</cite>. In total, <cite index=\"23-4\">Wasaga Walk will include 315 townhomes</cite> at the west end of Mosley Street, within walking distance of Beach Area 6.\n\nFor investors, the macro story is doing real work. <cite index=\"12-19\">Wasaga Beach is one of Ontario's fastest-growing communities, with its population increasing by over 20%</cite>, and <cite index=\"12-14\">projects like the $38 million Destination Wasaga initiative are enhancing local infrastructure and livability</cite>. The municipal downtown revitalization layered on top of a tourism economy supports both short-term rental demand and long-term appreciation in a supply-constrained market.\n\nThe builder is the other reason this project clears the bar. <cite index=\"25-8\">For over 50 years, Primont Homes has been a trusted family-owned and operated home builder in the Greater Toronto Area, delivering exceptional craftsmanship and quality</cite>, with <cite index=\"25-6\">over 5,000 homes built across the GTA</cite>. Starting prices at $449,990 after the HST rebate make this one of the most accessible new-build entry points on the south shore of Georgian Bay.",
+        "selling_points": [
+          {
+            "title": "Townhomes from $449,990",
+            "body": "Entry pricing reflects the HST rebate for qualified buyers \u2014 a saving of up to $130,000 off list."
+          },
+          {
+            "title": "Freehold tenure, no condo fees",
+            "body": "Wasaga Walk offers a limited collection of freehold townhomes, so monthly carrying costs stay predictable."
+          },
+          {
+            "title": "3\u20135 bedroom family layouts",
+            "body": "A mix of traditional and back-to-back townhomes ranging from 1,235 to 1,660 sq ft, designed for young families and four-season living."
+          },
+          {
+            "title": "Walking distance to Beach Area 6",
+            "body": "Located at the west end of Mosley Street, residents are within walking distance of the world's longest freshwater beach."
+          },
+          {
+            "title": "Macro tailwinds in Wasaga Beach",
+            "body": "Population growth over 20% plus a $38M Destination Wasaga investment support long-term appreciation in a supply-constrained resort market."
+          },
+          {
+            "title": "Primont Homes \u2014 50+ year builder",
+            "body": "Family-owned GTA builder with more than 5,000 homes delivered, providing execution confidence on pre-construction commitments."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Townhome 3BR",
+            "sqft": "1,235\u20131,660",
+            "price_from": "$449,990",
+            "notes": "Traditional and back-to-back layouts"
+          },
+          {
+            "type": "Townhome 4BR",
+            "sqft": "1,235\u20131,660",
+            "price_from": "",
+            "notes": "Family-sized layout"
+          },
+          {
+            "type": "Townhome 5BR",
+            "sqft": "1,235\u20131,660",
+            "price_from": "",
+            "notes": "Largest plan in the collection"
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "HST rebate up to $130,000 for qualified buyers",
+            "value": "$130,000"
+          },
+          {
+            "title": "Starting price of $449,990 reflects the HST rebate",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Walking distance to Beach Area 6",
+          "Wasaga Beach Provincial Park nearby",
+          "Wasaga Beach Farmers' Market \u2014 4 min",
+          "Skull Island Adventure Golf \u2014 11 min",
+          "Carly Patterson Memorial Trail \u2014 5 min",
+          "Blueberry Plains Trail \u2014 <15 min",
+          "Georgian Trail (Collingwood)"
+        ],
+        "location": {
+          "blurb": "Wasaga Walk sits at 66th Street North & Mosley Street, putting residents minutes from Ontario's longest freshwater beach and a short drive from Barrie, Collingwood, and Blue Mountain. Highways 26 and 400 keep the GTA accessible, and Collingwood General & Marine Hospital is roughly 10 minutes away.",
+          "transit": [
+            "Highway 26 nearby",
+            "Highway 400 within reach",
+            "Colltrans & Simcoe County LINX public transit",
+            "~10 min drive to Collingwood",
+            "~8 min to Georgian College South Georgian Bay Campus"
+          ],
+          "schools": [
+            "Wasaga Beach Public School",
+            "St. Noel Chabanel Catholic Elementary",
+            "Worsley Elementary"
+          ],
+          "retail": [
+            "Wasaga Beach Farmers' Market \u2014 4 min",
+            "Downtown Wasaga Beach revitalization area",
+            "Grocery, restaurants & essentials within minutes"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-jcvROpREJlS0a1HuaERxwOjbsOu0Z2.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/02-exterior-Lm6qZxFG1YRSsgVDMZiiKfkyaL4x83.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/04-exterior-rQ86J8HNK6f423OH2tWy59sm3wwIC4.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/10-exterior-zl5dhRORea0Ses84FRnzGIJ2y9J9O7.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/11-exterior-cH2VYP5GbLmZk2VRizkBSXnqvQwDV5.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/12-exterior-93HTD1H0geIGzfc2P7B37qoH24MmoM.jpg",
+            "category": "exterior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Primont Homes",
+          "blurb": "Family-owned GTA homebuilder operating for over 50 years with more than 5,000 homes built, now in its second generation of leadership and a member of BILD."
+        },
+        "faq": [
+          {
+            "q": "Where exactly is Wasaga Walk located?",
+            "a": "At 66th Street North and Mosley Street in Wasaga Beach, at the west end of Mosley within walking distance of Beach Area 6."
+          },
+          {
+            "q": "What sizes and bedroom counts are offered?",
+            "a": "A mix of traditional and back-to-back townhomes from roughly 1,235 to 1,660 square feet, in 3, 4, and 5-bedroom layouts."
+          },
+          {
+            "q": "Are these freehold or condo townhomes?",
+            "a": "Freehold townhomes \u2014 no condo fees. The community is a limited collection by Primont Homes."
+          },
+          {
+            "q": "How is the starting price of $449,990 achieved?",
+            "a": "The $449,990 starting price reflects the HST rebate for qualified buyers, representing savings of up to $130,000."
+          },
+          {
+            "q": "Who is the builder and when does the community launch?",
+            "a": "Primont Homes \u2014 a 50+ year family-owned GTA builder with 5,000+ homes built \u2014 is launching Wasaga Walk in Summer 2025."
+          }
+        ],
+        "meta": {
+          "title": "Wasaga Walk by Primont Homes | Wasaga Beach Pre-Construction",
+          "description": "Freehold 3\u20135 bedroom townhomes by Primont Homes at 66th St N & Mosley, Wasaga Beach. From $449,990 after HST rebate. VIP launch \u2014 register now."
+        },
+        "sources": [
+          "https://wasagawalktowns.com/",
+          "https://primont.com/low-rise/wasaga-beach/wasaga-walk",
+          "https://www.escarpmentmagazine.ca/real-estate/on-the-waterfront/"
+        ]
+      },
+      "updated_at": "2026-05-18 18:00:05"
+    },
+    {
       "id": 21,
       "slug": "wild-indigo",
       "project_name": "Wild Indigo",
@@ -240,215 +445,6 @@
         ]
       },
       "updated_at": "2026-05-15 15:51:28"
-    },
-    {
-      "id": 19,
-      "slug": "primont--wasaga-walk",
-      "project_name": "Wasaga Walk",
-      "developer": "Primont Homes",
-      "city": "Wasaga Beach",
-      "address": null,
-      "project_type": "townhome",
-      "status": "VIP launch",
-      "starting_price": 449990.0,
-      "price_per_sqft": null,
-      "unit_count": null,
-      "completion_date": null,
-      "drive_folder_url": null,
-      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-O0LcSGFSfACp9hgjqNlHwNcLGNSmW2.jpg",
-      "cover_image_source": "gallery[0]:exterior:blob",
-      "page_plan": {
-        "hero": {
-          "headline": "Wasaga Walk: Freehold Towns Steps from the Beach",
-          "subhead": "A limited collection of 3\u20135 bedroom freehold townhomes by Primont Homes at 66th Street North & Mosley Street, minutes from Wasaga Beach.",
-          "urgency_chip": "VIP Launch",
-          "savings_chip": "Save up to $130,000",
-          "image_url": "https://wasagawalktowns.com/wp-content/uploads/2025/06/wasaga-walk-townhomes-by-the-beach.jpg"
-        },
-        "quick_stats": [
-          {
-            "label": "Starting",
-            "value": "$449,990"
-          },
-          {
-            "label": "Bedrooms",
-            "value": "3\u20135"
-          },
-          {
-            "label": "Type",
-            "value": "Freehold Townhome"
-          },
-          {
-            "label": "Occupancy",
-            "value": "Summer 2025 launch"
-          }
-        ],
-        "urgency_signals": [
-          "Steps to Wasaga Beach",
-          "Highway 26 & 400 access",
-          "Freehold \u2014 no condo fees",
-          "VIP first-access release"
-        ],
-        "story_md": "Wasaga Walk is a limited collection of freehold townhomes by Primont Homes, set at 66th Street North and Mosley Street in the heart of Wasaga Beach. The community sits minutes from the world's longest freshwater beach on Nottawasaga Bay, with 3\u20135 bedroom layouts designed for families, end-users, and investors who want resort-town living without condo fees.\n\nPricing starts at $449,990 after the HST rebate \u2014 a rare entry point in a market where the developer's published range opens from the $600,000s. Buyers in the VIP release get first access to floor plans and pricing before the public launch, with qualified purchasers eligible to save up to $130,000 through the HST rebate program.\n\nThe location is the investment story. Wasaga Beach is one of Ontario's fastest-growing municipalities, with population already up more than 20% and projected to double over the next 30 years. The province has committed a $38-million Destination Wasaga investment to redevelop the waterfront and downtown \u2014 adding a boutique hotel, river marina, music hall, and pedestrian bridge \u2014 work that is now moving from concept to construction. That public investment, paired with 14 km of shoreline drawing more than two million visitors a year, supports long-term appreciation and short-term rental demand.\n\nPrimont Homes has been building since 1971, with more than 5,000 homes delivered across the GTA under second-generation family leadership. For buyers who want pre-construction exposure to a supply-constrained resort market \u2014 backed by a builder with a 50-year track record \u2014 Wasaga Walk is one of the cleanest entry points on the board.",
-        "selling_points": [
-          {
-            "title": "Townhomes from $449,990 after HST rebate",
-            "body": "Entry pricing positions Wasaga Walk well below the developer's published from-the-$600,000s range, with the HST rebate saving qualified buyers up to $130,000."
-          },
-          {
-            "title": "Freehold tenure \u2014 no condo fees",
-            "body": "Primont is delivering a limited collection of freehold townhomes, so owners avoid monthly maintenance fees common to stacked or condo-titled product."
-          },
-          {
-            "title": "3\u20135 bedroom family layouts",
-            "body": "Floor plans span three to five bedrooms, sized for end-user families as well as multi-bedroom rental demand in a tourism-driven market."
-          },
-          {
-            "title": "Steps from the world's longest freshwater beach",
-            "body": "Located at 66th Street North and Mosley Street, the site is walking distance to Nottawasaga Bay's 14 km of sandy shoreline across eight beach areas."
-          },
-          {
-            "title": "$38M Destination Wasaga catalyst",
-            "body": "A provincial $38-million investment is redeveloping the downtown and waterfront with a boutique hotel, river marina, and pedestrian bridge \u2014 backing long-term appreciation."
-          },
-          {
-            "title": "Built by Primont Homes \u2014 50+ years, 5,000+ homes",
-            "body": "Founded in 1971 and now under second-generation family leadership, Primont has delivered more than 5,000 homes across the GTA."
-          }
-        ],
-        "suites": [
-          {
-            "type": "3 Bedroom Townhome",
-            "sqft": "",
-            "price_from": "$449,990",
-            "notes": "After HST rebate"
-          },
-          {
-            "type": "4 Bedroom Townhome",
-            "sqft": "",
-            "price_from": "",
-            "notes": ""
-          },
-          {
-            "type": "5 Bedroom Townhome",
-            "sqft": "up to ~2,100",
-            "price_from": "",
-            "notes": "Largest plan in the collection"
-          }
-        ],
-        "deposit_timeline": [],
-        "incentives": [
-          {
-            "title": "HST rebate for qualified buyers \u2014 save up to $130,000",
-            "value": "$130,000"
-          },
-          {
-            "title": "Starting price of $449,990 is net of HST rebate",
-            "value": null
-          },
-          {
-            "title": "VIP first-access pricing and floor plans",
-            "value": null
-          }
-        ],
-        "amenities": [
-          "Walking access to Wasaga Beach",
-          "Nottawasaga Bay waterfront",
-          "Wasaga Beach Provincial Park trails",
-          "Kayaking & paddling minutes from home",
-          "Local Farmers' Market \u2014 4 min drive",
-          "Skull Island Adventure Golf \u2014 11 min"
-        ],
-        "location": {
-          "blurb": "Wasaga Walk is set at 66th Street North and Mosley Street, a short walk to the world's longest freshwater beach and minutes from Wasaga Beach Provincial Park. Highway 26 and Highway 400 connect residents to Barrie, Collingwood, Blue Mountain, and the GTA, and Colltrans and Simcoe County LINX provide regional transit options.",
-          "transit": [
-            "Highway 26 nearby",
-            "Highway 400 within reach",
-            "Colltrans & Simcoe County LINX transit",
-            "~10 min drive to Collingwood",
-            "~8 min to Georgian College South Georgian Bay Campus"
-          ],
-          "schools": [
-            "Wasaga Beach Public School",
-            "St. Noel Chabanel Catholic Elementary",
-            "Worsley Elementary"
-          ],
-          "retail": [
-            "Wasaga Beach Farmers' Market \u2014 4 min drive",
-            "Wasaga Beach Provincial Park \u2014 12 min",
-            "Collingwood General & Marine Hospital \u2014 10 min",
-            "Royal Victoria Regional Health Centre, Barrie"
-          ]
-        },
-        "gallery": [
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/01-exterior-O0LcSGFSfACp9hgjqNlHwNcLGNSmW2.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/02-exterior-E3sadGoDckhBuqgAPyGIltRGmBR6Mh.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/04-exterior-4fX82qaGxJnDM3wEaU4InjOJhYrjyR.jpg",
-            "category": "exterior",
-            "caption": ""
-          },
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/09-neighbourhood-4ToUNRz2TECnp4nR35zOVE6QS4hWH1.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          },
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/10-neighbourhood-9uYtMHMtuGS8v85EZ068aBNzjwfqCq.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          },
-          {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/primont--wasaga-walk/11-neighbourhood-C7IxQreIscuFkYsUdYyoZ9BNErr5XI.jpg",
-            "category": "neighbourhood",
-            "caption": ""
-          }
-        ],
-        "developer": {
-          "name": "Primont Homes",
-          "blurb": "Founded in 1971 and now led by second-generation family leadership (Joe Montesano, Lore Montesano, and Charles Attardo), Primont Homes has delivered more than 5,000 residences across the GTA over its 50-plus year history."
-        },
-        "faq": [
-          {
-            "q": "What is the starting price at Wasaga Walk?",
-            "a": "Townhomes start at $449,990 after the HST rebate. The developer's published from-price on its own marketing was the $600,000s, so the after-rebate entry point is meaningfully below that range."
-          },
-          {
-            "q": "Are these freehold or condo townhomes?",
-            "a": "Wasaga Walk is a limited collection of freehold townhomes, so owners do not pay monthly condo maintenance fees."
-          },
-          {
-            "q": "When does Wasaga Walk launch?",
-            "a": "Primont has positioned Wasaga Walk for a Summer 2025 launch. Floor plans and pricing are released first to VIP registrants ahead of any public release."
-          },
-          {
-            "q": "What bedroom counts are available?",
-            "a": "The collection offers 3, 4, and 5 bedroom townhome layouts designed for family living, with the largest plans reaching up to approximately 2,100 sq ft."
-          },
-          {
-            "q": "Who is the builder?",
-            "a": "The community is being built by Primont Homes, a GTA family-owned builder operating since 1971 with more than 5,000 homes delivered across Ontario."
-          }
-        ],
-        "meta": {
-          "title": "Wasaga Walk Towns by Primont | Wasaga Beach Pre-Construction",
-          "description": "Freehold townhomes by Primont Homes at 66th St N & Mosley, steps to Wasaga Beach. 3\u20135 bedroom plans from $449,990 after HST rebate. VIP access."
-        },
-        "sources": [
-          "https://wasagawalktowns.com/",
-          "https://primont.com/",
-          "https://www.wasagabeach.com/news/posts/a-once-in-a-generation-vision-takes-shape-destination-wasaga-reveals-draft-plans-for-one-of-canada-s-most-iconic-beach-destinations/"
-        ]
-      },
-      "updated_at": "2026-05-15 15:51:03"
     },
     {
       "id": 11,
