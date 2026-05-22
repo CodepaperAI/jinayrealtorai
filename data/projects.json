@@ -3,245 +3,189 @@
   "count": 12,
   "projects": [
     {
-      "id": 28,
+      "id": 31,
       "slug": "modo-at-seatonville",
       "project_name": "MODO at Seatonville",
       "developer": null,
       "city": "Pickering",
       "address": "Brock Rd & Whitevale Rd, Pickering, ON",
       "project_type": "townhome",
-      "status": "VIP launch",
+      "status": "registration",
       "starting_price": 700000.0,
       "price_per_sqft": null,
       "unit_count": null,
       "completion_date": null,
       "drive_folder_url": null,
-      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-RBjOekLnotaMbidiSjmKTuDqPkQmfI.jpg",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-1vUiXw7qpYCzvOH2pu6QBw6Misz6Xx.jpg",
       "cover_image_source": "gallery[0]:exterior:blob",
       "page_plan": {
         "hero": {
           "headline": "MODO at Seatonville \u2014 Pickering Family Towns",
-          "subhead": "Modern 2-storey freehold towns with private backyards in Pickering's Seaton master-planned community, priced from the $700s.",
+          "subhead": "Modern 2-storey freehold towns with private backyards in Pickering's Seaton community, steps from Highways 407 and 401.",
           "urgency_chip": "VIP Launch",
           "savings_chip": "Save up to $130,000",
-          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-RBjOekLnotaMbidiSjmKTuDqPkQmfI.jpg"
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-1vUiXw7qpYCzvOH2pu6QBw6Misz6Xx.jpg"
         },
         "quick_stats": [
           {
             "label": "Starting",
-            "value": "From $700s"
+            "value": "From the $700s"
+          },
+          {
+            "label": "Sq Ft",
+            "value": "1,614 \u2013 1,855"
           },
           {
             "label": "Home Type",
-            "value": "2-Storey Freehold Towns"
+            "value": "2-Storey Towns"
           },
           {
-            "label": "Sizes",
-            "value": "1,614 \u2013 1,855 sq ft"
-          },
-          {
-            "label": "Occupancy",
-            "value": "Early\u2013Mid 2026"
+            "label": "Location",
+            "value": "Brock Rd & Whitevale Rd"
           }
         ],
         "urgency_signals": [
           "VIP First Access",
-          "HST Rebate up to $130,000",
+          "From the $700s",
           "Hwy 407 & 401 access",
-          "Private backyards included"
+          "HST Rebate up to $130K"
         ],
-        "story_md": "MODO at Seatonville is a pre-construction release of modern 2-storey freehold townhomes at Brock Road & Whitevale Road in north Pickering, sized 1,614 to 1,855 sq ft and priced from the $700s. The homes sit inside Seatonville, a master-planned urban village that forms part of the broader Seaton community \u2014 one of the largest residential, employment and commercial developments in Canadian history, located east of the West Duffins Creek and spanning 7,900 acres with a lush network of parks, trails and open spaces, including 3,750 acres of protected agricultural lands, forests, creeks and wetlands.\n\nSeatonville itself is being built by a consortium of GTA's most established names. It is designed by a collaboration of esteemed GTA builders \u2014 Arista Homes, DECO Homes, Fieldgate Homes, Opus Homes, and Paradise Developments, delivering freehold towns and detached homes on lots from 20 to 43 feet. For buyers and investors, the Seaton precinct has long-term fundamentals: Pickering's population is set to grow from 99,000 to 168,000 by 2041 alongside 35,000 new jobs, anchoring the case for sustained land value appreciation.\n\nThe MODO collection focuses on family-sized two-storey towns with private rear yards \u2014 a rare format at this price point in the GTA. Each home is positioned to capture the convenience of the corridor: just minutes from Highways 407, 401, and 412, the community provides quick access to downtown Toronto, Durham Live, and Pickering GO Station. Pickering Town Centre, area schools including J. Clarke Richardson Collegiate, and 3,750 acres of protected greenspace are all within easy reach.\n\nVIP First Access pricing and floor plans are being released to registered buyers ahead of the public launch, with an HST Rebate incentive saving qualified purchasers up to $130,000. Suite mix, deposit structure and final pricing are confirmed at the worksheet stage.",
+        "story_md": "MODO at Seatonville is a new release of modern 2-storey family towns in Pickering, set at Brock Road and Whitevale Road inside the fast-growing Seaton community. With homes ranging from 1,614 to 1,855 sq ft and private backyards, this collection is built for families and end-users who want freehold ownership without stepping up to detached pricing.\n\nThe location is the story. Seatonville sits inside one of the largest master-planned communities in Canadian history, with 7,900 acres of planned residential, employment, and commercial lands and 3,750 acres of protected agricultural lands, forests, creeks, and wetlands east of West Duffins Creek. Major builders \u2014 Fieldgate, Arista, DECO, Opus, and Paradise \u2014 are anchoring the area, which means infrastructure, schools, and retail are arriving with the homes, not after them.\n\nFor commuters, Highway 407 and Highway 401 are both within a few minutes, and Pickering GO Station connects to downtown Toronto via Lakeshore East. Pickering is projected to lead Durham Region growth over the next three decades, with population forecast to climb from roughly 99,000 to 168,000 by 2041 and 35,000 new jobs in the pipeline \u2014 a strong fundamentals story for end-users and long-hold investors.\n\nVIP First Access is open now, with priority on pricing and floor plan selection. Buyers can also take advantage of an HST Rebate worth up to $130,000 \u2014 meaningful savings on a townhome starting from the $700s in one of Durham Region's most active growth corridors.",
         "selling_points": [
           {
-            "title": "Family-sized freehold towns from the $700s",
-            "body": "Two-storey freehold townhomes ranging 1,614 to 1,855 sq ft with private backyards \u2014 a livable family format launching from the $700s."
+            "title": "From the $700s in Pickering",
+            "body": "Modern 2-storey family towns starting from the $700s \u2014 entry pricing for freehold ownership in Pickering's Seaton community."
           },
           {
-            "title": "HST rebate up to $130,000",
-            "body": "Eligible purchasers can save up to $130,000 through the HST New Housing Rebate, materially improving entry-level economics."
+            "title": "1,614 \u2013 1,855 sq ft with backyards",
+            "body": "Spacious 2-storey layouts between 1,614 and 1,855 sq ft, each with a private backyard for families who want outdoor space."
           },
           {
-            "title": "Inside one of Canada's largest planned communities",
-            "body": "MODO sits within Seatonville, part of the 7,900-acre Seaton community planned for up to 70,000 residents and 35,000 jobs."
+            "title": "Seaton master-plan location",
+            "body": "Situated at Brock Rd & Whitevale Rd inside the Seaton community, one of the largest master-planned developments in Canadian history."
           },
           {
-            "title": "Highway 407, 401 & 412 corridor",
-            "body": "Quick access to three major 400-series highways plus the Pickering GO Station via the Brock Road corridor, opening the entire GTA."
+            "title": "Highway 407 & 401 access",
+            "body": "Quick connections to Hwy 407 and 401 plus nearby Pickering GO Station make commuting across Durham and into Toronto straightforward."
           },
           {
-            "title": "3,750 acres of protected greenspace",
-            "body": "Forests, creeks, wetlands and trail networks are preserved on-site \u2014 a permanent natural buffer rare in new GTA suburbs."
+            "title": "Save up to $130,000 \u2014 HST Rebate",
+            "body": "Eligible buyers can claim the HST Rebate for savings up to $130,000 on their purchase at MODO."
           },
           {
-            "title": "Built by a five-builder GTA consortium",
-            "body": "Seatonville is delivered by Arista, DECO, Fieldgate, OPUS and Paradise \u2014 a combined track record covering decades of GTA homebuilding."
+            "title": "VIP First Access pricing",
+            "body": "Register now for VIP First Access \u2014 earliest look at floor plans and pricing before public launch."
           }
         ],
         "suites": [
           {
-            "type": "2-Storey Townhome",
-            "sqft": "1,614",
-            "price_from": "From $700s",
-            "notes": "Private backyard included."
-          },
-          {
-            "type": "2-Storey Townhome",
-            "sqft": "1,855",
-            "price_from": "From $700s",
-            "notes": "Larger family layout with private backyard."
+            "type": "2-Storey Town",
+            "sqft": "1,614 \u2013 1,855",
+            "price_from": "From the $700s",
+            "notes": "Family towns with private backyards"
           }
         ],
-        "deposit_timeline": [
-          {
-            "label": "On signing",
-            "value": "$20,000",
-            "due_at": null
-          },
-          {
-            "label": "30 days",
-            "value": "$20,000",
-            "due_at": null
-          },
-          {
-            "label": "60 days",
-            "value": "$20,000",
-            "due_at": null
-          },
-          {
-            "label": "90 days",
-            "value": "$20,000",
-            "due_at": null
-          },
-          {
-            "label": "150 days",
-            "value": "$10,000",
-            "due_at": null
-          },
-          {
-            "label": "Total deposit",
-            "value": "$90,000",
-            "due_at": null
-          }
-        ],
+        "deposit_timeline": [],
         "incentives": [
           {
             "title": "HST Rebate \u2014 save up to $130,000",
-            "value": null
+            "value": "$130,000"
           },
           {
-            "title": "Capped development levies",
-            "value": null
-          },
-          {
-            "title": "Right of assignment (terms apply)",
-            "value": null
-          },
-          {
-            "title": "Extended deposit structure",
-            "value": null
-          },
-          {
-            "title": "VIP First Access to pricing & floor plans",
+            "title": "VIP First Access \u2014 exclusive pricing & floor plans",
             "value": null
           }
         ],
         "amenities": [
-          "Private backyards",
-          "3,750 acres of protected greenspace on-site",
-          "Forested trails & ravines",
-          "Neighbourhood parks",
-          "Future community recreation centre",
-          "Pedestrian & cycling connections",
-          "Quick access to Hwy 407, 401 & 412"
+          "Private backyards"
         ],
         "location": {
-          "blurb": "MODO at Seatonville is at Brock Road & Whitevale Road in north Pickering, part of the 7,900-acre Seaton community. The location combines highway and GO Train connectivity to Toronto with 3,750 acres of protected conservation lands at the doorstep.",
+          "blurb": "MODO at Seatonville sits at Brock Road and Whitevale Road in North Pickering, inside the Seaton master-planned community. Highways 407 and 401 are minutes away, and Pickering GO Station offers a direct connection to downtown Toronto via the Lakeshore East line.",
           "transit": [
-            "Minutes to Hwy 401, 407 & 412",
-            "Pickering GO Station via Brock Road corridor",
-            "~30 minutes drive to downtown Toronto"
+            "Highway 407 \u2014 minutes away",
+            "Highway 401 \u2014 minutes away",
+            "Pickering GO Station \u2014 Lakeshore East to Union"
           ],
           "schools": [
-            "J. Clarke Richardson Collegiate",
-            "Notre Dame Catholic Secondary School",
-            "University of Toronto Scarborough (~20 min drive)"
+            "Vimy Ridge Public School",
+            "Nottingham Public School",
+            "Pine Ridge Secondary School"
           ],
           "retail": [
-            "Pickering Town Centre (~10 min drive)",
+            "Pickering Town Centre",
             "RioCan Durham Centre",
-            "Meadow Ridge Plaza",
-            "Durham Live entertainment complex"
+            "Meadow Ridge Plaza"
           ]
         },
         "gallery": [
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-RBjOekLnotaMbidiSjmKTuDqPkQmfI.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/01-exterior-1vUiXw7qpYCzvOH2pu6QBw6Misz6Xx.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/08-exterior-EG0X7CWGJXwVhUiiDhE9BobwoTkTnj.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/09-exterior-HHzLHqaXVUdaE0K95fwveRTFmHyTda.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/11-exterior-Vy7KDW5J3fQcC0KCZD2ukAbfqCMDJH.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/10-exterior-G8VBCfg1mfjupujtFcO9kbmPwJOjb3.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/13-exterior-zisWkO88mPPXCVMuYtKw66B6FtLabq.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/11-exterior-SBpKmuNTPf6PTVllCEFDjzHRtaXG0R.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/17-exterior-pHmoksLq8UFKDiod3WwA6GvokCsjta.jpg",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/12-exterior-DSvBZS7TSJdD1VMlUf0vBKeZhjpP58.jpg",
             "category": "exterior",
             "caption": ""
           },
           {
-            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/15-interior-O5jyud0nfmTv4YwKXPPFaVq0kK0vqV.jpg",
-            "category": "interior",
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/modo-at-seatonville/15-exterior-uEdHV2OEOu5jkuVesoaAHuo2cTGffA.jpg",
+            "category": "exterior",
             "caption": ""
           }
         ],
         "developer": {
-          "name": "Seatonville Consortium (Arista, DECO, Fieldgate, OPUS, Paradise)",
-          "blurb": "Seatonville is delivered by five of the GTA's most established homebuilders \u2014 Arista Homes, DECO Homes, Fieldgate Homes, OPUS Homes and Paradise Developments \u2014 working together on one master-planned urban village in north Pickering."
+          "name": "Seatonville Builder Group",
+          "blurb": "Seatonville is a master-planned community brought to market by a group of established GTA builders \u2014 including Fieldgate Homes, Arista Homes, DECO Homes, Opus Homes, and Paradise Developments \u2014 collectively responsible for tens of thousands of homes across the Greater Toronto Area."
         },
         "faq": [
           {
-            "q": "What is the deposit structure for the MODO townhomes?",
-            "a": "The townhome deposit totals $90,000, paid as $20,000 on signing, $20,000 at 30 days, $20,000 at 60 days, $20,000 at 90 days, and $10,000 at 150 days."
+            "q": "Where exactly is MODO at Seatonville located?",
+            "a": "At Brock Road and Whitevale Road in Pickering, inside the larger Seaton master-planned community in North Pickering."
           },
           {
-            "q": "Are assignments permitted?",
-            "a": "Right of assignment has been offered as part of the investor-grade incentives at Seatonville, typically subject to standard legal and administrative fees. Confirm current terms on your worksheet."
+            "q": "What home types and sizes are offered?",
+            "a": "Modern 2-storey family townhomes ranging from 1,614 to 1,855 sq ft, each with a private backyard."
           },
           {
-            "q": "What is the HST rebate incentive worth?",
-            "a": "Eligible purchasers can save up to $130,000 through the HST New Housing Rebate program at MODO at Seatonville."
+            "q": "What is the starting price?",
+            "a": "Towns are starting from the $700s. VIP First Access pricing and floor plans are available to registrants."
           },
           {
-            "q": "When is occupancy expected?",
-            "a": "Occupancy for Seatonville townhomes is currently targeted for early-to-mid 2026, subject to construction schedule and builder confirmation."
+            "q": "What incentives are available?",
+            "a": "Eligible buyers can save up to $130,000 through the HST Rebate. Additional VIP launch incentives may be released at sign-up."
           },
           {
-            "q": "What sizes and home types are available at MODO?",
-            "a": "MODO offers 2-storey freehold townhomes at 1,614 sq ft and 1,855 sq ft, each delivered with a private backyard."
+            "q": "How is the commute to Toronto?",
+            "a": "Highway 407 and Highway 401 are both a short drive from the site, and the Pickering GO Station connects to Union Station via the Lakeshore East line."
           }
         ],
         "meta": {
-          "title": "MODO at Seatonville \u2014 Pickering Pre-Construction Towns",
-          "description": "MODO at Seatonville: 2-storey freehold towns 1,614\u20131,855 sq ft from the $700s at Brock & Whitevale in Pickering. VIP access \u2014 save up to $130,000."
+          "title": "MODO at Seatonville \u2014 Pickering Pre-Construction Townhomes",
+          "description": "MODO at Seatonville: modern 2-storey freehold towns in Pickering's Seaton community from the $700s. 1,614\u20131,855 sq ft with backyards. VIP access now."
         },
         "sources": [
-          "https://myseatonville.ca/",
-          "https://myinvestmentbrokers.com/projects/seatonville-by-deco-homes/",
-          "https://www.talkcondo.com/pickering/seatonville-by-deco-homes/"
+          "https://www.fieldgatehomes.com/seatonville/",
+          "https://seatonvillepickeringhomes.ca/",
+          "https://www.opushomes.com/communities/seatonville/"
         ]
       },
-      "updated_at": "2026-05-22 18:00:46"
+      "updated_at": "2026-05-22 18:36:51"
     },
     {
       "id": 27,
