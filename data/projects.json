@@ -1,7 +1,26 @@
 {
   "version": 1,
-  "count": 15,
+  "count": 16,
   "projects": [
+    {
+      "id": 35,
+      "slug": "rosehaven--springside-trails",
+      "project_name": "Springside Trails",
+      "developer": "Rosehaven Homes",
+      "city": "Midhurst",
+      "address": null,
+      "project_type": "detached",
+      "status": "public launch",
+      "starting_price": 900000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": null,
+      "cover_image_source": null,
+      "page_plan": {},
+      "updated_at": "2026-05-26 19:04:31"
+    },
     {
       "id": 34,
       "slug": "oakville-inventory-opportunities-multi-project-campaign",
