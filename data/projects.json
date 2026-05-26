@@ -1,7 +1,186 @@
 {
   "version": 1,
-  "count": 13,
+  "count": 14,
   "projects": [
+    {
+      "id": 33,
+      "slug": "mosaik--sharon-village",
+      "project_name": "Sharon Village",
+      "developer": "Mosaik Homes",
+      "city": "East Gwillimbury",
+      "address": null,
+      "project_type": "detached",
+      "status": "VIP launch",
+      "starting_price": null,
+      "price_per_sqft": null,
+      "unit_count": 16,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mosaik--sharon-village/01-exterior-SSeFEbp9UGoqftleOCbC7r8nXkuS4G.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Sharon Village: Final 16 Detached Lots",
+          "subhead": "A limited release of 32' and 36' detached homes by Mosaik Homes in East Gwillimbury's master-planned Sharon community.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mosaik--sharon-village/01-exterior-SSeFEbp9UGoqftleOCbC7r8nXkuS4G.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Home Type",
+            "value": "32' & 36' Detached"
+          },
+          {
+            "label": "Size",
+            "value": "Up to 2,845 sq ft"
+          },
+          {
+            "label": "Closings",
+            "value": "12\u201315 months"
+          },
+          {
+            "label": "Release",
+            "value": "Only 16 lots"
+          }
+        ],
+        "urgency_signals": [
+          "Only 16 lots available",
+          "Closings in 12\u201315 months",
+          "Hwy 404 access",
+          "Phases 1 & 2 sold out"
+        ],
+        "story_md": "Sharon Village is a master-planned community by Mosaik Homes at Green Lane & Leslie Street in East Gwillimbury, originally envisioned as a collection of 137 luxury townhomes and 36' estate homes. With Phases 1 and 2 sold out and Phase 3 now in registration, this VIP release brings forward a final 16-lot collection of 32' and 36' detached homes \u2014 a rare opportunity to enter an established, in-demand York Region community at the ground floor of its next phase.\n\nThe homes deliver up to 2,845 sq ft with up to 4 bedrooms and 3.5 baths. Construction includes 9' ceilings on the main floor and architecturally coordinated clay brick exteriors with builders stone, brick archways, quoined corners, soldier coursing, keystone, durable colour-coordinated siding, and columns. Energy performance is built in: an Energy Star qualified natural gas condensing furnace at minimum 95% AFUE with ECM motor, an Energy Star hot water tank, programmable thermostats, a qualified HRV, and a drain water heat recovery pipe, with all homes Energy Star certified by a third-party consultant.\n\nLocation anchors the value story. Sharon is part of East Gwillimbury and sits within one of York Region's most uninterrupted natural landscapes, well serviced by Highway 404, GO Transit, and York Region Transit. Special design consideration has been given to preserving the character of the Leslie Street Heritage District corridor, which includes the Sharon Temple, century homes, East Gwillimbury Town Hall, local churches, and Vince's Market \u2014 a setting most new subdivisions cannot replicate.\n\nFor investors and end-users, the math is straightforward: closings inside 12\u201315 months, savings of up to $130,000 through the HST Rebate, and sequential phase pricing in a community where prior phases have already cleared.",
+        "selling_points": [
+          {
+            "title": "Only 16 Detached Lots",
+            "body": "A limited final release of 32' and 36' detached homes inside an established master-planned community \u2014 first come, first served."
+          },
+          {
+            "title": "Up to 2,845 Sq Ft, 4 Beds",
+            "body": "32' and 36' detached designs deliver up to 4 bedrooms and 3.5 baths, sized for end-users and resale liquidity."
+          },
+          {
+            "title": "Closings in 12\u201315 Months",
+            "body": "Short carry timeline means faster occupancy or assignment exit versus typical 4\u20135 year pre-construction holds."
+          },
+          {
+            "title": "HST Rebate Savings to $130K",
+            "body": "Qualifying buyers can capture up to $130,000 in HST rebate value on closing."
+          },
+          {
+            "title": "Energy Star Certified Build",
+            "body": "Qualified HRV, drain water heat recovery pipe, and third-party Energy Star certification reduce monthly operating costs."
+          },
+          {
+            "title": "Proven Phase Performance",
+            "body": "Phases 1 and 2 are sold out, demonstrating sustained absorption in this East Gwillimbury corridor."
+          }
+        ],
+        "suites": [
+          {
+            "type": "32' Detached",
+            "sqft": "up to 2,845",
+            "price_from": "",
+            "notes": "Up to 4 beds / 3.5 baths"
+          },
+          {
+            "type": "36' Detached",
+            "sqft": "up to 2,845",
+            "price_from": "",
+            "notes": "Up to 4 beds / 3.5 baths"
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with the HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Closings in 12\u201315 months",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "9' main-floor ceilings",
+          "Clay brick exterior with stone",
+          "Energy Star certified",
+          "High-efficiency gas furnace",
+          "HRV system",
+          "Drain water heat recovery",
+          "Programmable thermostats",
+          "Fully drywalled garage"
+        ],
+        "location": {
+          "blurb": "Located at Green Lane & Leslie Street in East Gwillimbury, Sharon Village sits inside a heritage village setting with direct access to Highway 404 and GO Transit. Walkable landmarks include the Sharon Temple, East Gwillimbury Town Hall, and Vince's Market, with conservation trails and Rogers Reservoir nearby.",
+          "transit": [
+            "Direct access to Highway 404",
+            "East Gwillimbury GO Station",
+            "Newmarket GO Station",
+            "York Region Transit service"
+          ],
+          "schools": [
+            "Sharon Public School",
+            "Multiple elementary & secondary schools nearby"
+          ],
+          "retail": [
+            "Vince's Market",
+            "404 Town Centre",
+            "Sharon Temple National Historic Site & Museum",
+            "Rogers Reservoir Conservation Area"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mosaik--sharon-village/01-exterior-SSeFEbp9UGoqftleOCbC7r8nXkuS4G.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mosaik--sharon-village/04-exterior-L5GzusaW19Yd5wbcCkHUW1pXdeXaBU.jpg",
+            "category": "exterior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Mosaik Homes",
+          "blurb": "Mosaik Homes is an active GTA builder with communities in Kleinburg, Vaughan, Uxbridge, Woodbridge, and Brampton, known for energy-efficient, architecturally detailed low-rise homes."
+        },
+        "faq": [
+          {
+            "q": "How many homes are in this release?",
+            "a": "This is a limited release of only 16 detached lots \u2014 first come, first served \u2014 within the broader Sharon Village master-planned community."
+          },
+          {
+            "q": "What sizes and layouts are offered?",
+            "a": "32' and 36' detached homes with up to 4 bedrooms, 3.5 baths, and up to 2,845 sq ft of living space."
+          },
+          {
+            "q": "When do these homes close?",
+            "a": "Closings are scheduled within 12\u201315 months of purchase \u2014 a notably short timeline for new construction."
+          },
+          {
+            "q": "What incentives are available?",
+            "a": "Eligible buyers can save up to $130,000 through the HST Rebate. Specific eligibility depends on your end-use and tax situation \u2014 consult your accountant."
+          },
+          {
+            "q": "What's the location and transit access?",
+            "a": "Sharon Village is at Green Lane & Leslie Street in East Gwillimbury, with direct Highway 404 access and service from East Gwillimbury GO, Newmarket GO, and York Region Transit."
+          }
+        ],
+        "meta": {
+          "title": "Sharon Village by Mosaik Homes | East Gwillimbury Pre-Construction",
+          "description": "VIP release of 16 detached homes (32' & 36') up to 2,845 sq ft at Sharon Village by Mosaik Homes in East Gwillimbury. Save up to $130K."
+        },
+        "sources": [
+          "https://mosaikhomes.com/sharon-village-register",
+          "https://mosaikhomes.com/sharonvillage_floorplan_devon.php",
+          "https://www.rew.ca/developments/6670/sharon-village-phase-2-east-gwillimbury-on"
+        ]
+      },
+      "updated_at": "2026-05-26 18:57:18"
+    },
     {
       "id": 32,
       "slug": "zancor--shoreline-point",
