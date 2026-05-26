@@ -1,7 +1,250 @@
 {
   "version": 1,
-  "count": 12,
+  "count": 13,
   "projects": [
+    {
+      "id": 32,
+      "slug": "zancor--shoreline-point",
+      "project_name": "Shoreline Point",
+      "developer": "Zancor Homes",
+      "city": "Wasaga Beach",
+      "address": null,
+      "project_type": "detached",
+      "status": "public launch",
+      "starting_price": 779000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/01-exterior-dzY7KrFzpjyr8kSFWXy1z94Cxxcv3P.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Shoreline Point \u2014 Detached Homes in Wasaga Beach",
+          "subhead": "Zancor Homes' freehold 52' and 60' detached community steps from the world's longest freshwater beach on Nottawasaga Bay.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/01-exterior-dzY7KrFzpjyr8kSFWXy1z94Cxxcv3P.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$779,000"
+          },
+          {
+            "label": "Home Type",
+            "value": "52' & 60' Detached"
+          },
+          {
+            "label": "Size",
+            "value": "Up to 3,322 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Summer 2025"
+          }
+        ],
+        "urgency_signals": [
+          "Walk to Wasaga Beach",
+          "15 min to Collingwood",
+          "Capped development levies",
+          "Assignment rights included"
+        ],
+        "story_md": "Shoreline Point is a freehold detached community by Zancor Homes at Ramblewood Drive and Beatrice Drive in Wasaga Beach \u2014 a master-planned neighbourhood of 177 lots offering 40', 52' and 60' single detached homes, with floorplans reaching up to 5 bedrooms, 3.5 baths and 3,322 sq ft. After HST rebate, pricing starts from $779K, putting freehold ownership in one of Ontario's fastest-growing municipalities within reach of GTA move-up buyers and second-home purchasers.\n\nThe location is the story. Residents are within walking distance of 14 kilometres of sandy beaches on Nottawasaga Bay \u2014 the world's longest freshwater beach \u2014 with Collingwood 15 minutes away and Blue Mountain skiing roughly 27 minutes south. Highway 26 connects directly to Highway 400, putting Toronto about 90 minutes away. Day-to-day errands are handled by a five-minute drive to Real Canadian Superstore, Canadian Tire, Shoppers Drug Mart, LCBO and Starbucks.\n\nThe purchase program is structured for pre-construction buyers: deposits spread over 450 days ($180,000 total), development charges and levies capped, the right to assign, and $10,000 in D\u00e9cor Centre credits applied at the buyer's d\u00e9cor appointment. Exteriors feature detailed masonry with stone and pre-cast concrete accents, covered porches and fully sodded yards; interiors include prefinished engineered hardwood, a 34\" built-in linear electric fireplace and an oak veneer staircase with oak handrails.\n\nFor investors, Wasaga Beach combines four-season recreational demand \u2014 beaches in summer, skiing and trails in winter \u2014 with freehold land value in a market where new detached supply is limited. For end users, it's a family-oriented community with the small-town feel Zancor has built across the GTA over 30+ years.",
+        "selling_points": [
+          {
+            "title": "Steps to the World's Longest Freshwater Beach",
+            "body": "Walking distance to 14 km of Nottawasaga Bay shoreline, with five minutes by car to grocery, Canadian Tire, LCBO and Starbucks."
+          },
+          {
+            "title": "Four-Season Recreation at the Door",
+            "body": "15 minutes to Collingwood, ~27 minutes to Blue Mountain skiing, and multiple golf courses including Marlwood and Wasaga Sands nearby."
+          },
+          {
+            "title": "Real Freehold Detached, Not a Condo",
+            "body": "52' and 60' single detached homes up to 5 beds, 3.5 baths and 3,322 sq ft on fully sodded lots \u2014 rare new-build inventory in this submarket."
+          },
+          {
+            "title": "Extended 450-Day Deposit Program",
+            "body": "$30,000 with offer, then $30,000 at 60, 90, 180, 300 and 450 days \u2014 $180,000 total \u2014 easing cashflow versus a 20% lump deposit."
+          },
+          {
+            "title": "Capped Levies, Assignment Rights, $10K D\u00e9cor",
+            "body": "Development charges and levies are capped, the right to assign is available, and $10,000 in Zancor D\u00e9cor Centre credits applies at d\u00e9cor selection."
+          },
+          {
+            "title": "Built by Zancor Homes",
+            "body": "A Concord-based builder operating since 2001 with 30+ years of GTA and Southern Ontario home and community experience."
+          }
+        ],
+        "suites": [
+          {
+            "type": "52' Detached",
+            "sqft": "Up to 3,322",
+            "price_from": "$779K",
+            "notes": "Up to 5 beds / 3.5 baths"
+          },
+          {
+            "type": "60' Detached",
+            "sqft": "Up to 3,322",
+            "price_from": "",
+            "notes": "Up to 5 beds / 3.5 baths"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "With offer",
+            "value": "$30,000",
+            "due_at": null
+          },
+          {
+            "label": "60 days",
+            "value": "$30,000",
+            "due_at": null
+          },
+          {
+            "label": "90 days",
+            "value": "$30,000",
+            "due_at": null
+          },
+          {
+            "label": "180 days",
+            "value": "$30,000",
+            "due_at": null
+          },
+          {
+            "label": "300 days",
+            "value": "$30,000",
+            "due_at": null
+          },
+          {
+            "label": "450 days",
+            "value": "$30,000 (total $180,000)",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "HST rebate savings up to $130,000",
+            "value": null
+          },
+          {
+            "title": "Price after rebates from $779K",
+            "value": null
+          },
+          {
+            "title": "Capped development charges & levies",
+            "value": null
+          },
+          {
+            "title": "Right to assign ($1,000 fee + legal)",
+            "value": null
+          },
+          {
+            "title": "$10,000 in Zancor D\u00e9cor Centre credits",
+            "value": null
+          },
+          {
+            "title": "Extended 450-day deposit structure",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Walk to Nottawasaga Bay beaches",
+          "Marlwood Golf & Country Club",
+          "The Links at Georgian Sands",
+          "Wasaga Sands Golf Club",
+          "Hiking & multi-use trails",
+          "Blue Mountain skiing (~27 min)",
+          "Parks and natural green space",
+          "Costco-area shopping nearby"
+        ],
+        "location": {
+          "blurb": "Located at Ramblewood Drive & Beatrice Drive in Wasaga Beach, Shoreline Point sits within walking distance of 14 km of Nottawasaga Bay shoreline. Highway 26 provides direct access to Highway 400, putting Collingwood 15 minutes away, Blue Mountain about 27 minutes away, and downtown Toronto roughly 90 minutes south.",
+          "transit": [
+            "Direct Highway 26 access to Highway 400",
+            "~90 minutes to Toronto",
+            "~15 minutes to Collingwood",
+            "~27 minutes to Blue Mountain"
+          ],
+          "schools": [],
+          "retail": [
+            "Real Canadian Superstore (5 min)",
+            "Canadian Tire (5 min)",
+            "Shoppers Drug Mart, LCBO, Starbucks",
+            "Wasaga Beach dining & shops"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/01-exterior-dzY7KrFzpjyr8kSFWXy1z94Cxxcv3P.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/02-exterior-uleb2juxgsQnQ1feUfV2LmzYzCFR4l.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/08-exterior-MlvOTHzUzAWRVPGvzeSjvGkjeHqxHr.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/09-exterior-QKBB0Zx1vtfsxa491KfCE5nFnpPCkb.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/03-neighbourhood-UxNW5FTozIRlRVwBhSFnXSckVpGPfI.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/zancor--shoreline-point/11-neighbourhood-0lQxzb72HfiJBKm4m1EFh2Pn16DOxX.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Zancor Homes",
+          "blurb": "Concord-based Zancor Homes has been building communities across the GTA and Southern Ontario since 2001, with 30+ years of combined home-building experience and a focus on neighbourhoods featuring parks, playgrounds and natural green space."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "$30,000 with offer, then $30,000 at each of 60, 90, 180, 300 and 450 days \u2014 $180,000 total over 450 days."
+          },
+          {
+            "q": "Can I assign my purchase agreement?",
+            "a": "Yes. The right to assign is included for a $1,000 fee, with legal and administration fees additional."
+          },
+          {
+            "q": "Are development charges and levies capped?",
+            "a": "Yes. Development charges and levies are capped at $0 extra under the current incentive package."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Closings are scheduled for Summer 2025."
+          },
+          {
+            "q": "What is included in d\u00e9cor?",
+            "a": "$10,000 in D\u00e9cor Centre credits, to be used at the Zancor D\u00e9cor Centre at the time of your d\u00e9cor appointment on upgrades from the builder's samples."
+          }
+        ],
+        "meta": {
+          "title": "Shoreline Point by Zancor Homes \u2014 Wasaga Beach Pre-Construction",
+          "description": "Freehold 52' & 60' detached homes by Zancor Homes in Wasaga Beach. From $779K after HST rebate. Walk to the beach, 15 min to Collingwood."
+        },
+        "sources": [
+          "https://www.shorelinepoint.ca/",
+          "https://www.zancorhomes.com/category/shoreline-point-blog/",
+          "https://newhomesgnome.ca/index.php/project/shoreline-point-in-wasaga-beach-by-zancor-homes/"
+        ]
+      },
+      "updated_at": "2026-05-26 18:53:20"
+    },
     {
       "id": 31,
       "slug": "modo-at-seatonville",
