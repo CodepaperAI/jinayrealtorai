@@ -1,7 +1,240 @@
 {
   "version": 1,
-  "count": 16,
+  "count": 17,
   "projects": [
+    {
+      "id": 36,
+      "slug": "assignment-inventory-deals-week-of-may-22nd-2026",
+      "project_name": "Assignment & Inventory Deals \u2013 Week of May 22nd, 2026",
+      "developer": null,
+      "city": null,
+      "address": null,
+      "project_type": "mixed-use",
+      "status": "pre-construction",
+      "starting_price": 250000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/01-exterior-w5uxLXnlWtSfHH3dwPDndd551HXvEv.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Six Ontario Assignment & Inventory Deals",
+          "subhead": "Curated assignment and builder-inventory opportunities across the GTA, Burlington, Brantford, Mississauga, Oshawa and Muskoka for the week of May 22, 2026.",
+          "urgency_chip": "Limited Release",
+          "savings_chip": "Save up to $170,000+",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/01-exterior-w5uxLXnlWtSfHH3dwPDndd551HXvEv.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$250,000"
+          },
+          {
+            "label": "Deals This Week",
+            "value": "6 Projects"
+          },
+          {
+            "label": "Status",
+            "value": "Assignment & Inventory"
+          }
+        ],
+        "urgency_signals": [
+          "Save up to $170,000+ vs. original price",
+          "Tenanted Yonge & Eglinton suite at $2,600/mo",
+          "20% deposit already paid on M3 unit",
+          "5% down at Northshore Burlington"
+        ],
+        "story_md": "This week's roundup pulls together six handpicked assignment and builder-inventory opportunities across Ontario \u2014 chosen for buyers who want today's pricing on yesterday's contracts, or who want to step into a finished or near-finished suite without waiting through a multi-year pre-construction cycle. The list spans entry-priced Brantford at $250,000 through to a high-floor Mississauga suite at M3 with the original 20% deposit already paid in full by the assignor.\n\nFor investors, the standout cash-flow play is a lakefront condo town in Muskoka projecting $65,000+ annual Airbnb revenue, paired with a leased Toronto corner suite at Yonge & Eglinton already producing $2,600/month until December 2026. Both arrive turnkey \u2014 no tenant search, no furnishing curve.\n\nOn the builder-inventory side, Northshore Condos by National Homes in Burlington is an 8-storey pre-construction condo with stacked townhomes at 490 Plains Rd E in the Aldershot neighbourhood, currently offered with 5% down, $0 development charges and closing costs, and $5,000 off parking. The next chapter of the award-winning Heights of Harmony community in Oshawa by Minto Communities rounds out the list with $45,000 down, appliances included, and one year of free maintenance.\n\nEvery deal here is sourced directly from assignors or builder allocations and verified against current market comparables. Quantities are limited and each unit is one-of-one \u2014 once it's gone, the savings go with it.",
+        "selling_points": [
+          {
+            "title": "Up to $170,000+ in assignment savings",
+            "body": "Select assignment contracts in the list are priced well below their original purchase agreements, transferring the appreciation gap directly to the new buyer."
+          },
+          {
+            "title": "Muskoka Airbnb cash-flow play",
+            "body": "A lakefront condo town in Muskoka is projecting $65,000+ in annual short-term rental revenue, with Airbnb-friendly zoning already in place."
+          },
+          {
+            "title": "Tenanted Toronto corner suite",
+            "body": "Prime Yonge & Eglinton corner unit is already leased at $2,600/month with the lease in place through December 2026 \u2014 instant income from day one."
+          },
+          {
+            "title": "$250,000 entry point in Brantford",
+            "body": "An affordable 1-bed condo in Brantford anchors the lower end of the list for first-time buyers and small-ticket investors."
+          },
+          {
+            "title": "Builder incentives stacked on inventory",
+            "body": "Northshore Burlington offers 5% down, $0 development charges and $5,000 off parking; Heights of Harmony adds appliances and 1 year free maintenance."
+          },
+          {
+            "title": "20% deposit pre-paid at M3",
+            "body": "A 66th-floor 2-bed at M3 Condos Mississauga comes with the original 20% deposit fully paid by the assignor \u2014 effectively a $0-deposit entry."
+          }
+        ],
+        "suites": [
+          {
+            "type": "1 Bed (Brantford)",
+            "sqft": "",
+            "price_from": "$250,000",
+            "notes": "Affordable entry-priced inventory"
+          },
+          {
+            "type": "1 Bed (Grand Bell 2)",
+            "sqft": "433",
+            "price_from": "",
+            "notes": "Assignment"
+          },
+          {
+            "type": "1 Bed (Northshore)",
+            "sqft": "",
+            "price_from": "$366,362",
+            "notes": "Burlington \u2014 National Homes"
+          },
+          {
+            "type": "1 Bed+Den (Northshore)",
+            "sqft": "",
+            "price_from": "$375,212",
+            "notes": "Parking & locker included"
+          },
+          {
+            "type": "2B/2B (M3 Condos)",
+            "sqft": "699",
+            "price_from": "",
+            "notes": "66th floor + balcony; 20% deposit pre-paid"
+          },
+          {
+            "type": "2B/2.5B (Crescent Bay)",
+            "sqft": "1,265",
+            "price_from": "",
+            "notes": "Two balconies; Muskoka lakefront"
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "Save up to $170,000+ vs. original purchase price on select assignments",
+            "value": null
+          },
+          {
+            "title": "20% deposit fully paid on M3 Condos unit \u2014 $0 deposit pending",
+            "value": null
+          },
+          {
+            "title": "Own with just 5% down at Northshore Condos",
+            "value": null
+          },
+          {
+            "title": "$0 Development Charges & Closing Costs at Northshore Condos",
+            "value": null
+          },
+          {
+            "title": "$5,000 off parking at Northshore Condos",
+            "value": null
+          },
+          {
+            "title": "Heights of Harmony: $45,000 down, appliances included, 1 year free maintenance",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Private Beach & Dock \u2014 Crescent Bay",
+          "Direct Crescent Bay lake access",
+          "Parking & Locker included \u2014 M3",
+          "66th-floor clear views \u2014 M3",
+          "Adjacent to Burlington Golf & Country Club \u2014 Northshore",
+          "Rooftop terrace \u2014 Northshore",
+          "28-acre community park \u2014 Heights of Harmony"
+        ],
+        "location": {
+          "blurb": "Deals are spread across six Ontario submarkets \u2014 Toronto (Yonge & Eglinton), Mississauga (Square One), Burlington (Aldershot), Oshawa (North), Brantford, and Muskoka (Huntsville/Fairy Lake) \u2014 offering coverage from urban core to four-season cottage country.",
+          "transit": [
+            "Yonge & Eglinton \u2014 TTC subway and Eglinton Crosstown LRT",
+            "M3 Condos \u2014 steps to Square One & MiWay",
+            "Northshore \u2014 Aldershot GO Station 5-minute drive; Highway 403 and QEW close by",
+            "Heights of Harmony \u2014 Oshawa GO Station and Highways 407, 412 and 401 nearby"
+          ],
+          "schools": [
+            "Burlington Central Secondary School, Maplehurst Public School, King's Road Public School near Northshore",
+            "Riverside Public School near Crescent Bay"
+          ],
+          "retail": [
+            "Mapleview Shopping Centre \u2014 approximately 3-minute drive from Northshore",
+            "Square One Shopping Centre \u2014 steps from M3 Condos",
+            "Huntsville's Landing, Chuck's Roadhouse, Starbucks within 5 minutes of Crescent Bay"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/01-exterior-w5uxLXnlWtSfHH3dwPDndd551HXvEv.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/05-exterior-paV8QDhNL2tqfrGmEoBYM667q0U8Nt.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/06-exterior-4MBYVlXRGo8xCN9Rl4ab5ApnQVroJ6.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/17-exterior-qb7Yl2H622ITsc8XkqinyUxGmAqlG5.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/19-exterior-Dq4ZUAgFBeDMGufIAGCj7Nk1fEQUBZ.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/assignment-inventory-deals-week-of-may-22nd-2026/21-interior-BIKEgZvEAyyqxs0wpVMOmmN3up1MX2.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Multiple \u2014 Calibrex, National Homes, Minto Communities and others",
+          "blurb": "This week's deals span builders including Calibrex Developments (Crescent Bay, Muskoka), National Homes (Northshore, Burlington), and Minto Communities (Heights of Harmony, Oshawa), each established Ontario builders with long track records."
+        },
+        "faq": [
+          {
+            "q": "What is an assignment sale?",
+            "a": "An assignment sale is the resale of a pre-construction purchase agreement before the unit closes. The original purchaser (assignor) transfers their contract to a new buyer (assignee) \u2014 often at a price that captures market appreciation but is still below comparable resale."
+          },
+          {
+            "q": "How can savings reach $170,000+?",
+            "a": "When original purchasers bought several years ago, current market value can exceed their contract price. On select assignments in this week's list, the spread between original purchase price and current asking is $170,000 or more."
+          },
+          {
+            "q": "What does '20% deposit fully paid' mean at M3?",
+            "a": "The assignor at M3 Condos has already paid the full 20% deposit required by the builder. The new buyer steps into the contract with $0 deposit pending to the builder \u2014 they pay the assignor for the equity already in the unit."
+          },
+          {
+            "q": "Are these units available immediately?",
+            "a": "Each deal varies. Some are tenanted (the Yonge & Eglinton corner suite is leased until December 2026), some are builder inventory with 2025+ occupancy, and some are assignment contracts assuming the original closing date. Specifics are provided per unit on request."
+          },
+          {
+            "q": "What incentives apply at Northshore and Heights of Harmony?",
+            "a": "Northshore offers 5% down, $0 development charges and closing costs, and $5,000 off parking. Heights of Harmony offers $45,000 down, appliances included, and 1 year of free maintenance."
+          }
+        ],
+        "meta": {
+          "title": "Ontario Assignment & Inventory Deals \u2014 Week of May 22, 2026",
+          "description": "Six curated assignment and builder-inventory opportunities across Ontario from $250K. Save up to $170,000+ on select pre-construction units. Updated weekly."
+        },
+        "sources": [
+          "https://www.minto.com/gta/Oshawa-new-homes/The-Heights-of-Harmony/main.html",
+          "https://www.gta-homes.com/burlington-condos/northshore/",
+          "https://www.crescentbaymuskoka.com/"
+        ]
+      },
+      "updated_at": "2026-05-26 19:09:41"
+    },
     {
       "id": 35,
       "slug": "rosehaven--springside-trails",
