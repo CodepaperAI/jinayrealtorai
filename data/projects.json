@@ -1,7 +1,26 @@
 {
   "version": 1,
-  "count": 14,
+  "count": 15,
   "projects": [
+    {
+      "id": 34,
+      "slug": "oakville-inventory-opportunities-multi-project-campaign",
+      "project_name": "Oakville Inventory Opportunities (Multi-Project Campaign)",
+      "developer": null,
+      "city": "Oakville",
+      "address": null,
+      "project_type": "condo",
+      "status": "VIP launch",
+      "starting_price": 377979.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": null,
+      "cover_image_source": null,
+      "page_plan": {},
+      "updated_at": "2026-05-26 19:00:54"
+    },
     {
       "id": 33,
       "slug": "mosaik--sharon-village",
