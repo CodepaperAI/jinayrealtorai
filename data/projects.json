@@ -1,7 +1,216 @@
 {
   "version": 1,
-  "count": 17,
+  "count": 18,
   "projects": [
+    {
+      "id": 37,
+      "slug": "avella",
+      "project_name": "Avella",
+      "developer": null,
+      "city": "Aurora",
+      "address": "Wellington St E & Leslie St, Aurora, ON",
+      "project_type": "townhome",
+      "status": "public launch",
+      "starting_price": 799000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/01-exterior-HRMMuZi7eKoQHpB8a0Af6zKWmUlxQS.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Avella Towns: 2-Car Garages in Aurora",
+          "subhead": "Treasure Hill's freehold townhomes at Leslie & Addison Hall Circle offer up to 2,400 sq ft, 5 bedrooms, and rare double garages from $799,900.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/01-exterior-HRMMuZi7eKoQHpB8a0Af6zKWmUlxQS.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$799,900"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "Up to 5"
+          },
+          {
+            "label": "Size",
+            "value": "Up to 2,400 sq ft"
+          },
+          {
+            "label": "Garage",
+            "value": "2-Car"
+          }
+        ],
+        "urgency_signals": [
+          "5 min to Hwy 404",
+          "15 min to Aurora GO",
+          "Finished basement included",
+          "First-come, first-served lots"
+        ],
+        "story_md": "Avella is a pre-construction collection of 2-car garage freehold townhomes by Treasure Hill, located at Leslie Street and Addison Hall Circle in Aurora. The community features 3-storey townhomes with rare 2-car garages and modern open-concept layouts \u2014 from 1,971 to 2,048 sq. ft., starting from $799,900. Pricing reflects the new HST rebate \u2014 qualified buyers can save up to $130,000 versus comparable resale product, which in Aurora already trades north of $1M.\n\nThe site sits in one of York Region's most established residential pockets. 5 min north of Hwy 404 for seamless GTA connectivity. The Stronach Aurora Recreation Complex features pools, fitness centre, ice rinks, and multi-sport courts. Aurora offers over 800 acres of green space with an extensive trail network. The Aurora GO Station is roughly 15 minutes away with trains running every 30 minutes to Union Station, opening the door to commuter-tenant demand alongside owner-occupier appeal.\n\nThe master plan is meaningful in scale: Avella features 183 townhomes across a 10.94-acre master-planned community \u2014 141 rear-lane townhomes and 42 rear-lane townhomes with walk-out garages, all with 2-car garages. A 1.5-acre on-site park, pathways, and playgrounds anchor the community, and St. Andrew's College \u2014 one of Canada's most recognized private schools \u2014 is in the neighbourhood.\n\nFor investors, the thesis is straightforward: a supply-constrained low-rise market, a freehold product with real square footage, two-car parking, and a finished basement included at purchase. For over 20 years, Treasure Hill has been one of the GTA's most respected homebuilders, creating award-winning communities that combine innovative design with exceptional quality. Registered with the HCRA and enrolled with Tarion, Treasure Hill has earned a reputation as a builder that consistently exceeds expectations. Early purchasers get priority lot selection and the launch incentive stack before public release tightens availability.",
+        "selling_points": [
+          {
+            "title": "Rare 2-Car Garage Townhomes",
+            "body": "A full double garage \u2014 not the typical 1.5-car setup found in most GTA towns \u2014 with direct home access, storage, and room for two full-size vehicles."
+          },
+          {
+            "title": "Up to 5 Bedrooms, 2,400 Sq Ft",
+            "body": "Family-sized 3-storey layouts with an open-concept main floor, flexible ground-level room, and generous bedrooms \u2014 true detached-home livability in a townhome footprint."
+          },
+          {
+            "title": "Finished Basement Included",
+            "body": "A finished lower level is built into the purchase price, adding usable square footage and immediate rental or in-law suite potential at no upgrade cost."
+          },
+          {
+            "title": "5-Piece Appliance Package",
+            "body": "A full appliance package is bundled into the deal \u2014 closing-day move-in ready, with no separate kitchen-and-laundry budget to plan for."
+          },
+          {
+            "title": "Save Up to $130,000 (HST Rebate)",
+            "body": "The $799,900 starting price is shown after the new federal HST rebate for qualified buyers \u2014 material savings versus comparable Aurora resale product."
+          },
+          {
+            "title": "Supply-Constrained Aurora Market",
+            "body": "New townhome communities in Aurora are limited and resale comparables already exceed $1M, positioning Avella as an entry-level price point in a mature, in-demand pocket."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Rear-Lane Townhome (2-Car Garage)",
+            "sqft": "1,971-2,048",
+            "price_from": "$799,900",
+            "notes": "141 units in the master plan; 3-storey with finished basement."
+          },
+          {
+            "type": "Rear-Lane Townhome w/ Walk-Out Garage",
+            "sqft": "Up to 2,400",
+            "price_from": "",
+            "notes": "42 units; up to 5 bedrooms, walk-out garage configuration."
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with HST Rebate for qualified buyers",
+            "value": "$130,000"
+          },
+          {
+            "title": "Starting price of $799,900 is shown after HST rebate",
+            "value": null
+          },
+          {
+            "title": "Finished basement included with purchase",
+            "value": null
+          },
+          {
+            "title": "5-piece appliance package included",
+            "value": null
+          },
+          {
+            "title": "Priority lot selection for early registrants",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "1.5-acre community park",
+          "Pathways and playgrounds",
+          "800+ acres of Aurora green space nearby",
+          "Extensive trail network",
+          "Stronach Aurora Recreation Complex nearby",
+          "2-car garages with up to 4-car parking",
+          "Freehold ownership"
+        ],
+        "location": {
+          "blurb": "Avella sits at Leslie Street and Addison Hall Circle in Aurora \u2014 five minutes north of Highway 404 and roughly fifteen minutes from the Aurora GO Station, with trains every 30 minutes to Union Station. The mature surrounding neighbourhood puts St. Andrew's College, the Stronach Aurora Recreation Complex, and downtown Aurora's shops and restaurants within a short drive.",
+          "transit": [
+            "5 min to Hwy 404",
+            "15 min to Aurora GO Station",
+            "GO trains every 30 min to Union Station"
+          ],
+          "schools": [
+            "St. Andrew's College (private)",
+            "Quality public and Catholic schools throughout Aurora",
+            "York College, Ontario Tech University, and Trent University accessible"
+          ],
+          "retail": [
+            "Downtown Aurora \u2014 boutique shops, dining, farmers' markets",
+            "Aurora Town Square & Aurora Cultural Centre",
+            "Southlake Regional Health Centre (Newmarket) nearby"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/01-exterior-HRMMuZi7eKoQHpB8a0Af6zKWmUlxQS.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/16-exterior-lmUK4nrQ31ety6xnMHaxtH6zzVDSiz.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/07-neighbourhood-vE1Yr2V3IkA4aEgp54Aa100INAPFPr.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/09-neighbourhood-MBiLfkYNCKLQhMBtgFXLXzghXWaAKi.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/14-neighbourhood-iICuB6zmpCsvAFc4gZHCZmhbJ4532Q.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/avella/18-neighbourhood-NkL4SFAr8Bj4cYKaTVr6TrhYWfgx2s.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Treasure Hill",
+          "blurb": "Treasure Hill is a BILD- and Tarion-recognized GTA homebuilder with 20+ years of award-winning communities across York Region and Southern Ontario, registered with the HCRA and known for sell-out low-rise projects."
+        },
+        "faq": [
+          {
+            "q": "Where exactly is Avella located?",
+            "a": "Avella is located at Leslie Street and Addison Hall Circle in Aurora, Ontario \u2014 approximately 5 minutes north of Highway 404 and 15 minutes from the Aurora GO Station on the Barrie Line to Union Station."
+          },
+          {
+            "q": "What does $799,900 actually include?",
+            "a": "The $799,900 starting price is shown after the HST rebate for qualified buyers and includes a 2-car garage townhome with a finished basement and a 5-piece appliance package. Eligibility for the full rebate depends on your buyer profile \u2014 confirm with your lawyer."
+          },
+          {
+            "q": "How big are the homes and how many bedrooms?",
+            "a": "Avella offers 3-storey rear-lane townhomes ranging from 1,971 to 2,048 sq ft on the standard plans, with select walk-out garage configurations going up to 2,400 sq ft and up to 5 bedrooms."
+          },
+          {
+            "q": "How many homes are in the community?",
+            "a": "The master plan totals 183 townhomes across 10.94 acres \u2014 141 rear-lane townhomes and 42 rear-lane townhomes with walk-out garages, all with 2-car garages."
+          },
+          {
+            "q": "Who is the builder and is the home covered by warranty?",
+            "a": "Avella is built by Treasure Hill, a GTA homebuilder of 20+ years that is registered with the HCRA and enrolled with Tarion, meaning every home is covered by Ontario's statutory new-home warranty."
+          }
+        ],
+        "meta": {
+          "title": "Avella Towns by Treasure Hill | Aurora Pre-Construction",
+          "description": "Avella by Treasure Hill \u2014 2-car garage freehold townhomes in Aurora at Leslie St & Addison Hall Circle. Up to 5 beds, 2,400 sq ft, from $799,900."
+        },
+        "sources": [
+          "https://avellatreasurehill.ca/",
+          "https://avellaaurora.ca/",
+          "https://www.treasurehill.com/communities/avella/"
+        ]
+      },
+      "updated_at": "2026-05-27 14:08:31"
+    },
     {
       "id": 36,
       "slug": "assignment-inventory-deals-week-of-may-22nd-2026",
