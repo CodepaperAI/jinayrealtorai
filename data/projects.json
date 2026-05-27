@@ -1,7 +1,232 @@
 {
   "version": 1,
-  "count": 18,
+  "count": 19,
   "projects": [
+    {
+      "id": 38,
+      "slug": "camcos-living--townhomes-of-little-rouge",
+      "project_name": "Townhomes of Little Rouge",
+      "developer": "Camcos Living",
+      "city": "Markham",
+      "address": null,
+      "project_type": "townhome",
+      "status": "public launch",
+      "starting_price": 768990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/02-exterior-fztxOcYOZk7XREOrvMeLlZzec7GUgZ.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Townhomes of Little Rouge \u2014 Backing Onto Rouge National Park",
+          "subhead": "A limited collection of 3-storey traditional and back-to-back townhomes by Camcos Living, bordering Rouge National Urban Park in Markham.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/02-exterior-fztxOcYOZk7XREOrvMeLlZzec7GUgZ.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$768,990"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3 Bed"
+          },
+          {
+            "label": "Size",
+            "value": "Up to 1,634 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "2026"
+          }
+        ],
+        "urgency_signals": [
+          "Backs onto Rouge National Urban Park",
+          "6 min to Mount Joy GO",
+          "147-home enclave",
+          "First come, first served"
+        ],
+        "story_md": "Townhomes of Little Rouge is a limited release of 3-storey townhomes by Camcos Living at Donald Cousens Parkway and Ninth Line in Markham's Cornell/Greensborough corridor. Pricing now opens from $768,990 for 3-bedroom layouts that scale up to 1,634 sq ft with up to 3 bathrooms \u2014 a rare price point in a neighbourhood where most new product trades closer to the low $1 millions.\n\nThe site backs directly onto Rouge National Urban Park, the second-largest urban park in Canada. That ravine adjacency is the defining feature here: it caps how much can ever be built next door, protects long-term views, and gives the community a green-space premium that's difficult to replicate in central Markham. Many homes are designed with expansive rooftop terraces oriented to take advantage of the Rouge Valley backdrop.\n\nThe commute math works in three directions. Mount Joy GO Station is roughly 6 minutes away with direct service to Union Station, Highway 404 is 10 minutes out, and Highway 407 is accessible via a nearby interchange. Markham Stouffville Hospital is a 7-minute drive, and York University's Markham Campus sits about 12 minutes from the site \u2014 useful for both end-users and investors targeting the rental market.\n\nThe community itself is being delivered as a curated mix of back-to-back and traditional townhomes, totaling 147 residences and built around a central park with seating, pergolas, and a playground. Cornell Community Centre \u2014 pool, fitness centre, triple gym, and indoor playground \u2014 is in the immediate area. Camcos Living is leading construction with Milborne Group handling sales; buyers can also stack the HST Rebate for up to $130,000 in savings.",
+        "selling_points": [
+          {
+            "title": "Bordering Rouge National Urban Park",
+            "body": "The site backs onto Canada's second-largest urban park, delivering protected views, trails, and a long-term green-space premium that's difficult to replicate in Markham."
+          },
+          {
+            "title": "From $768,990 in Cornell",
+            "body": "3-bedroom layouts up to 1,634 sq ft with up to 3 bathrooms \u2014 entry pricing well below most new Markham townhome product."
+          },
+          {
+            "title": "Rooftop Terraces Standard",
+            "body": "Expansive rooftop terraces are designed into the floorplans, oriented toward the Rouge Valley for private outdoor living."
+          },
+          {
+            "title": "6 Minutes to Mount Joy GO",
+            "body": "Direct GO service to Union Station, with Highway 404 in 10 minutes and Highway 407 close by \u2014 strong fundamentals for both end-users and tenants."
+          },
+          {
+            "title": "Save up to $130,000 (HST Rebate)",
+            "body": "Eligible purchasers can recover up to $130,000 through the HST Rebate program, materially improving the cost basis on the worksheet."
+          },
+          {
+            "title": "Built by Camcos Living",
+            "body": "Camcos co-founders bring 80+ years of combined real estate experience and have delivered more than 20,000 residential units across Southern Ontario."
+          }
+        ],
+        "suites": [
+          {
+            "type": "3 Bedroom Townhome",
+            "sqft": "Up to 1,634",
+            "price_from": "$768,990",
+            "notes": "Up to 3 bathrooms; rooftop terrace; back-to-back and traditional layouts available"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Back-to-Back \u2014 On Signing",
+            "value": "$20,000",
+            "due_at": null
+          },
+          {
+            "label": "Back-to-Back \u2014 30 / 120 / 210 / 300 Days",
+            "value": "$20,000 each",
+            "due_at": null
+          },
+          {
+            "label": "Back-to-Back \u2014 On Occupancy",
+            "value": "$20,000",
+            "due_at": null
+          },
+          {
+            "label": "Traditional \u2014 On Signing",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "Traditional \u2014 30 / 120 / 210 / 300 Days",
+            "value": "$25,000 each",
+            "due_at": null
+          },
+          {
+            "label": "Traditional \u2014 On Occupancy",
+            "value": "$25,000",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with the HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Capped Development Levies (DCs, Parkland, Section 37)",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Expansive rooftop terraces",
+          "Integrated central park",
+          "Pergolas and seating areas",
+          "Children's playground",
+          "Backs onto Rouge National Urban Park trails",
+          "9' ceilings",
+          "Dual-zone climate control",
+          "Energy-efficient windows and HRV"
+        ],
+        "location": {
+          "blurb": "Townhomes of Little Rouge sits at Donald Cousens Parkway and Ninth Line in Markham's Cornell/Greensborough neighbourhood, with the Rouge National Urban Park immediately to the east. Residents are 6 minutes from Mount Joy GO, 7 minutes from Markham Stouffville Hospital, and 10 minutes from Highway 404, with Highway 407 close by via interchange.",
+          "transit": [
+            "6 min to Mount Joy GO Station (Union Station service)",
+            "10 min to Highway 404",
+            "Highway 407 via nearby interchange"
+          ],
+          "schools": [
+            "Little Rouge Public School",
+            "Sam Chapman Public School",
+            "Mount Joy Public School",
+            "York University Markham Campus (12 min)"
+          ],
+          "retail": [
+            "Cornell Community Centre (pool, fitness, triple gym, indoor playground)",
+            "CF Markville \u2014 15 min drive",
+            "Food Basics & M&M Food Market nearby",
+            "Markham Stouffville Hospital \u2014 7 min"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/02-exterior-fztxOcYOZk7XREOrvMeLlZzec7GUgZ.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/04-exterior-8STKFBgT31nHQCVu4RiS2gm7psCEHA.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/09-exterior-zWpgXvlwysmR6hadMk9TXHhNgp1ffY.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/14-exterior-16iqthnZphSZojETSYlGbVP2VgFWXe.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/16-exterior-W11TtrEZucFIxSmOfHYndAyXrrgu6n.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/camcos-living--townhomes-of-little-rouge/15-amenity-O4E54lFFyp53DmV5PAJeW6fWy5VfIN.jpg",
+            "category": "amenity",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Camcos Living",
+          "blurb": "Camcos Living is a fully integrated GTA homebuilder whose co-founders bring more than 80 years of combined real estate experience and have delivered over 20,000 residential units across Southern Ontario, including low-rise, multi-storey, and luxury custom homes."
+        },
+        "faq": [
+          {
+            "q": "What's the starting price and what do I get for it?",
+            "a": "Pricing starts at $768,990 for a 3-bedroom townhome with up to 1,634 sq ft and up to 3 bathrooms. Layouts include both traditional and back-to-back townhomes across three storeys."
+          },
+          {
+            "q": "What does the deposit structure look like?",
+            "a": "Back-to-back homes follow a $20,000-per-installment schedule (signing, 30 days, 120 days, 210 days, 300 days, and occupancy). Traditional towns follow the same schedule at $25,000 per installment."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Occupancy is targeted for 2026. Construction has already commenced and sales are underway."
+          },
+          {
+            "q": "Are there incentives available?",
+            "a": "Yes \u2014 eligible buyers can save up to $130,000 through the HST Rebate, and the developer is offering capped development levies (DCs, parkland, and Section 37 costs) on the current release."
+          },
+          {
+            "q": "How does the location actually commute?",
+            "a": "Mount Joy GO Station is approximately 6 minutes away with direct service to Union Station. Highway 404 is 10 minutes by car, Highway 407 is accessible via a nearby interchange, and Markham Stouffville Hospital is a 7-minute drive."
+          }
+        ],
+        "meta": {
+          "title": "Townhomes of Little Rouge by Camcos | Markham Pre-Construction",
+          "description": "3-bed townhomes from $768,990 backing onto Rouge National Urban Park in Markham. Up to 1,634 sq ft, rooftop terraces, 6 min to Mount Joy GO. 2026 occupancy."
+        },
+        "sources": [
+          "https://camcos.ca/new-homes/markham/townhomes-of-little-rouge",
+          "https://storeys.com/townhomes-of-little-rouge-camcos/",
+          "https://littlerougetowns.ca/"
+        ]
+      },
+      "updated_at": "2026-05-27 14:12:40"
+    },
     {
       "id": 37,
       "slug": "avella",
