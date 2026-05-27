@@ -1,7 +1,280 @@
 {
   "version": 1,
-  "count": 19,
+  "count": 20,
   "projects": [
+    {
+      "id": 39,
+      "slug": "brookfield-residential--midhurst-valley",
+      "project_name": "Midhurst Valley",
+      "developer": "Brookfield Residential",
+      "city": "Springwater (Midhurst)",
+      "address": "Anne St N & Carson Rd, Springwater, ON",
+      "project_type": "detached / semi-detached",
+      "status": "VIP launch",
+      "starting_price": 732990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": "2027-Q3",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1cCLjc3U1cbde4stY-UnMEoSEDxYed7pI",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/07-exterior-mJvdqaObLijYEMyCA6MAaQbOJDQOrq.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Midhurst Valley \u2014 Brookfield Homes Near Barrie",
+          "subhead": "Master-planned freehold community of 25\u2032 semis and 36\u2032/44\u2032 detached homes in Springwater, minutes from Highway 400 and Barrie GO.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": null,
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/07-exterior-mJvdqaObLijYEMyCA6MAaQbOJDQOrq.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$732,990"
+          },
+          {
+            "label": "Home Sizes",
+            "value": "1,340\u20133,350 sq ft"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3\u20135"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Q3 2027"
+          }
+        ],
+        "urgency_signals": [
+          "Capped Development Levies",
+          "Assignment Available",
+          "7 min to Highway 400",
+          "14 min to Allandale GO"
+        ],
+        "story_md": "Midhurst Valley is a master-planned freehold community by **Brookfield Residential** at Anne St N & Carson Rd in the Township of Springwater, just north of Barrie. The community presents a premium collection of thoughtfully designed 25\u2032, 36\u2032 and 44\u2032 semi-detached and detached homes with spacious floor plans ranging from 1,800 sq. ft. to 3,350 sq. ft. Pricing on the current 44\u2032 Singles release starts at $1,069,990 \u2014 or $963,990 net of the full anticipated HST rebate \u2014 with 3\u20135 bedroom layouts, 2-car garages, and a choice of traditional or transitional exteriors.\n\nThe location is the investor story. Residents are 7 minutes from Highway 400 and 14 minutes from the Allandale Waterfront GO Station, with a 90-minute GO Train ride to Union Station. Georgian Mall \u2014 the largest mall in Barrie with over 150 retailers \u2014 is 5 minutes away, and SmartCentres Barrie North (Walmart, Loblaws, Shoppers) sits at the same exit. For weekenders and end-users, Horseshoe Resort, Springwater Provincial Park, and Snow Valley Ski Resort are all within a short drive.\n\nMidhurst Valley is thoughtfully designed to celebrate the natural beauty of the surroundings while elevating the community's unique character \u2014 with serene ponds, inviting parks, a comprehensive trail system, and a central location designated for a proposed school. Inside the homes, quality-level inclusions are designed in collaboration with a design expert at Brookfield's own Inspiration Studio.\n\nFor buyers on the current 44\u2032 release, deposits total $120,000 spread across signing through 150 days, plus a $10,000 D\u00e9cor Dollars bonus. Capped development levies and assignment rights are extended to VIP purchasers \u2014 two protections that materially de-risk a pre-construction hold in a fast-growing Simcoe County market.",
+        "selling_points": [
+          {
+            "title": "Master-Planned Freehold Community",
+            "body": "A premium collection of 25\u2032, 36\u2032 and 44\u2032 semi-detached and detached homes with spacious floor plans ranging from 1,800 to 3,350 sq. ft. \u2014 designed around ponds, parks, and trails."
+          },
+          {
+            "title": "Backed by Brookfield Residential",
+            "body": "Over the past 60 years, Brookfield Residential has built a reputation as an industry leader and innovator, with co-development by CountryWide Homes, Geranium Homes, and Sundance Homes."
+          },
+          {
+            "title": "Four-Season Recreation at the Door",
+            "body": "Nearby destinations include Horseshoe Resort, Springwater Provincial Park, and Snow Valley Ski Resort, with Lake Simcoe beaches and the Hickling Trail also minutes away."
+          },
+          {
+            "title": "Direct GTA Commuter Access",
+            "body": "7 minutes from Highway 400, 14 minutes from Allandale Waterfront GO, 9 minutes from Downtown Barrie, and 40 minutes from Collingwood."
+          },
+          {
+            "title": "Investor-Friendly Terms",
+            "body": "Capped development levies, assignment available, free lawyer review, and HST rebate savings up to $24,000 \u2014 combined with up to a full anticipated HST-rebate price reduction on advertised pricing."
+          },
+          {
+            "title": "Designed at Brookfield's Inspiration Studio",
+            "body": "Exteriors offer Craftsman-inspired Traditional brick-and-stone facades or Contemporary designs with oversized windows; interiors feature quality-level inclusions personalized with a design expert at the in-house Inspiration Studio."
+          }
+        ],
+        "suites": [
+          {
+            "type": "25\u2032 Semi \u2013 Alder, 3 Bed",
+            "sqft": "1,340\u20131,360",
+            "price_from": "$732,990",
+            "notes": "Entry-level semi-detached"
+          },
+          {
+            "type": "25\u2032 Semi \u2013 Crothers, 4 Bed",
+            "sqft": "1,990\u20132,020",
+            "price_from": "$819,990",
+            "notes": "Largest semi floor plan"
+          },
+          {
+            "type": "36\u2032 Detached \u2013 Athabasca Bungalow Loft",
+            "sqft": "1,820\u20131,840",
+            "price_from": "$944,990",
+            "notes": "Bungalow with loft"
+          },
+          {
+            "type": "36\u2032 Detached \u2013 Sherwood",
+            "sqft": "2,670\u20132,800",
+            "price_from": "$1,044,990",
+            "notes": "Optional 5-bed plan +$5,000"
+          },
+          {
+            "type": "44\u2032 Detached \u2013 Boreal Bungalow Loft",
+            "sqft": "2,190\u20132,200",
+            "price_from": "$1,069,990",
+            "notes": "$963,990 net HST"
+          },
+          {
+            "type": "44\u2032 Detached \u2013 Hickling",
+            "sqft": "3,240\u20133,350",
+            "price_from": "$1,169,990",
+            "notes": "Optional 5-bed plan +$7,000"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On Signing (44\u2032)",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "30 Days",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "60 Days",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "90 Days",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "120 Days",
+            "value": "$25,000",
+            "due_at": null
+          },
+          {
+            "label": "150 Days",
+            "value": "$10,000 (Total $120,000)",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Platinum VIP Pricing & Floor Plans",
+            "value": null
+          },
+          {
+            "title": "Capped Development Levies",
+            "value": null
+          },
+          {
+            "title": "Assignment Available",
+            "value": null
+          },
+          {
+            "title": "$10,000 in D\u00e9cor Dollars (36\u2032 & 44\u2032)",
+            "value": "$10,000"
+          },
+          {
+            "title": "6-Piece Stainless Appliance Package (25\u2032 Semis)",
+            "value": null
+          },
+          {
+            "title": "HST Rebate Savings Up To",
+            "value": "$24,000"
+          }
+        ],
+        "amenities": [
+          "Adam Elliott Park",
+          "Tennis courts",
+          "Soccer field",
+          "Playground",
+          "On-site trail system",
+          "Serene ponds",
+          "Proposed on-site school",
+          "Environmental Protection green space",
+          "Springwater Provincial Park nearby",
+          "Snow Valley Ski Resort nearby",
+          "Horseshoe Valley ski & golf",
+          "Lake Simcoe beaches"
+        ],
+        "location": {
+          "blurb": "Located at Anne St N & Carson Rd in Springwater, neighbouring Barrie. Residents are 7 minutes from Highway 400, 14 minutes from Allandale Waterfront GO, 9 minutes from Downtown Barrie, and 40 minutes from Collingwood. Georgian Mall \u2014 the largest mall in Barrie with over 150 retailers \u2014 is just 5 minutes away.",
+          "transit": [
+            "7 min to Highway 400",
+            "14 min to Allandale Waterfront GO",
+            "90 min GO Train to Union Station",
+            "~1 hr drive to Downtown Toronto"
+          ],
+          "schools": [
+            "Proposed on-site school within master plan",
+            "Georgian College \u2014 short drive (Barrie)"
+          ],
+          "retail": [
+            "Georgian Mall (150+ retailers) \u2014 5 min",
+            "SmartCentres Barrie North \u2014 Walmart, Loblaws, Shoppers \u2014 5 min",
+            "Downtown Barrie dining \u2014 9 min"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/07-exterior-mJvdqaObLijYEMyCA6MAaQbOJDQOrq.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/16-neighbourhood-AufkIFBrMcoEP3RcgIMs18QHWMlX9A.jpg",
+            "category": "neighbourhood",
+            "caption": "36\u2032 detached traditional design"
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/17-neighbourhood-gughEADArUzL19PETV5mfGrZnAogIM.jpg",
+            "category": "neighbourhood",
+            "caption": "25\u2032 semi-detached streetscape"
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/18-neighbourhood-uIhkjAbNUt24XENrjXiAyuP5Q2eqs9.jpg",
+            "category": "neighbourhood",
+            "caption": "Community park and trail system"
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/19-neighbourhood-QtCN97jxNOCiaOfmKsbhLelKHNJ9Cm.jpg",
+            "category": "neighbourhood",
+            "caption": "Open-concept kitchen with island"
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--midhurst-valley/20-neighbourhood-K0Bq7yr2yE6yJ038QaMK4X3oFmzkAq.jpg",
+            "category": "neighbourhood",
+            "caption": "Living and dining interior"
+          }
+        ],
+        "developer": {
+          "name": "Brookfield Residential",
+          "blurb": "Over the past 60 years, Brookfield Residential has built a reputation as an industry leader and innovator \u2014 a leading North American homebuilder co-developing Midhurst Valley with CountryWide Homes, Geranium, and Sundance."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "It varies by home type. 25\u2032 Semis: $80,000 total ($10K signing, $20K at 30/60/90 days, $10K at 120 days). 36\u2032 Detached: $110,000 total ($10K signing, $25K at 30/60/90/120 days). 44\u2032 Detached: $120,000 total ($10K signing, $25K at 30/60/90/120 days, $10K at 150 days)."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes \u2014 assignment is available for VIP purchasers, alongside capped development levies."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "Targeted for Q3 2027. The current release is a VIP launch."
+          },
+          {
+            "q": "What floor plans and sizes are available?",
+            "a": "25\u2032, 36\u2032 and 44\u2032 semi-detached and detached homes with spacious floor plans ranging from 1,800 sq. ft. to 3,350 sq. ft., with 3\u20135 bedrooms and 1\u20132 car garages. Pricing starts at $732,990 for a 25\u2032 semi."
+          },
+          {
+            "q": "How is HST handled?",
+            "a": "Advertised pricing is net of the $24,000 GST/HST New Housing Rebate, with a further \"Price Net of HST\" reflecting the full anticipated rebate if enacted and assigned to the Vendor. Application is the purchaser's responsibility and subject to eligibility \u2014 seek independent legal/tax advice."
+          }
+        ],
+        "meta": {
+          "title": "Midhurst Valley by Brookfield Residential | Springwater Pre-Construction",
+          "description": "Brookfield Residential's Midhurst Valley: 25\u2032 semis & 36\u2032/44\u2032 detached homes from $732,990 in Springwater. 7 min to Hwy 400, capped levies, assignment available."
+        },
+        "sources": [
+          "https://www.brookfieldresidential.com/new-homes/ontario/greater-toronto-area/midhurst/midhurst-valley",
+          "https://condonow.com/Midhurst-Valley-Homes",
+          "https://myinvestmentbrokers.com/projects/midhurst-valley-by-brookfield-residential/"
+        ]
+      },
+      "updated_at": "2026-05-27 15:51:19"
+    },
     {
       "id": 38,
       "slug": "camcos-living--townhomes-of-little-rouge",
