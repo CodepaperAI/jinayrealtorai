@@ -1,7 +1,212 @@
 {
   "version": 1,
-  "count": 25,
+  "count": 26,
   "projects": [
+    {
+      "id": 46,
+      "slug": "time",
+      "project_name": "Time",
+      "developer": null,
+      "city": "Ajax",
+      "address": "North of Kingston Rd, Ajax, ON",
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 499990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/01-exterior-pxtdFNICLuzLfb2e797FbYMDZijF1l.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Time Urban Towns \u2014 Ajax Boutique Community",
+          "subhead": "Marshall Homes delivers 81 stacked towns and urban bungalows just north of Kingston Road, minutes from Ajax GO and Highway 401.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/01-exterior-pxtdFNICLuzLfb2e797FbYMDZijF1l.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$499,990"
+          },
+          {
+            "label": "Sizes",
+            "value": "821\u20131,758 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "2026"
+          },
+          {
+            "label": "Residences",
+            "value": "81 towns"
+          }
+        ],
+        "urgency_signals": [
+          "Only 81 residences",
+          "1% down per month",
+          "Dev charges capped at $5,000",
+          "Free Assignment"
+        ],
+        "story_md": "Time is a boutique pre-construction community of 81 urban townhomes by Marshall Homes Corporation at 514 Rossland Road West in Ajax, Ontario, set in the Meadow Ridge neighbourhood of Durham Region. The collection mixes stacked townhomes and spacious urban bungalows with spacious floor plans ranging from 821 sq. ft. to 1,758 sq. ft. in one- and two-level designs \u2014 rare ownership optionality for end-users and downsizers who don't want a typical condo footprint.\n\nThe location sits just north of Kingston Road, with easy access to shops, restaurants, schools, and recreation centers. The development offers quick access to Highway 401, connecting to downtown Toronto and the broader GTA, and the Ajax GO Station is conveniently located nearby. Inside the region, residents will enjoy easy access to local amenities, including the Pickering Golf Club, Pickering and Ajax casinos, the waterfront, and the Audley Recreation Centre, all within a ten-minute drive.\n\nFor investors and first-time buyers, the underwriting case is unusually clean. Marshall Homes is offering $5,000 Decor Dollars, Free Assignment, Development Charges Capped at $5,000, 1 Parking included, and an Appliance Package included \u2014 closing costs that typically erode pre-construction returns are largely capped or absorbed. Starting from $499,990 after HST rebate, Time prices below the average Durham 2-bedroom condo while delivering meaningfully more square footage.\n\nThe project also benefits from a unique approval story: the wait time for the Official Plan Amendment and Zoning Bylaw was slashed from the norm of 18 to 24 months, to five weeks, allowing the developer to save thousands of dollars in carrying costs, interest and consultation \u2014 savings reflected in the prices of the homes. Pre-sales began with construction expected to start in May 2025, and construction on Time could be finished by as early as February 2026.",
+        "selling_points": [
+          {
+            "title": "Boutique 81-Home Community",
+            "body": "<cite index=\"3-4\">With only 81 residences available, this limited opportunity combines superior craftsmanship, customizable finishes, and contemporary architecture in one of Ajax's most desirable locations.</cite>"
+          },
+          {
+            "title": "Bungalow & Two-Level Options",
+            "body": "<cite index=\"29-19,29-20\">The project features thoughtfully crafted urban bungalows and two-level townhomes, with designs that prioritize accessibility and long-term livability \u2014 some with stair-free layouts.</cite>"
+          },
+          {
+            "title": "Investor-Grade Incentives",
+            "body": "Development charges capped at $5,000, free assignment, 1 parking space, and a full appliance package are included \u2014 closing-cost protections rare at this price point."
+          },
+          {
+            "title": "Transit & Highway Access",
+            "body": "<cite index=\"27-21\">Highway 401 is within easy access, and the Ajax GO Station is an eight-minute drive away</cite>, putting Union Station inside a one-hour commute."
+          },
+          {
+            "title": "1% Down Per Month",
+            "body": "Own from just 1% down per month \u2014 a deposit structure built for first-time buyers and investors managing cash flow during construction."
+          },
+          {
+            "title": "Conservation-Adjacent Setting",
+            "body": "<cite index=\"27-20\">Time will be close to the Duffins Trail System, the Pickering Golf Club, two casinos and the Audley Recreation Centre.</cite>"
+          }
+        ],
+        "suites": [
+          {
+            "type": "Stacked Town / Urban Bungalow",
+            "sqft": "821\u20131,758",
+            "price_from": "$499,990",
+            "notes": "One- and two-level layouts available"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Structure",
+            "value": "1% down per month",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with the HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Development Charges Capped at $5,000",
+            "value": "$5,000 cap"
+          },
+          {
+            "title": "Free Assignment",
+            "value": null
+          },
+          {
+            "title": "1 Parking Included",
+            "value": null
+          },
+          {
+            "title": "Appliance Package Included",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Landscaped communal areas",
+          "Pedestrian-friendly streets",
+          "Dog-friendly community",
+          "On-site parking",
+          "Energy-efficient construction"
+        ],
+        "location": {
+          "blurb": "<cite index=\"14-1,14-2,14-3\">Located at 514 Rossland Road West in Ajax in the Meadow Ridge neighbourhood, the development features 81 modern urban townhomes designed for comfortable, stylish living.</cite> <cite index=\"27-20,27-21\">Time will be close to the Duffins Trail System, the Pickering Golf Club, two casinos and the Audley Recreation Centre, with Highway 401 within easy access and the Ajax GO Station an eight-minute drive away.</cite>",
+          "transit": [
+            "~8\u201311 min drive to Ajax GO Station",
+            "Direct access to Highway 401",
+            "Union Station ~48 min via GO",
+            "Hwy 412 / 407 nearby"
+          ],
+          "schools": [
+            "Pine Ridge Secondary School",
+            "Notre Dame Catholic Secondary School",
+            "Eagle Ridge Public School",
+            "Vimy Ridge Public School"
+          ],
+          "retail": [
+            "The Shops at Pickering City Centre (~9 min)",
+            "Kingston Rd dining strip",
+            "Audley Recreation Centre",
+            "Pickering & Ajax casinos"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/01-exterior-pxtdFNICLuzLfb2e797FbYMDZijF1l.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/09-exterior-ICNr3YJ6hzGvgx4VoT21hzAX5cbglK.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/18-exterior-L22mujotq4LbIQhTihmiTBPDenhvhG.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/04-neighbourhood-L5C30NOqVK3Wln75RLeCC3TCishecn.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/time/03-interior-KhDeGuhaQ54Fvl8zoGIbj9yhypkQKk.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Marshall Homes Corporation",
+          "blurb": "<cite index=\"27-25\">Marshall Homes has completed between 1,500 to 2,000 homes in Ontario during its 32 years, building over 120 homes in 2023.</cite> <cite index=\"29-15,29-16\">The company focuses on delivering boutique enclaves and custom homes throughout Durham and cottage country under the leadership of President Craig Marshall.</cite>"
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure at Time?",
+            "a": "Buyers can own from just 1% down per month \u2014 a low-barrier structure designed for first-time buyers and investors."
+          },
+          {
+            "q": "Is assignment allowed?",
+            "a": "Yes. Marshall Homes is offering Free Assignment as part of the current VIP incentive package, allowing investors to sell their contract before final closing."
+          },
+          {
+            "q": "When is occupancy?",
+            "a": "<cite index=\"27-22,27-23\">Construction was expected to start in May 2025, and construction on Time could be finished by as early as February 2026.</cite>"
+          },
+          {
+            "q": "Is parking included?",
+            "a": "Yes \u2014 one parking space is included with every home, along with a full appliance package."
+          },
+          {
+            "q": "What about development charges and HST?",
+            "a": "Development charges are capped at $5,000 \u2014 well below typical Durham pre-construction levies \u2014 and buyers can save up to $130,000 via the HST rebate program."
+          }
+        ],
+        "meta": {
+          "title": "Time Urban Towns by Marshall Homes | Ajax Pre-Construction",
+          "description": "Time is an 81-unit boutique townhome community by Marshall Homes at 514 Rossland Rd W, Ajax. From $499,990. 1% down per month, free assignment, dev charges capped."
+        },
+        "sources": [
+          "https://marshallhomes.ca/communities/time/",
+          "https://timeinajax.com/",
+          "https://www.businesswire.com/news/home/20241111880259/en/With-93-Faster-Government-Approvals-Marshall-Homes-Triples-Housing-Supply-And-Savings-for-Ajax-Families-With-New-Time-Community"
+        ]
+      },
+      "updated_at": "2026-06-01 14:21:00"
+    },
     {
       "id": 45,
       "slug": "creekside-trail",
