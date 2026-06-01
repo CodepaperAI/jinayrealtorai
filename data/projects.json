@@ -1,7 +1,240 @@
 {
   "version": 1,
-  "count": 23,
+  "count": 24,
   "projects": [
+    {
+      "id": 44,
+      "slug": "mattamy--carrington",
+      "project_name": "Carrington",
+      "developer": "Mattamy Homes",
+      "city": "Calgary",
+      "address": "NW Calgary, Alberta",
+      "project_type": "townhome / detached",
+      "status": "public launch",
+      "starting_price": 468990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/01-exterior-7ip5gaWCJxnUyLQ6C15YQm6HKREPL9.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Carrington: Phase 12 in NW Calgary",
+          "subhead": "Mattamy Homes' master-planned community delivers rear-lane towns, semis, and 36'/44' detached homes north of Stoney Trail.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $40,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/01-exterior-7ip5gaWCJxnUyLQ6C15YQm6HKREPL9.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$468,990"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3-4"
+          },
+          {
+            "label": "Sizes",
+            "value": "1,341-2,875 sq ft"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Approx. 9-12 months"
+          }
+        ],
+        "urgency_signals": [
+          "12 mortgage payments covered",
+          "Up to $40,000 Design Studio Credit",
+          "No Alberta Land Transfer Tax",
+          "Best lots first come, first served"
+        ],
+        "story_md": "Carrington is one of the largest master-planned communities in Calgary's northwest, and at completion will consist of more than 3,400 homes and take an estimated 10 years to complete. Built by Mattamy Homes at 183 Carrington Circle NW, Calgary, AB T3P 0R8, at the nearest intersection of 14 St NW & Stoney Trail NW, Phase 12 is the latest release in a community that's been steadily delivering homes since groundbreaking in 2015.\n\nThe Phase 12 worksheet covers four product types: rear-lane towns from $468,990 (3 bed / 2.5 bath, 1,341-1,469 sq ft), semi-detached homes from $540,990, 36' detached homes from $614,990, and 44' detached homes from $731,990 \u2014 all 3-4 bedroom, 2.5 bath floor plans ranging up to 2,875 sq ft. Mattamy is currently covering the first 12 mortgage payments (up to $4,150/month) for a limited time, along with a $15,000 Design Studio Credit on towns and up to $40,000 on detached homes.\n\nFor investors, Alberta's tax framework is the real headline: no land transfer tax, no development charges, no provincial sales tax, and no rent control. Combined with Calgary's in-migration and Carrington's location in the city's fastest-growing quadrant, the math works differently than it does in Ontario or BC.\n\nThe community itself is designed around connectivity. Carrington is traversed by the Rotary/Mattamy Greenway, a 138 km path encircling Calgary, providing scenic trails for walking and exploring. Residents are minutes from Stoney Trail (Hwy 201), roughly 10 minutes from Calgary International Airport, and a future Green Line LRT stop is planned to serve the area. The Greenway Plaza commercial area began construction in Spring 2022, bringing No Frills supermarket, a gas station, day care, banking and more just minutes from home.",
+        "selling_points": [
+          {
+            "title": "Phase 12 now on sale",
+            "body": "Rear lane towns, semi-detached, and 36'/44' detached homes are released in NW Calgary's Carrington community on a first-come, first-served basis."
+          },
+          {
+            "title": "12 mortgage payments on Mattamy",
+            "body": "For a limited time, Mattamy Homes is covering your first 12 mortgage payments up to $4,150/month \u2014 a direct cash-flow incentive at closing."
+          },
+          {
+            "title": "Up to $40,000 Design Studio Credit",
+            "body": "Detached buyers get up to $40,000 in Design Studio credits; townhome buyers receive $15,000 to personalize finishes."
+          },
+          {
+            "title": "Alberta's tax advantage",
+            "body": "No land transfer tax, no development charges, no provincial sales tax, and no rent control \u2014 materially better closing math than Ontario or BC."
+          },
+          {
+            "title": "Master-planned scale",
+            "body": "Carrington will ultimately consist of more than 3,400 homes, built around the 138 km Rotary/Mattamy Greenway trail network and ~65 acres of greenspace."
+          },
+          {
+            "title": "Connected location",
+            "body": "Direct access to Stoney Trail (Hwy 201), ~10 minutes to Calgary International Airport, and a future Green Line LRT stop is planned."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Rear Lane Town 3BR",
+            "sqft": "1,341-1,469",
+            "price_from": "$468,990",
+            "notes": "3 Bed / 2.5 Bath"
+          },
+          {
+            "type": "Semi-Detached 3BR",
+            "sqft": "1,366-1,637",
+            "price_from": "$540,990",
+            "notes": "3 Bed / 2.5 Bath"
+          },
+          {
+            "type": "36' Detached 3-4BR",
+            "sqft": "1,539-2,875",
+            "price_from": "$614,990",
+            "notes": "3-4 Bed / 2.5 Bath"
+          },
+          {
+            "type": "44' Detached 3-4BR",
+            "sqft": "1,539-2,875",
+            "price_from": "$731,990",
+            "notes": "3-4 Bed / 2.5 Bath"
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Total deposit",
+            "value": "15%",
+            "due_at": "Per Mattamy worksheet"
+          }
+        ],
+        "incentives": [
+          {
+            "title": "First 12 mortgage payments covered by Mattamy (up to $4,150/month)",
+            "value": null
+          },
+          {
+            "title": "Design Studio Credit \u2014 up to $40,000 on detached homes",
+            "value": "$40,000"
+          },
+          {
+            "title": "Design Studio Credit on towns",
+            "value": "$15,000"
+          },
+          {
+            "title": "No Alberta Land Transfer Tax",
+            "value": null
+          },
+          {
+            "title": "No Development Charges",
+            "value": null
+          },
+          {
+            "title": "No Provincial Sales Tax (Alberta)",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Rotary/Mattamy Greenway trail access",
+          "Greenway Park",
+          "Half basketball court",
+          "Playgrounds",
+          "~65 acres of greenspace",
+          "Environmental reserve frontage (select lots)",
+          "Future Greenway Plaza retail",
+          "Pathway network"
+        ],
+        "location": {
+          "blurb": "Carrington sits at 14 St NW & Stoney Trail NW in northwest Calgary, with direct access to Hwy 201 and roughly 10 minutes to Calgary International Airport. A future Green Line LRT stop is planned, and the Greenway Plaza retail corridor \u2014 anchored by No Frills \u2014 is under construction nearby.",
+          "transit": [
+            "Direct access to Stoney Trail (Hwy 201)",
+            "~10 min to Calgary International Airport",
+            "Future Green Line LRT stop planned"
+          ],
+          "schools": [
+            "Msgr. Anderson School (K-6)",
+            "St. Luke (K-6 French Immersion)",
+            "St. Margaret (K-9 Spanish Bilingual)",
+            "CBE French Immersion catchment"
+          ],
+          "retail": [
+            "Greenway Plaza (No Frills, gas, daycare, banking \u2014 under construction)",
+            "New Horizon Mall nearby",
+            "Retail corridor at 14 St NW & Stoney Trail NW"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/01-exterior-7ip5gaWCJxnUyLQ6C15YQm6HKREPL9.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/02-exterior-Kdlh4NPMetnBCkcu8zKEVAdH8T8t1j.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/03-exterior-v3RNIgkcaHeM4djjDI7AONKoENcwAe.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/04-exterior-5JO22XxY5HKGrh1j2ifh6lCu6I9hDl.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/05-exterior-J0u2PDJNS4pEh2Hc5tw7TPhoWwbZ1z.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/mattamy--carrington/11-exterior-8mhBkdmz0FwKE34VUCQhmWFBBST5Lb.jpg",
+            "category": "exterior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Mattamy Homes",
+          "blurb": "Mattamy Homes is North America's largest privately owned homebuilder. Recognized as the largest family-owned homebuilder in North America, Mattamy has built more than 125,000 homes in hundreds of communities."
+        },
+        "faq": [
+          {
+            "q": "What's the deposit structure at Carrington?",
+            "a": "Carrington follows a 15% deposit structure per the Mattamy worksheet. Your sales representative will confirm the exact schedule for the home type you select."
+          },
+          {
+            "q": "When can I move in?",
+            "a": "Occupancy is approximately 9-12 months from signing, depending on the home type and lot."
+          },
+          {
+            "q": "What incentives are currently offered?",
+            "a": "Mattamy is covering the first 12 mortgage payments (up to $4,150/month) for a limited time, plus up to $40,000 Design Studio Credit on detached homes and $15,000 on towns."
+          },
+          {
+            "q": "Do I pay land transfer tax or development charges?",
+            "a": "No. Alberta has no provincial land transfer tax, no development charges, and no provincial sales tax \u2014 closing costs are materially lower than Ontario or BC."
+          },
+          {
+            "q": "What home types are available in Phase 12?",
+            "a": "Rear lane towns from $468,990, semi-detached from $540,990, 36' detached from $614,990, and 44' detached from $731,990 \u2014 all 3-4 bedroom, 2.5 bath layouts."
+          }
+        ],
+        "meta": {
+          "title": "Carrington by Mattamy Homes | NW Calgary Pre-Construction",
+          "description": "Mattamy Homes' Carrington in NW Calgary: rear-lane towns from $468,990, detached from $614,990. 12 mortgage payments covered + up to $40K Design Credit."
+        },
+        "sources": [
+          "https://mattamyhomes.com/alberta/calgary/calgary/carrington",
+          "https://newconstructionhomes.ca/projects/carrington-by-mattamy-homes/",
+          "https://mattamyhomes.mediaroom.com/2015-10-29-Mattamy-Homes-announces-beginning-of-construction-on-Carrington-in-NW-Calgary"
+        ]
+      },
+      "updated_at": "2026-06-01 14:13:01"
+    },
     {
       "id": 43,
       "slug": "homestead-meadows",
