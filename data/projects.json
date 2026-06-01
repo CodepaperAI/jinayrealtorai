@@ -1,7 +1,228 @@
 {
   "version": 1,
-  "count": 24,
+  "count": 25,
   "projects": [
+    {
+      "id": 45,
+      "slug": "creekside-trail",
+      "project_name": "Creekside Trail",
+      "developer": null,
+      "city": "Cambridge",
+      "address": null,
+      "project_type": "stacked semi",
+      "status": "VIP launch",
+      "starting_price": 500000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/01-exterior-oxTv1pFx38shuR4MtsxEceNUzIU3Xz.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Creekside Trail: Final Cambridge Stacked Semis",
+          "subhead": "An intimate enclave of 36 stacked semi-detached homes by Will-O Homes at Myers Rd & Branchton Rd in central Cambridge.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/01-exterior-oxTv1pFx38shuR4MtsxEceNUzIU3Xz.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$500,000s"
+          },
+          {
+            "label": "Size",
+            "value": "1,600 sq ft"
+          },
+          {
+            "label": "Layout",
+            "value": "3 Bed / 2.5 Bath"
+          },
+          {
+            "label": "Total Homes",
+            "value": "36"
+          }
+        ],
+        "urgency_signals": [
+          "Final Release",
+          "Only 36 Homes",
+          "2 Parking Included",
+          "No Development Charges"
+        ],
+        "story_md": "Creekside Trail is an intimate pre-construction community of just 36 stacked semi-detached homes by Will-O Homes, taking shape at Myers Rd & Branchton Rd in central Cambridge. This is the final release of the project \u2014 spacious 1,600 sq ft three-bedroom layouts priced from the $500s, paired with one of the most aggressive incentive packages on the market today.\n\nThe product is built for buyers who want freehold-style space at townhome pricing. Creekside Trail Towns offers a limited selection of stacked semi townhomes situated in a well-established, close-knit community in central Cambridge, with single-level one-bedroom suites on the ground floor and two-story three-bedroom suites on the upper levels. Every home in this final phase includes two parking spots and a private 10x10 deck \u2014 features that typically command premiums in this segment.\n\nThe investor math is straightforward. No development charges, up to $20,000+ in free upgrades, and an HST rebate worth up to $130,000 strip meaningful cost out of the closing table. Deposit structure is $10,000 on signing and $10,000 on firm \u2014 a low capital barrier compared with downtown condo worksheets.\n\nLocation underwrites long-term rentability. Grand River Transit bus routes run within walking distance and connect to the ION LRT linking Kitchener and Waterloo, while Highway 401 is easily accessible and downtown Toronto is just over an hour away. Established schools, the Grand River trail system, and the University of Waterloo Cambridge campus all sit inside the catchment.",
+        "selling_points": [
+          {
+            "title": "Final Release, Final Pricing",
+            "body": "The closing phase of a 36-home enclave by Will-O Homes \u2014 spacious 1,600 sq ft, 3-bed / 2.5-bath stacked semis from the $500s."
+          },
+          {
+            "title": "Two Parking Spots Included",
+            "body": "Every home comes with two parking spots \u2014 rare for stacked product and a direct boost to resale and rental appeal."
+          },
+          {
+            "title": "Private 10x10 Deck",
+            "body": "Each unit includes a private 10x10 deck \u2014 usable outdoor space that distinguishes these homes from standard condo townhomes."
+          },
+          {
+            "title": "No Development Charges",
+            "body": "Development charges are removed from the purchase \u2014 a meaningful closing-cost saving versus comparable GTA pre-construction."
+          },
+          {
+            "title": "Up to $20,000+ in Free Upgrades",
+            "body": "Builder-included upgrade allowance lets buyers finish to spec without writing additional cheques at design selection."
+          },
+          {
+            "title": "HST Rebate up to $130,000",
+            "body": "Eligible investor and end-user buyers can recover up to $130,000 through the HST rebate program at closing."
+          }
+        ],
+        "suites": [
+          {
+            "type": "3B/2.5B Stacked Semi",
+            "sqft": "1,600",
+            "price_from": "$500s",
+            "notes": "Final release. Includes 2 parking and 10x10 deck."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "On firm",
+            "value": "$10,000",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "2 parking spots included",
+            "value": null
+          },
+          {
+            "title": "Private 10x10 deck included",
+            "value": null
+          },
+          {
+            "title": "No development charges",
+            "value": null
+          },
+          {
+            "title": "Up to $20,000+ in free upgrades",
+            "value": null
+          },
+          {
+            "title": "HST rebate up to $130,000",
+            "value": null
+          },
+          {
+            "title": "Free assignment",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Private 10x10 deck",
+          "Two parking spots per home",
+          "Stone countertops",
+          "Stainless steel kitchen sink",
+          "Vinyl plank flooring",
+          "Full 4-piece bath on bedroom level",
+          "Main-floor powder room"
+        ],
+        "location": {
+          "blurb": "Creekside Trail sits in an established central Cambridge neighbourhood at Myers Rd & Branchton Rd, minutes from downtown Cambridge and the Grand River trail system. Transit, Highway 401, and the University of Waterloo Cambridge campus are all within easy reach.",
+          "transit": [
+            "Grand River Transit bus routes within walking distance",
+            "ION LRT connection to Kitchener & Waterloo",
+            "1-min drive to Hwy 8",
+            "Hwy 401 accessible \u2014 downtown Toronto ~1 hr"
+          ],
+          "schools": [
+            "Moffat Creek Public School",
+            "Holy Spirit Catholic Elementary School",
+            "Cambridge Christian School",
+            "University of Waterloo Cambridge Site"
+          ],
+          "retail": [
+            "FreshCo (5-min drive)",
+            "Canadian Tire (5-min drive)",
+            "Downtown Cambridge dining & shopping",
+            "Byng Conservation Area & Grand River trails"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/01-exterior-oxTv1pFx38shuR4MtsxEceNUzIU3Xz.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/08-exterior-7w9VS6ducUd40CesKBPWZfRuLm9DF2.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/09-exterior-XH1MDlOsPQ5GGKPUcAMv1s9W4Pbqy7.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/11-exterior-9AexQD7CQ1Z6rLp0xGW9FGp35Y94lV.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/03-interior-i2lq3SxY6JOK3UgmW887XazIHleuqU.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekside-trail/13-interior-F42jWtn0zrTIYy2aelmgbpi5pQ1y6v.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Will-O Homes",
+          "blurb": "Will-O Homes is a Kitchener-Waterloo region builder focused on custom-built neighbourhoods. The company emphasizes craftsmanship and detail across its Cambridge, Kitchener, and Waterloo communities."
+        },
+        "faq": [
+          {
+            "q": "What is the deposit structure?",
+            "a": "$10,000 on signing and $10,000 on firm \u2014 a low-entry deposit compared with typical GTA pre-construction worksheets."
+          },
+          {
+            "q": "Is assignment permitted?",
+            "a": "Yes \u2014 free assignment is part of the incentive package on this release."
+          },
+          {
+            "q": "How big are the homes and what's included?",
+            "a": "Final-release homes are 1,600 sq ft, 3 bedrooms and 2.5 bathrooms, and include 2 parking spots plus a private 10x10 deck."
+          },
+          {
+            "q": "What's the HST rebate worth?",
+            "a": "Eligible buyers can recover up to $130,000 via the HST rebate program at closing."
+          },
+          {
+            "q": "Who is the developer?",
+            "a": "Will-O Homes, a Kitchener-Waterloo region builder constructing a 36-unit stacked semi community at Myers Rd & Branchton Rd in Cambridge."
+          }
+        ],
+        "meta": {
+          "title": "Creekside Trail by Will-O Homes | Cambridge Pre-Construction",
+          "description": "Final release of stacked semis at Creekside Trail in Cambridge \u2014 1,600 sq ft, 3-bed homes from the $500s with 2 parking, no DCs, and HST rebate up to $130K."
+        },
+        "sources": [
+          "https://myinvestmentbrokers.com/projects/creekside-trail/",
+          "https://www.willohomes.com/projects/creekside-trail",
+          "https://condonow.com/Creekside-Trail-Towns"
+        ]
+      },
+      "updated_at": "2026-06-01 14:16:57"
+    },
     {
       "id": 44,
       "slug": "mattamy--carrington",
