@@ -1,7 +1,216 @@
 {
   "version": 1,
-  "count": 20,
+  "count": 21,
   "projects": [
+    {
+      "id": 40,
+      "slug": "riverbank-place",
+      "project_name": "Riverbank Place",
+      "developer": null,
+      "city": "Mississauga",
+      "address": "Mississauga Road, south of Eglinton Avenue, Mississauga, ON",
+      "project_type": "townhome / semi-detached",
+      "status": "public launch",
+      "starting_price": null,
+      "price_per_sqft": null,
+      "unit_count": 36,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/01-exterior-RenobbOg3V4vsfnMgjvoJN44o6aKe0.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Riverbank Place: Freehold Towns on Mississauga Road",
+          "subhead": "A boutique 36-home enclave of freehold townhomes and semis near the Credit River, minutes to Erin Mills and Credit Valley Hospital.",
+          "urgency_chip": "Public Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/01-exterior-RenobbOg3V4vsfnMgjvoJN44o6aKe0.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "~$1,000,000"
+          },
+          {
+            "label": "Homes",
+            "value": "36"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3 (optional 4th)"
+          },
+          {
+            "label": "Tenure",
+            "value": "Freehold"
+          }
+        ],
+        "urgency_signals": [
+          "Only 36 homes",
+          "Ravine-facing lots available",
+          "$0 Assignment Fee",
+          "First-come, first-served"
+        ],
+        "story_md": "Riverbank Place is a boutique freehold community of 32 townhomes and 4 semi-detached homes set along Mississauga Road, just south of Eglinton Avenue West, in the heart of Erin Mills. The site sits in a community renowned for its stately homes, mature trees, and enduring value, with proximity to shops, parks, top schools, downtown Mississauga, Credit Valley Hospital, Erin Mills Town Centre, and major highways.\n\nThis is a freehold opportunity \u2014 no condo corporation, no monthly maintenance fees on title. Every home includes a private backyard, full basement, private driveway, and garage, with select lots offering ravine views, pie-shaped configurations, and walk-out basements. Flexible 3-bedroom plans can be configured with an optional 4th bedroom for growing families or work-from-home setups.\n\nFor investors, the fundamentals are tight: prices estimated to be starting from $1,000,000 across just 36 units, in an established Mississauga Road enclave with constrained new-build supply. Direct access to Highways 403, 401, 407, and the QEW makes commuting across the GTA effortless, MiWay transit and nearby GO stations connect to downtown Toronto, and Credit Valley Hospital, Erin Mills Town Centre, and the University of Toronto Mississauga are all minutes away.\n\nThe launch incentive package stacks well: up to $130,000 in HST Rebate value, a $20,000 Decor Dollar Credit, one year of POTL fees waived, $2,500 capped development charges, and a $0 assignment fee \u2014 meaningful flexibility for end-users and investors alike. Best lots are being released on a first-come, first-served basis.",
+        "selling_points": [
+          {
+            "title": "Freehold title, no condo fees",
+            "body": "32 freehold townhomes and 4 semi-detached homes \u2014 ownership on title with no condo corporation overhead."
+          },
+          {
+            "title": "Boutique 36-home release",
+            "body": "A limited collection on Mississauga Road south of Eglinton, in one of Mississauga's most established residential enclaves."
+          },
+          {
+            "title": "Premium lot options",
+            "body": "Ravine-facing, pie-shaped, and walk-out basement lots available \u2014 typically rare in new builds at this price point."
+          },
+          {
+            "title": "Flexible 3-bed layouts",
+            "body": "Every plan is 3 bedrooms with an optional 4th bedroom configuration for families, guests, or a home office."
+          },
+          {
+            "title": "Stacked launch incentives",
+            "body": "Up to $130,000 HST Rebate, $20,000 Decor Dollar Credit, 1 year free POTL fees, $2,500 capped levies, and $0 assignment fee."
+          },
+          {
+            "title": "Built by Kingridge Developments",
+            "body": "Founded by Daniel Marion in 2013, Kingridge has completed 250,000 square feet of commercial condominiums with another 600,000 square feet of commercial and residential in active development."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Freehold Townhome \u2014 3BR (optional 4th)",
+            "sqft": "",
+            "price_from": "From ~$1M",
+            "notes": "32 homes in the release; private backyard, full basement, driveway, garage."
+          },
+          {
+            "type": "Semi-Detached \u2014 3BR (optional 4th)",
+            "sqft": "",
+            "price_from": "",
+            "notes": "Only 4 homes in the release; select ravine and walk-out basement lots."
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with the HST Rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "$20,000 Decor Dollar Credit",
+            "value": "$20,000"
+          },
+          {
+            "title": "1 Year FREE POTL Fees",
+            "value": null
+          },
+          {
+            "title": "$0 Assignment Fee",
+            "value": null
+          },
+          {
+            "title": "$2,500 Capped Development Charges",
+            "value": "$2,500"
+          }
+        ],
+        "amenities": [
+          "Private backyard",
+          "Full basement",
+          "Private driveway",
+          "Garage",
+          "Ravine-facing lots available",
+          "Pie-shaped lots available",
+          "Walk-out basements available"
+        ],
+        "location": {
+          "blurb": "Riverbank Place sits along Mississauga Road just south of Eglinton Avenue West, near the Credit River in Erin Mills. Direct access to Highways 403, 401, 407, and the QEW makes commuting across the GTA effortless, MiWay transit and nearby GO stations connect to downtown Toronto, and Credit Valley Hospital, Erin Mills Town Centre, and the University of Toronto Mississauga are all minutes away.",
+          "transit": [
+            "Hwy 403, 401, 407 & QEW access",
+            "Erindale GO Station nearby",
+            "MiWay bus on Eglinton Ave W"
+          ],
+          "schools": [
+            "St. Rose of Lima Catholic School",
+            "University of Toronto Mississauga (minutes away)"
+          ],
+          "retail": [
+            "Erin Mills Town Centre",
+            "Square One Shopping Centre",
+            "Credit Valley Hospital",
+            "River Grove Park"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/01-exterior-RenobbOg3V4vsfnMgjvoJN44o6aKe0.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/04-exterior-69aLhMLu1advHTSFQppOR2kzdJdytH.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/15-exterior-exgCkkHaPZKe0Z6JElItbeyvbi9bGN.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/09-neighbourhood-SpECWI1ea9tEiwxKhIwkbXFdpHMtbe.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/14-neighbourhood-9wklmWTl53nasUUXfXV8czZohiAxj9.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/riverbank-place/03-interior-r3mrclKiaYEigbeHquSlL6nejpff2C.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Kingridge Developments",
+          "blurb": "Kingridge Developments was started by Daniel Marion in 2013 after more than a decade in GTA real estate development; since 2013 the company has completed 250,000 square feet of commercial condominiums with another 600,000 square feet of commercial and residential in active development."
+        },
+        "faq": [
+          {
+            "q": "What is Riverbank Place?",
+            "a": "Riverbank Place is a boutique freehold community of 32 townhomes and 4 semi-detached homes on Mississauga Road, just south of Eglinton Avenue West in Erin Mills, Mississauga."
+          },
+          {
+            "q": "Are these freehold or condominium?",
+            "a": "Freehold. The community consists of 32 freehold townhomes and 4 semi-detached homes \u2014 no condo corporation. A POTL (common-element) fee applies, and the developer is covering the first year of POTL fees."
+          },
+          {
+            "q": "What is the starting price?",
+            "a": "Prices estimated to be starting from $1,000,000 across the 36-unit release."
+          },
+          {
+            "q": "What incentives are being offered at launch?",
+            "a": "Up to $130,000 with the HST Rebate, a $20,000 Decor Dollar Credit, 1 year of free POTL fees, $2,500 capped development charges, and a $0 assignment fee."
+          },
+          {
+            "q": "Can I assign my home before closing?",
+            "a": "Yes \u2014 the launch package includes a $0 assignment fee, giving investors and end-users added flexibility prior to closing."
+          }
+        ],
+        "meta": {
+          "title": "Riverbank Place Towns by Kingridge \u2014 Mississauga Pre-Construction",
+          "description": "Riverbank Place: 36 freehold towns & semis on Mississauga Road by Kingridge Developments. From ~$1M. Save up to $130K HST + $20K decor credit."
+        },
+        "sources": [
+          "https://riverbankplace.com/",
+          "https://www.kingridgedevelopments.ca/about",
+          "https://www.condoroyalty.com/riverbank-place"
+        ]
+      },
+      "updated_at": "2026-06-01 13:58:47"
+    },
     {
       "id": 39,
       "slug": "brookfield-residential--midhurst-valley",
