@@ -1,7 +1,209 @@
 {
   "version": 1,
-  "count": 22,
+  "count": 23,
   "projects": [
+    {
+      "id": 43,
+      "slug": "homestead-meadows",
+      "project_name": "Homestead Meadows",
+      "developer": null,
+      "city": "Keswick",
+      "address": null,
+      "project_type": "detached",
+      "status": "VIP launch",
+      "starting_price": 799000.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/01-exterior-42HJFlyaiBsKlWXUzzVAbv5XdbzdrM.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Homestead Meadows: Detached Homes in Keswick",
+          "subhead": "Ballymore Homes' new master-planned community of 32' and 36' detached homes minutes from Lake Simcoe, priced from $799,000 after HST rebate.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/01-exterior-42HJFlyaiBsKlWXUzzVAbv5XdbzdrM.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$799,000*"
+          },
+          {
+            "label": "Home Type",
+            "value": "32' & 36' Detached"
+          },
+          {
+            "label": "Size",
+            "value": "1,583\u20132,758 sq ft"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3\u20134"
+          }
+        ],
+        "urgency_signals": [
+          "Minutes to Lake Simcoe",
+          "Hwy 404 corridor access",
+          "VIP pricing & floor plans",
+          "Up to $10,000 Decor Dollars"
+        ],
+        "story_md": "Homestead Meadows is a new pre-construction community of 32' and 36' detached homes by Ballymore Homes, located at Old Homestead Road and The Queensway North in Keswick (Town of Georgina). Nestled in the heart of Keswick, the community offers the blend of comfort, convenience, and community, with beautifully designed homes and thoughtfully planned surroundings where your family's next chapter begins.\n\nThe release pairs a family-friendly product mix \u2014 3 to 4 bedrooms, up to 3.5 baths, and floor plans stretching to 2,758 sq ft \u2014 with a location that delivers on both lifestyle and commute. Cook's Bay shoreline, the Georgina Ice Palace, and Orchard Beach Golf & Country Club are within easy reach, while Hwy 404 carries commuters south to Newmarket, Aurora, and the broader GTA. Thoughtfully designed with modern homes, expansive green spaces, and unbeatable convenience, Homestead Meadows brings together the best of family living and urban access, close to schools, parks, shopping, and major highways.\n\nFor buyers, the math is straightforward. 32' detached homes start from $799,000 after the HST rebate (a saving of up to $130,000), with 36' homes from $914,000. Ballymore is layering in $5,000\u2013$10,000 in Decor Dollars depending on frontage, plus the standard VIP package of first-access floor plans and best lot selection. With the best lots expected to move on a first-come, first-served basis, the VIP window is the moment to lock in pricing before public release.\n\nSince 1995, the principals of Ballymore Homes have concentrated their construction and business experience in the Ontario housing industry on the goal of designing and building quality homes, with expertise spanning town planning, land development, and construction across virtually every area in and around Metro Toronto including Keswick, Aurora, Markham, Richmond Hill, Stouffville, Sutton, and Innisfil.",
+        "selling_points": [
+          {
+            "title": "Detached from $799,000*",
+            "body": "32' detached homes start from $799k after HST rebate; 36' homes from $914k \u2014 among the most accessible new-build detached pricing in the York Region market."
+          },
+          {
+            "title": "Save up to $130,000",
+            "body": "Pricing is advertised after the HST rebate, meaning the builder is passing the full rebate value directly back to qualified buyers."
+          },
+          {
+            "title": "Floor plans up to 2,758 sq ft",
+            "body": "Choose between 32' and 36' lots with 3\u20134 bedrooms, 2.5\u20133.5 baths, and 1\u20132 car garages to suit growing families."
+          },
+          {
+            "title": "Lake Simcoe lifestyle",
+            "body": "Minutes from Cook's Bay beaches, the Georgina Ice Palace, and Orchard Beach Golf & Country Club, with everyday retail and schools close to home."
+          },
+          {
+            "title": "Hwy 404 commuter access",
+            "body": "Direct connection to the Hwy 404 corridor links Keswick to Newmarket, Aurora, and the broader GTA, with YRT bus service and nearby GO Train stations."
+          },
+          {
+            "title": "Built by Ballymore Homes",
+            "body": "A multi-decade Ontario builder active across the GTA since 1995, with experience spanning town planning, land development, and construction."
+          }
+        ],
+        "suites": [
+          {
+            "type": "32' Detached",
+            "sqft": "1,703\u20132,478",
+            "price_from": "$799K*",
+            "notes": "3\u20134 Bed, 2.5 Bath, 1\u20132 car garage. Includes $5,000 Decor Dollars."
+          },
+          {
+            "type": "36' Detached",
+            "sqft": "1,583\u20132,758",
+            "price_from": "$914K*",
+            "notes": "3\u20134 Bed, 2.5\u20133.5 Bath, 2 car garage. Includes $10,000 Decor Dollars."
+          }
+        ],
+        "deposit_timeline": [],
+        "incentives": [
+          {
+            "title": "HST rebate \u2014 save up to $130,000",
+            "value": "Price advertised after rebate"
+          },
+          {
+            "title": "Decor Dollars on 32' Detached",
+            "value": "$5,000"
+          },
+          {
+            "title": "Decor Dollars on 36' Detached",
+            "value": "$10,000"
+          },
+          {
+            "title": "VIP access to pricing & floor plans",
+            "value": null
+          },
+          {
+            "title": "First access to best lot selection",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Minutes to Lake Simcoe & Cook's Bay",
+          "Expansive green spaces",
+          "Close to schools",
+          "Nearby parks",
+          "Easy access to Hwy 404",
+          "Family-friendly community"
+        ],
+        "location": {
+          "blurb": "Homestead Meadows sits at Old Homestead Road and The Queensway North in Keswick (Town of Georgina), minutes from Cook's Bay on Lake Simcoe. Hwy 404 connects residents south to Newmarket, Aurora, and the GTA, with YRT bus service in town and GO Train access via Newmarket and Aurora stations.",
+          "transit": [
+            "Direct access to Hwy 404 corridor",
+            "YRT bus service to Newmarket & Aurora",
+            "GO Train via Newmarket / Aurora stations"
+          ],
+          "schools": [
+            "Keswick High School catchment"
+          ],
+          "retail": [
+            "Cook's Bay shoreline & beaches",
+            "Georgina Ice Palace",
+            "Orchard Beach Golf & Country Club",
+            "Southlake Regional Health Centre (Newmarket)"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/01-exterior-42HJFlyaiBsKlWXUzzVAbv5XdbzdrM.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/03-exterior-k61lgoNv5t0pq5l9El6ZHHEgTUWM5y.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/04-exterior-N4jl9x2BYvnU28pluvyO8ZhVvvv6eY.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/15-amenity-uTwO0Uy75TWdsYkdGRnZ9CzmHk2LUi.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/homestead-meadows/17-interior-JUFF3Q2h3MfMsLStWTE8DijzRdzFYy.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Ballymore Homes",
+          "blurb": "Since 1995, Ballymore Homes has built communities across the GTA \u2014 from estate homes on golf courses to full-scale neighbourhoods of detached homes and townhomes in markets including Keswick, Aurora, Markham, Richmond Hill, Stouffville, and Innisfil."
+        },
+        "faq": [
+          {
+            "q": "What home types and sizes are available at Homestead Meadows?",
+            "a": "The release features 32' detached homes from 1,703\u20132,478 sq ft (3\u20134 Bed, 2.5 Bath, 1\u20132 car garage) and 36' detached homes from 1,583\u20132,758 sq ft (3\u20134 Bed, 2.5\u20133.5 Bath, 2 car garage)."
+          },
+          {
+            "q": "What are the starting prices?",
+            "a": "32' detached homes start from $799,000 and 36' detached homes start from $914,000 \u2014 both advertised after the HST rebate of up to $130,000."
+          },
+          {
+            "q": "What incentives are being offered?",
+            "a": "The HST rebate is built into the advertised price (save up to $130,000), plus $5,000 in Decor Dollars on 32' Detached homes and $10,000 in Decor Dollars on 36' Detached homes."
+          },
+          {
+            "q": "Where exactly is the community located?",
+            "a": "Homestead Meadows is at Old Homestead Road and The Queensway North in Keswick, within the Town of Georgina, minutes from Lake Simcoe's Cook's Bay shoreline."
+          },
+          {
+            "q": "Who is the builder?",
+            "a": "Ballymore Homes \u2014 an Ontario builder active since 1995 with experience in town planning, land development, and construction across the GTA."
+          }
+        ],
+        "meta": {
+          "title": "Homestead Meadows by Ballymore Homes | Keswick Pre-Construction",
+          "description": "New 32' & 36' detached homes in Keswick from $799,000 after HST rebate. VIP launch by Ballymore Homes \u2014 floor plans up to 2,758 sq ft, minutes to Lake Simcoe."
+        },
+        "sources": [
+          "https://ballymorehomes.ca/communities/homestead-meadows/",
+          "https://ballymorehomes.com/communities/homestead-meadows/features.html",
+          "https://ballymorehomes.com/"
+        ]
+      },
+      "updated_at": "2026-06-01 14:08:33"
+    },
     {
       "id": 41,
       "slug": "creekview-collective",
