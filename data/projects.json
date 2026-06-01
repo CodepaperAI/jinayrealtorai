@@ -1,7 +1,268 @@
 {
   "version": 1,
-  "count": 21,
+  "count": 22,
   "projects": [
+    {
+      "id": 41,
+      "slug": "creekview-collective",
+      "project_name": "Creekview Collective",
+      "developer": null,
+      "city": "Milton",
+      "address": null,
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": null,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": null,
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/01-exterior-FdjhwiqUo4Uz6ir10WyPW4qSSsnBwd.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Creekview Collective: Family Towns in Milton",
+          "subhead": "Branthaven's 122-home ravine-side community in Milton's Clarke neighbourhood \u2014 back-to-back, rear-lane, and traditional towns with up to 6 bedrooms.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save up to $130,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/01-exterior-FdjhwiqUo4Uz6ir10WyPW4qSSsnBwd.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$639,990"
+          },
+          {
+            "label": "Size",
+            "value": "1,250\u20132,305 sq ft"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "2\u20136"
+          },
+          {
+            "label": "Occupancy",
+            "value": "Summer 2027"
+          }
+        ],
+        "urgency_signals": [
+          "Phase 1 over 95% sold",
+          "5 min to Milton GO",
+          "Up to 4-car parking",
+          "Legal basement suite option"
+        ],
+        "story_md": "Creekview Collective is a new townhome community by Branthaven at 9755 Derry Road in Milton's established Clarke neighbourhood, featuring 122 modern townhomes ranging from 1,250 to 2,305 sq. ft. with 2\u20136 bedroom layouts and legal basement apartment options. Set against the Creekview Ravine, the enclave blends three distinct architectural collections \u2014 21' back-to-back towns, 20' rear-lane towns, and spacious 23' 2-storey backyard towns ranging from 1,250 to 2,305 sq. ft. with 2\u20136 bedroom options and up to 4-car parking \u2014 so growing families, multi-generational households, and investors all find a fit.\n\nInside, Branthaven's Light-filled layouts, FlexFit\u2122 floorplans, and Fresh Thinking\u2122 finishes \u2014 including quartz countertops, 9-foot ceilings, oak stairs, and semi-frameless showers \u2014 are all included with no extra cost. The FlexFit program lets buyers tailor the layout to real life, whether that means a home office, a basement rec room, or a legal secondary suite. The 20' Rear Lane Towns include a legal secondary apartment option with separate entrance, ideal for rental income or multi-generational living \u2014 a meaningful edge in a market where mortgage-helper income matters.\n\nLocation reinforces the long-term thesis. Residents have everyday essentials close at hand such as primary and high schools, nine neighbourhood parks, multi-use trails, shopping, and the Milton GO Station only five minutes away, with quick access to Highways 401 and 407. Milton's Halton Region is targeting 1.1 million residents by 2051, and the planned Milton Education Village \u2014 a joint Wilfrid Laurier University and Conestoga College campus \u2014 adds an education-driven growth lever to the corridor.\n\nFor pre-construction buyers, Branthaven's incentive stack is real money. Creekview Collective offers development charges capped at $0, free assignment, free lawyer review, free mortgage arrangements, 24 months free POTL, A/C included, and a 6-piece appliance package, and first-time buyers purchasing at Creekview Collective may save up to $130,000 with Ontario's PST relief and federal GST rebate on new construction homes under $1,000,000.",
+        "selling_points": [
+          {
+            "title": "Three town collections, one community",
+            "body": "Choose from 21' back-to-back, 20' rear-lane, and 23' traditional backyard towns spanning 1,250\u20132,305 sq ft with 2\u20136 bedrooms."
+          },
+          {
+            "title": "Up to $130,000 in HST/PST savings",
+            "body": "First-time buyer pricing taps Ontario's PST relief and the federal GST rebate on new construction homes under $1,000,000."
+          },
+          {
+            "title": "Legal basement suite option",
+            "body": "Select Rear Lane towns include a legal secondary apartment with separate entrance \u2014 a built-in mortgage helper or in-law setup."
+          },
+          {
+            "title": "Investor-grade incentive stack",
+            "body": "Development charges capped at $0, $0 assignment, 24 months free POTL, A/C included, plus a 6-piece appliance package."
+          },
+          {
+            "title": "5 minutes to Milton GO & Hwy 401",
+            "body": "Direct commuter access to Toronto and the broader GTA, with Highway 407 reachable via Derry Road West and Fourth Line."
+          },
+          {
+            "title": "Branthaven Fresh Thinking\u2122 included",
+            "body": "Quartz counters, 9-foot ceilings, oak stairs, semi-frameless showers, and an Ecobee smart thermostat come standard \u2014 not as upgrades."
+          }
+        ],
+        "suites": [
+          {
+            "type": "21' Back-to-Back Towns",
+            "sqft": "1,250\u20131,650",
+            "price_from": "$699,990",
+            "notes": "2\u20133 bedrooms, 2\u20133 car parking \u2014 the better condo alternative."
+          },
+          {
+            "type": "20' Rear Lane Towns",
+            "sqft": "1,990\u20132,205",
+            "price_from": "$889,990",
+            "notes": "3\u20136 bedrooms, up to 4-car parking, legal basement apartment option."
+          },
+          {
+            "type": "23' 2-Storey Backyard Towns",
+            "sqft": "1,885\u20132,305",
+            "price_from": "$899,990",
+            "notes": "4\u20136 bedrooms, 2-car parking, traditional private backyards."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "$5,000",
+            "due_at": null
+          },
+          {
+            "label": "30 days",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "90 days",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "120 / 150 / 180 days",
+            "value": "$10,000 each",
+            "due_at": null
+          },
+          {
+            "label": "240 days",
+            "value": "$10,000 (Back-to-Back total: $65K)",
+            "due_at": null
+          },
+          {
+            "label": "270 & 330 days",
+            "value": "Rear Lane / Traditional extend to $75K total",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Save up to $130,000 with PST relief + GST rebate",
+            "value": "$130,000"
+          },
+          {
+            "title": "Development charges capped at $0",
+            "value": null
+          },
+          {
+            "title": "$0 assignment (legal fees and conditions apply)",
+            "value": null
+          },
+          {
+            "title": "24 months free POTL fees",
+            "value": null
+          },
+          {
+            "title": "A/C included + 6-piece appliance package",
+            "value": null
+          },
+          {
+            "title": "Free lawyer review & mortgage arrangements",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Creekview Ravine setting",
+          "Clarke Neighbourhood North & South Parks",
+          "Multi-use trails",
+          "Village square & parkettes",
+          "Private backyards or balconies",
+          "Up to 4-car parking",
+          "Legal secondary suite option (select plans)",
+          "Quartz countertops",
+          "9-foot ceilings",
+          "Oak stairs",
+          "Semi-frameless showers",
+          "Ecobee smart thermostat"
+        ],
+        "location": {
+          "blurb": "Creekview Collective sits at 9755 Derry Road West in Milton's established Clarke neighbourhood, surrounded by parks, trails, and two converging streams. Milton GO and Highway 401 are roughly five minutes away, with Highway 407 reachable via Derry Road and Fourth Line.",
+          "transit": [
+            "~5 min to Milton GO Station",
+            "~5 min to Highway 401",
+            "Highway 407 via Derry Rd W & Fourth Line",
+            "Local Milton Transit bus routes"
+          ],
+          "schools": [
+            "Irma Coulson Public School",
+            "Bruce Trail Public School",
+            "\u00c9cole \u00c9l\u00e9mentaire Dyane-Adam",
+            "Guardian Angels Catholic Elementary School",
+            "St. Anthony of Padua Catholic Elementary",
+            "Future Milton Education Village (Wilfrid Laurier / Conestoga College)"
+          ],
+          "retail": [
+            "Milton Mall",
+            "Milton District Hospital",
+            "Royal Ontario Golf Club",
+            "Kelso & Rattlesnake Point Conservation Areas",
+            "Local caf\u00e9s, restaurants, and grocery minutes away"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/01-exterior-FdjhwiqUo4Uz6ir10WyPW4qSSsnBwd.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/02-exterior-5rV7a2n6oTuHriAwjOdVhXml7wwa9s.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/12-amenity-IsidTS6tl2AkMuSnnAKhcoZWBa7Yo5.jpg",
+            "category": "amenity",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/03-interior-JHrhgY7WkL8e0l0fzj9dnKOwE878i8.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/09-interior-6rHfVP92W5b8Q0ZTVphAfsWYCeaL5e.jpg",
+            "category": "interior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/creekview-collective/10-interior-Xoy8oYXMnRo2tibJP3mofHVASaQpNz.jpg",
+            "category": "interior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Branthaven Homes",
+          "blurb": "Founded in Burlington in 1971, Branthaven is a family-owned Canadian builder with over 50 years of award-winning experience delivering single-family homes, townhomes, condos, and master-planned communities across Southern Ontario."
+        },
+        "faq": [
+          {
+            "q": "When is occupancy?",
+            "a": "Construction is set to begin Fall 2026, with occupancy slated for Summer 2027."
+          },
+          {
+            "q": "What does the deposit structure look like?",
+            "a": "Back-to-Back towns require roughly $65,000 total over 240 days, starting with $5,000 on signing followed by $10,000 installments. Rear Lane and Traditional towns extend to approximately $75,000 over 330 days."
+          },
+          {
+            "q": "Are assignments allowed?",
+            "a": "Yes \u2014 Branthaven is offering $0 assignment at Creekview Collective (legal fees and conditions apply)."
+          },
+          {
+            "q": "Can I add a legal basement apartment?",
+            "a": "Yes. The 20' Rear Lane Towns include a legal secondary suite option with a separate entrance, suited to rental income or multi-generational living."
+          },
+          {
+            "q": "How do I save up to $130,000 on HST?",
+            "a": "First-time buyers purchasing a new construction home under $1,000,000 can stack Ontario's PST relief with the federal GST rebate for combined savings of up to $130,000."
+          }
+        ],
+        "meta": {
+          "title": "Creekview Collective Towns by Branthaven | Milton Pre-Construction",
+          "description": "122 family-sized townhomes by Branthaven in Milton's Clarke neighbourhood from $639,990. Up to 6 bedrooms, legal basement suites, Summer 2027 occupancy."
+        },
+        "sources": [
+          "https://www.branthaven.com/communities/creekview-collective/",
+          "https://thecreekviewtowns.ca/",
+          "https://www.livabl.com/articles/news/branthaven-introduces-creekview-collective-towns-in-miltons-established-clarke-neighbourhood"
+        ]
+      },
+      "updated_at": "2026-06-01 14:03:21"
+    },
     {
       "id": 40,
       "slug": "riverbank-place",
