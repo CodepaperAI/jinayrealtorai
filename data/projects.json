@@ -1,7 +1,241 @@
 {
   "version": 1,
-  "count": 26,
+  "count": 27,
   "projects": [
+    {
+      "id": 47,
+      "slug": "fernbrook-tiffany-park--mapleview-park",
+      "project_name": "Mapleview Park",
+      "developer": "Fernbrook Homes & Tiffany Park Homes",
+      "city": "Barrie",
+      "address": "Mapleview Drive E & 20th Sideroad, South Barrie, ON",
+      "project_type": "townhome",
+      "status": "VIP launch",
+      "starting_price": 609900.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": "2027-Q1",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1hc7afj6HzTQYtd3sHR93uDXwBusrQxvZ",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook-tiffany-park--mapleview-park/03-exterior-WTHeKucsDkECt42QftPCk4ynWjz5ph.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Mapleview Park: Freehold Towns in South Barrie",
+          "subhead": "Rear-lane freehold townhomes by Fernbrook & Tiffany Park Homes, minutes from Lake Simcoe and the Barrie South GO Station.",
+          "urgency_chip": "VIP Launch",
+          "savings_chip": "Save approx. $50,000",
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook-tiffany-park--mapleview-park/03-exterior-WTHeKucsDkECt42QftPCk4ynWjz5ph.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Starting",
+            "value": "$609,900"
+          },
+          {
+            "label": "Size",
+            "value": "1,484\u20131,540 sq ft"
+          },
+          {
+            "label": "Bedrooms",
+            "value": "3"
+          },
+          {
+            "label": "Closings",
+            "value": "Early 2027"
+          }
+        ],
+        "urgency_signals": [
+          "4 min to South Barrie GO",
+          "Dev levies capped at $0",
+          "Assignments allowed",
+          "$60K total deposit"
+        ],
+        "story_md": "Mapleview Park (MVP) is a master-planned freehold community at Mapleview Drive East & 20th Sideroad in fast-growing South Barrie. This release brings 3-bedroom rear-lane townhomes priced from $609,900, with approximately $50,000 in credits tied to the proposed 2026 Enhanced HST Rebate. Homes range from 1,484 to 1,540 sq ft across the Poplar interior, Poplar End, and Poplar Corner Lot designs \u2014 all two-storey plans with single-car garage plus driveway for two-car parking.\n\nThe location is the underwriting story. Barrie South GO Train station is just down the street from MVP, and residents here can travel to Union Station in as little as 90 minutes, with regular train or bus service available 7 days a week. Highway 400 is minutes south, opening rapid access to Vaughan, Toronto and cottage country to the north. Pick up everyday essentials just 5 minutes away at Walmart or Costco, and sample over a dozen local restaurants less than 10 minutes away.\n\nFor buyers and investors, the deal stack is straightforward: freehold tenure (no monthly maintenance fee), a graduated $60,000 deposit spread over 150 days, capped development levies, and builder-permitted assignments. Bonus inclusions cover 9' main-floor ceilings, vinyl plank flooring on the main and second floors, oak staircases, granite kitchen counters, and stainless steel appliances \u2014 finishes that typically sit in the upgrade column at this price point.\n\nThe broader community is the long-term moat. Mapleview Park is an all-new community of over 900 family homes in South Barrie, located just minutes from the shores of Lake Simcoe's Kempenfelt Bay. With early 2027 closings, this VIP release lets buyers lock in 2026 pricing on a freehold product in one of Ontario's most active growth markets.",
+        "selling_points": [
+          {
+            "title": "Freehold towns from $609,900",
+            "body": "Two-storey rear-lane townhomes, 1,484\u20131,540 sq ft, with single-car garage plus driveway for two-car parking. No condo fees."
+          },
+          {
+            "title": "~$50,000 in HST rebate credits",
+            "body": "Builder is crediting approximately $50,000 against purchase price, tied to the proposed 2026 Enhanced HST Rebate program; purchaser must qualify on closing."
+          },
+          {
+            "title": "Development levies capped at $0",
+            "body": "Capped at zero by the builder, removing one of the largest unknowns on closing day for pre-construction buyers."
+          },
+          {
+            "title": "4 min to South Barrie GO",
+            "body": "Regular train or bus service to Union Station in as little as 90 minutes, available 7 days a week \u2014 a real GTA commuter play."
+          },
+          {
+            "title": "Assignments permitted",
+            "body": "Assignment is available subject to builder terms, giving investors flexibility ahead of the early 2027 closings."
+          },
+          {
+            "title": "Premium finishes included",
+            "body": "9' main-floor ceilings, oak staircases, granite kitchen counters, stainless appliances, and vinyl plank flooring across both floors \u2014 standard, not upgrade."
+          }
+        ],
+        "suites": [
+          {
+            "type": "Poplar \u2013 3 Bed Interior",
+            "sqft": "1,484",
+            "price_from": "$609,900",
+            "notes": "Two-storey rear-lane town with single-car garage + driveway."
+          },
+          {
+            "type": "Poplar End \u2013 3 Bed",
+            "sqft": "1,540",
+            "price_from": "$655,900",
+            "notes": "End-unit premium with added windows."
+          },
+          {
+            "type": "Poplar Corner Lot \u2013 3 Bed",
+            "sqft": "1,540",
+            "price_from": "$665,900",
+            "notes": "Corner lot configuration."
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "On signing",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "30 days",
+            "value": "$5,000",
+            "due_at": null
+          },
+          {
+            "label": "60 days",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "90 days",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "120 days",
+            "value": "$10,000",
+            "due_at": null
+          },
+          {
+            "label": "150 days",
+            "value": "$15,000",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Approx. $50,000 in credits (2026 Enhanced HST Rebate)",
+            "value": "$50,000"
+          },
+          {
+            "title": "Development levies capped at $0",
+            "value": null
+          },
+          {
+            "title": "Assignments available (subject to builder terms)",
+            "value": null
+          },
+          {
+            "title": "9' main / 8' second floor ceilings",
+            "value": null
+          },
+          {
+            "title": "Vinyl plank flooring throughout main & second floor",
+            "value": null
+          },
+          {
+            "title": "Granite counters + stainless steel kitchen appliances",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Rear-lane single-car garage + driveway",
+          "Private rear courtyard (~9'\u00d714')",
+          "Covered front porch",
+          "Sunken laundry room",
+          "Glass shower ensuite",
+          "Oak staircase",
+          "Unfinished basement w/ 3-pc rough-in",
+          "Community parks & green spaces",
+          "Minutes to Lake Simcoe beaches"
+        ],
+        "location": {
+          "blurb": "Mapleview Drive East & 20th Sideroad in South Barrie, four minutes from the Barrie South GO Station and minutes from Highway 400. Located just minutes from the shores of Lake Simcoe's Kempenfelt Bay, homeowners enjoy lakeside living along with downtown Barrie's city conveniences.",
+          "transit": [
+            "4 min to Barrie South GO Station",
+            "~90 min GO Train to Union Station",
+            "Minutes to Highway 400 south"
+          ],
+          "schools": [
+            "<cite index=\"19-13\">Mapleview Heights Public School</cite>",
+            "<cite index=\"19-13\">St. Peter's Catholic Secondary</cite>",
+            "<cite index=\"19-13\">Hewitt's Creek Public School</cite>",
+            "<cite index=\"19-14\">Georgian College ~15 minutes away</cite>"
+          ],
+          "retail": [
+            "Walmart & Costco ~5 min along Mapleview Dr",
+            "Big Bay Point Road retail corridor",
+            "<cite index=\"3-8\">Tanger Outlets less than 15 minutes via Hwy 400</cite>",
+            "Downtown Barrie dining on Bayfield Road"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook-tiffany-park--mapleview-park/03-exterior-WTHeKucsDkECt42QftPCk4ynWjz5ph.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/fernbrook-tiffany-park--mapleview-park/04-exterior-7VrdrO2Ez4EK4MUXhLFE5b8ZUz9GWn.jpg",
+            "category": "exterior",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Fernbrook Homes & Tiffany Park Homes",
+          "blurb": "<cite index=\"3-9,3-10\">Fernbrook Homes is one of Canada's leading builders, widely recognized for architectural integrity, classic design, and outstanding customer service.</cite> <cite index=\"3-8\">Tiffany Park Homes has grown from a small family business into one of the GTA's most reputable builders, with thousands of homes built over 20 years.</cite>"
+        },
+        "faq": [
+          {
+            "q": "What is the total deposit and structure?",
+            "a": "$60,000 total, paid as $10,000 on signing, $5,000 at 30 days, $10,000 at 60 days, $10,000 at 90 days, $10,000 at 120 days, and $15,000 at 150 days."
+          },
+          {
+            "q": "When are closings?",
+            "a": "Early 2027 closings are available for this release."
+          },
+          {
+            "q": "Are assignments allowed?",
+            "a": "Yes \u2014 assignments are permitted subject to the builder's standard terms."
+          },
+          {
+            "q": "How does the $50,000 credit / HST rebate work?",
+            "a": "The advertised price is inclusive of applicable taxes. The credit is contingent on the proposed 2026 Enhanced HST Rebate (or similar program) being enacted into law and the purchaser qualifying on closing. If the rebate is not enacted, amended, or unavailable, the purchaser is responsible for the HST amount on closing."
+          },
+          {
+            "q": "What parking is included?",
+            "a": "Two-car parking \u2014 a single-car rear-lane garage plus driveway space."
+          }
+        ],
+        "meta": {
+          "title": "Mapleview Park Towns | Fernbrook Homes | South Barrie Pre-Construction",
+          "description": "Freehold 3-bed rear-lane townhomes from $609,900 in South Barrie by Fernbrook & Tiffany Park Homes. ~$50K credits, $60K deposit, early 2027 closings."
+        },
+        "sources": [
+          "https://mvpbarrie.com/",
+          "https://condoinvestments.ca/property/mapleview-park-mvp-south-barrie/",
+          "https://www.gta-homes.com/barrie-condos/mvp-mapleview-park/"
+        ]
+      },
+      "updated_at": "2026-06-04 19:35:19"
+    },
     {
       "id": 46,
       "slug": "time",
