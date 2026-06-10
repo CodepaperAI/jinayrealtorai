@@ -1,7 +1,191 @@
 {
   "version": 1,
-  "count": 3,
+  "count": 4,
   "projects": [
+    {
+      "id": 7,
+      "slug": "brookfield-residential--newbrook",
+      "project_name": "Newbrook",
+      "developer": "Brookfield Residential",
+      "city": "Newcastle",
+      "address": "North St & Concession Rd 3, Newcastle (Clarington), ON",
+      "project_type": "mixed-use",
+      "status": "VIP launch",
+      "starting_price": 653990.0,
+      "price_per_sqft": null,
+      "unit_count": null,
+      "completion_date": null,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1BuTfLs5xML47l6DUsNLW1k4KxAP42zak",
+      "cover_image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/04-exterior-zDxQiQQU56w8B0dsaOz3kJoElKsPGz.jpg",
+      "cover_image_source": "gallery[0]:exterior:blob",
+      "page_plan": {
+        "hero": {
+          "headline": "Newbrook Newcastle",
+          "subhead": "VIP launch \u00b7 mixed-use \u00b7 in Newcastle",
+          "urgency_chip": "VIP launch",
+          "savings_chip": null,
+          "image_url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/04-exterior-zDxQiQQU56w8B0dsaOz3kJoElKsPGz.jpg"
+        },
+        "quick_stats": [
+          {
+            "label": "Status",
+            "value": "VIP launch"
+          },
+          {
+            "label": "Type",
+            "value": "mixed-use"
+          },
+          {
+            "label": "City",
+            "value": "Newcastle"
+          }
+        ],
+        "urgency_signals": [
+          "First release in a landmark master-planned community in Newcastle \u2014 Towns from $599,991* (net HST)",
+          "Zero Development Charges on all home types \u2014 a significant savings passed directly to buyers",
+          "Diverse product mix: 25' Towns, 32'/38'/43' Singles, Bungalows, and true Duplex homes for multi-generational living or rental income",
+          "Premium standard finishes: quartz countertops, hardwood flooring, 9' ceilings, frameless glass showers, electric fireplace, and myCommand smart home package included",
+          "5 minutes to Hwy 401 and 8 minutes to Hwy 407; close to GO Transit and VIA Rail for easy GTA commuting",
+          "Family-oriented community surrounded by parks, top schools (French Immersion, AP, IB programs), marinas, and Lake Ontario waterfront",
+          "Backed by 70+ years of award-winning Brookfield Residential expertise \u2014 J.D. Power, Tarion Builder of the Year, GTA Low-Rise Builder of the Year"
+        ],
+        "story_md": "Newbrook is a master-planned pre-construction community by Brookfield Residential situated at Beaver Street South & Mill Street South in Newcastle, Ontario (Municipality of Clarington, Durham Region). The offering spans freehold townhomes and detached singles on 32', 38', and 43' lots up to 3,300 sq ft, with traditional and contemporary architecture. Incentives include capped development levies and assignment, with Platinum VIP pricing and first-access floor plans available through early registration. With Durham Region's sustained population growth and limited ground-oriented supply, Newbrook represents a strong long-term land-value play within the GTA commuter belt.",
+        "selling_points": [
+          {
+            "title": "First release in a landmark master-planned community in Newcastle \u2014 To",
+            "body": "First release in a landmark master-planned community in Newcastle \u2014 Towns from $599,991* (net HST)"
+          },
+          {
+            "title": "Zero Development Charges on all home types \u2014 a significant savings pas",
+            "body": "Zero Development Charges on all home types \u2014 a significant savings passed directly to buyers"
+          },
+          {
+            "title": "Diverse product mix: 25' Towns, 32'/38'/43' Singles, Bungalows, and tr",
+            "body": "Diverse product mix: 25' Towns, 32'/38'/43' Singles, Bungalows, and true Duplex homes for multi-generational living or rental income"
+          },
+          {
+            "title": "Premium standard finishes: quartz countertops, hardwood flooring, 9' c",
+            "body": "Premium standard finishes: quartz countertops, hardwood flooring, 9' ceilings, frameless glass showers, electric fireplace, and myCommand smart home package included"
+          },
+          {
+            "title": "5 minutes to Hwy 401 and 8 minutes to Hwy 407; close to GO Transit and",
+            "body": "5 minutes to Hwy 401 and 8 minutes to Hwy 407; close to GO Transit and VIA Rail for easy GTA commuting"
+          }
+        ],
+        "suites": [
+          {
+            "type": "25' Townhomes (Ashford, Daniel, Mandria, Sterling): 1,380\u20132,080 sq ft, from $653,990",
+            "notes": ""
+          },
+          {
+            "type": "32' Singles (Blackburn, Berkeley, Dover, Kilkenny): 1,570\u20132,190 sq ft, from $819,990",
+            "notes": ""
+          },
+          {
+            "type": "38' Singles (Langford, Lancaster Bungaloft, Conwy, Edinburgh, Leeds, Windsor, Arundel, Aberdeen Duplex): 2,000\u20132,940 sq ft, from $924,990",
+            "notes": ""
+          },
+          {
+            "type": "43' Singles (Harrington, Somerset Bungaloft, Eltz, Hampton, Donan, Featherstone Duplex): 2,280\u20133,360 sq ft, from $1,074,990",
+            "notes": ""
+          }
+        ],
+        "deposit_timeline": [
+          {
+            "label": "Deposit",
+            "value": "Towns: $10,000 on Signing | $20,000 in 30 Days | $10,000 in 60, 90, 120 & 150 Days (Total: $70,000); 32' Detached: $10,000 on Signing | $20,000 in 30, 60 & 90 Days | $10,000 in 120 & 150 Days (Total: $90,000); 38' Detached: $10,000 on Signing | $20,000 in 30, 60, 90, 120 & 150 Days (Total: $110,000); 43' Detached: $10,000 on Signing | $25,000 in 30 & 60 Days | $20,000 in 90, 120 & 150 Days (Total: $120,000)",
+            "due_at": null
+          }
+        ],
+        "incentives": [
+          {
+            "title": "Zero Development Charges",
+            "value": null
+          },
+          {
+            "title": "Towns: 6-Piece Stainless Steel Appliance Package (incl. white washer & dryer)",
+            "value": null
+          },
+          {
+            "title": "32' Detached: $7,500 in D\u00e9cor Upgrades",
+            "value": null
+          },
+          {
+            "title": "38' & 43' Detached: $10,000 in D\u00e9cor Upgrades",
+            "value": null
+          },
+          {
+            "title": "Platinum VIP Pricing & Floor Plans",
+            "value": null
+          }
+        ],
+        "amenities": [
+          "Future parks within community",
+          "Proposed elementary school on-site",
+          "Sports fields and basketball court (artist concept)",
+          "Walking trails",
+          "Nearby Diane Hamre Recreation Complex",
+          "Newcastle Memorial Arena",
+          "Newcastle Golf and Country Club",
+          "Newcastle Skatepark",
+          "Newcastle Dog Park",
+          "Waterfront Trail along Lake Ontario",
+          "Samuel Wilmot Nature Area & Trail",
+          "300 acres at Darlington Provincial Park",
+          "37 km of Lake Ontario shoreline",
+          "15 surrounding golf courses",
+          "100+ km of recreational trails across Clarington"
+        ],
+        "location": {
+          "blurb": "Direct access to Hwy 401; GO Transit connectivity puts downtown Toronto within commuting range via Oshawa GO station (~15 min drive).",
+          "transit": [
+            "Direct access to Hwy 401; GO Transit connectivity puts downtown Toronto within commuting range via Oshawa GO station (~15 min drive)."
+          ],
+          "schools": [],
+          "retail": [
+            "Heritage downtown Newcastle \u2014 local shops, caf\u00e9s, restaurants minutes away",
+            "Parks, scenic pond, and extensive trail network within community",
+            "Local schools, sports complexes, and community arenas nearby",
+            "Grocery stores, pharmacies, and daily retail along Beaver St S corridor"
+          ]
+        },
+        "gallery": [
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/04-exterior-zDxQiQQU56w8B0dsaOz3kJoElKsPGz.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/05-exterior-IS0X2pZ8AdQfpAYacNBjDvvEJmComk.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/06-exterior-a3hsTdSi5OnKWmPav7jQT6bFWGRBd8.jpg",
+            "category": "exterior",
+            "caption": ""
+          },
+          {
+            "url": "https://5niwbdjm9zzqwla1.public.blob.vercel-storage.com/gallery/brookfield-residential--newbrook/03-neighbourhood-kESwvCMFdVFdayz64V4h31maosSZa4.jpg",
+            "category": "neighbourhood",
+            "caption": ""
+          }
+        ],
+        "developer": {
+          "name": "Brookfield Residential",
+          "blurb": ""
+        },
+        "faq": [],
+        "meta": {
+          "title": "Newbrook",
+          "description": "VIP launch \u00b7 mixed-use \u00b7 in Newcastle"
+        },
+        "sources": [
+          "https://www.brookfieldresidential.com/new-homes/ontario/greater-toronto-area/newcastle/newbrook"
+        ]
+      },
+      "updated_at": "2026-06-10 22:33:30"
+    },
     {
       "id": 6,
       "slug": "london-student-rentals",
